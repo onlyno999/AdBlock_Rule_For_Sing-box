@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -333446,6 +333445,7 @@
         "waveland.sound.ag",
         "waves.retentionscience.com",
         "waves.sonardyne.com",
+        "wavesmachine.com",
         "wavrlh.cedok.cz",
         "wavzlt.michaelstars.com",
         "waw.rogerscommunicaitonp.tt.omtrdc.net",
@@ -352514,5 +352514,6 @@
         "zzww1a3e62zt91c04r.administrator.net.daraz.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
