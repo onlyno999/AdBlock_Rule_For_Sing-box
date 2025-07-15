@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -234699,6 +234698,7 @@
         "monterey.camsplanetlive.com",
         "montgolfiere-bagan.sound.ag",
         "montilla.treker.fun",
+        "montmena.top",
         "montpalatin.handicap.fr",
         "montrosecomputers.sound.ag",
         "monumentvets.sound.ag",
@@ -352513,5 +352513,6 @@
         "zzww1a3e62zt91c04r.administrator.net.daraz.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
