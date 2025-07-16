@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -328055,6 +328054,7 @@
         "uxci.sound.ag",
         "uxdse.sugarshape.de",
         "uxkurx.sportsmansguide.com",
+        "uxlog.next.koapp.com",
         "uxplora.davivienda.com",
         "uxqzcu.raunt.com",
         "uxtqtg.quattroruote.it",
@@ -352517,5 +352517,6 @@
         "zzww1a3e62zt91c04r.administrator.net.daraz.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
