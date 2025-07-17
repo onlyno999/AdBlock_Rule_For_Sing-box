@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -50221,6 +50222,7 @@
         "apptimize.com",
         "apptools2stg.sound.ag",
         "apptornado.com",
+        "apptracer.ru",
         "apptracker.gamedock.io",
         "apptracker.torob.com",
         "apptus.actonservice.com",
@@ -352527,6 +352529,5 @@
         "zzww1a3e62zt91c04r.administrator.net.daraz.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
