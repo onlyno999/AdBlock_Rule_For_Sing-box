@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -71801,6 +71800,7 @@
         "cookies.joneslanglasalle.co.jp",
         "cookies.joneslanglasalle.com.cn",
         "cookies.joneslanglasalle.com.vn",
+        "cookies.nos.nl",
         "cookies.praguebest.cz",
         "cookies.pro-idea.cz",
         "cookies.siemens-advanta.com",
@@ -352527,5 +352527,6 @@
         "zzww1a3e62zt91c04r.administrator.net.daraz.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
