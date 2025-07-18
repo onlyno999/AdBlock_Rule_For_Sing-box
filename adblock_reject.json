@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -209621,6 +209620,7 @@
         "kudmetrictestapi-partner.net.daraz.com",
         "kudoitruy-partner.net.daraz.com",
         "kudownloadsmarketing.net.daraz.com",
+        "kueezrtb.com",
         "kuelkmarketing.net.daraz.com",
         "kufileservere-partner.net.daraz.com",
         "kufoodmarketing.net.daraz.com",
@@ -352531,5 +352531,6 @@
         "zzww1a3e62zt91c04r.administrator.net.daraz.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
