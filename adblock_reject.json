@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -352535,5 +352534,6 @@
         "zzww1a3e62zt91c04r.administrator.net.daraz.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
