@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -279867,7 +279866,6 @@
         "sstats.belgiantrain.be",
         "sstats.bentleymotors.com",
         "sstats.bever.nl",
-        "sstats.bitdefender.com",
         "sstats.bnpparibasfortis.be",
         "sstats.bonappetit.com",
         "sstats.bookhostels.com",
@@ -352538,5 +352536,6 @@
         "zzww1a3e62zt91c04r.administrator.net.daraz.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
