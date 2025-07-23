@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -45165,6 +45164,7 @@
         "analytics.spearly.com",
         "analytics.sports.ru",
         "analytics.sposadeste.com",
+        "analytics.ssmas.com",
         "analytics.stadt-zuerich.ch",
         "analytics.stanby.com",
         "analytics.starlink.com",
@@ -344320,5 +344320,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
