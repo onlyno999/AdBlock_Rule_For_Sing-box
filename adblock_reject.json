@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -240887,6 +240886,7 @@
         "pangle-b.io",
         "pangle.io",
         "pangolin-sdk-toutiao-b.com",
+        "pangolin-sdk-toutiao.com",
         "pangolin16.isnssdk.com",
         "pangolin16.sgsnssdk.com",
         "pangu9download.sound.ag",
@@ -344330,5 +344330,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
