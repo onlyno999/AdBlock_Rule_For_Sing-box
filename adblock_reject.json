@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -77283,6 +77284,7 @@
         "datasplunk.united.tt.omtrdc.net",
         "datasshra.faz.tt.omtrdc.net",
         "datasshra3.com.tt.omtrdc.net",
+        "datastat.me",
         "datastatsservice-phx2.sonymobcomm.tt.omtrdc.net",
         "datastatsservice.valentino.tt.omtrdc.net",
         "datastax.prudentialdistributi.tt.omtrdc.net",
@@ -344331,6 +344333,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
