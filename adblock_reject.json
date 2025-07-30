@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -26550,6 +26551,7 @@
         "benouville24.sound.ag",
         "benrif-solutions.com",
         "bentleysystems.122.net.daraz.com",
+        "bentonow.com",
         "beoofo.pairs.lv",
         "beosossouth.northamerica.net.daraz.com",
         "beourguest.bobst.com",
@@ -28906,6 +28908,7 @@
         "cdn-channels-pixel.ex.co",
         "cdn-content.bmtx.com",
         "cdn-east.purchase.goto.com",
+        "cdn-eu.usefathom.com",
         "cdn-f.gr4vy.com",
         "cdn-gw-dv.vip",
         "cdn-image.com",
@@ -87664,6 +87667,7 @@
         "i.play.vividpicks.com",
         "i.pokerbros.net",
         "i.pokernex.net",
+        "i.posthog.com",
         "i.raise.me",
         "i.rttd.io",
         "i.sandbox.love",
@@ -156472,6 +156476,7 @@
         "track.bemestardavida.com",
         "track.bemestarharmonia.com",
         "track.bemmefiz.com.br",
+        "track.bentonow.com",
         "track.berliner-kurier.de",
         "track.bestbuy.ca",
         "track.bestportableacunits.com",
@@ -161070,7 +161075,6 @@
         "usearch-api.ariba.tt.omtrdc.net",
         "useast.datacygnal.io",
         "usebc.vertellis.nl",
-        "usefathom.com",
         "useful-info.iniks.jp",
         "usekahuna.com",
         "uselesslumber.com",
@@ -173633,6 +173637,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
