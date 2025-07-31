@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17915,6 +17914,7 @@
         "adm.ebs-partner.net.daraz.com",
         "adm.tyg.jp",
         "adm2.moseasia.com",
+        "adman.antenna.gr",
         "adman.gr",
         "admarketing.yahoo.net",
         "admarvel.com",
@@ -173639,5 +173639,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
