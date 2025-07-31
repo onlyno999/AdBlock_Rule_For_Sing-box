@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -33529,6 +33530,7 @@
         "clog.go.com",
         "clog.lghv.net",
         "clog.mirrativ.com",
+        "clog.tanshudata.com",
         "clog.weverse.io",
         "cloguidedfrontcar31.net.daraz.com",
         "cloisteredcurve.com",
@@ -173642,6 +173644,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
