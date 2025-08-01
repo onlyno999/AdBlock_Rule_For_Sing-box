@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -104137,6 +104138,7 @@
         "loadbalancerorigin.guitarcenter.tt.omtrdc.net",
         "loadbalanceruction.autoclubgroup.tt.omtrdc.net",
         "loadbalanorigin.pluralsight.tt.omtrdc.net",
+        "loadedhearts.com",
         "loader.adrelayer.com",
         "loader.auraherbals.pl",
         "loadercdn.com",
@@ -173644,6 +173646,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
