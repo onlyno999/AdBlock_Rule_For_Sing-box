@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -149402,6 +149401,7 @@
         "statistic-overseas.yunxinfw.com",
         "statistic.elkobraas.com",
         "statistic.jac-systeme.de",
+        "statistical-report.djiservice.org",
         "statistics-collector-api.listglobally.com",
         "statistics.11880.com",
         "statistics.bergland.de",
@@ -173649,5 +173649,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
