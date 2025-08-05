@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21062,6 +21063,7 @@
         "alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com",
         "alexa-mobile-analytics-configuration-prod.s3.amazonaws.com",
         "alexadev.tt.omtrdc.net",
+        "alexametrics.com",
         "alexandrabaderstaging.net.daraz.com",
         "alexandrabaderstagingstageconbert2mp3.net.daraz.com",
         "alexfj.elten-store.de",
@@ -161007,6 +161009,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
