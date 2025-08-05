@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19021,6 +19022,7 @@
         "adrian.users.webspecmail.com",
         "adright.com",
         "adropthorization.car40.net.daraz.com",
+        "ads-abc.com",
         "ads-alpha.ewscloud.com",
         "ads-ap-venues.yinzcam.com",
         "ads-api.kidsnote.com",
@@ -161014,6 +161016,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
