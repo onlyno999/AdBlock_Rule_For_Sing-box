@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39844,6 +39843,7 @@
         "coordinatedbedroom.com",
         "coordinatedcoat.com",
         "cooyxg.tennis-point.de",
+        "copilot-telemetry.githubusercontent.com",
         "copperjav182.fun",
         "copycarpenter.com",
         "copyrightaccesscontrols.com",
@@ -106417,6 +106417,7 @@
         "metrics.kadcyla.com",
         "metrics.kangojango.com.br",
         "metrics.kao.com",
+        "metrics.kapa.ai",
         "metrics.kataloge.dertouristik.info",
         "metrics.kay.com",
         "metrics.kbb.com",
@@ -161009,5 +161010,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
