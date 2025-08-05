@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -108175,6 +108176,7 @@
         "mozi.01-caauthenticate21-10-authenticate-oa-1.net.daraz.com",
         "mozi.apidocs-winter.net.daraz.com",
         "mp-api.afafb.com",
+        "mp.cwtv.com",
         "mp.digital.wilhelmsen.com",
         "mp.maropost.com",
         "mp.pitchero.com",
@@ -161017,6 +161019,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
