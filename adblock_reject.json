@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -23155,6 +23156,7 @@
         "analytics.techem.de",
         "analytics.tedium.co",
         "analytics.teespring.com",
+        "analytics.tempmail100.com",
         "analytics.tenson.com",
         "analytics.test.cheggnet.com",
         "analytics.thegroupbuyexperiment.com",
@@ -142698,6 +142700,7 @@
         "telemetry.sentara.com",
         "telemetry.sentarahealthplans.com",
         "telemetry.services.yofi.ai",
+        "telemetry.sgp.pvp.net",
         "telemetry.soundcloud.com",
         "telemetry.stryker.com",
         "telemetry.svc.transifex.net",
@@ -161010,6 +161013,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
