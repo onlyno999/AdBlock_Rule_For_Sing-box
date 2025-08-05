@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22592,6 +22593,7 @@
         "analytics.fisiocomputer.com",
         "analytics.fitnessfirst.fi",
         "analytics.fletcherliving.co.nz",
+        "analytics.flexclip.com",
         "analytics.flexpay.io",
         "analytics.float-in.pt",
         "analytics.floorsbv.nl",
@@ -161003,6 +161005,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
