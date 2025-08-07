@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -84812,7 +84813,6 @@
         "htrji.mazeliving.co.uk",
         "htrog.threewarriors.com.au",
         "httjs.davidscookies.com",
-        "httpdns-push.heytapmobile.com",
         "httpdns.bilivideo.com",
         "httpool.com",
         "https-filtering-check.adtidy.org",
@@ -101319,6 +101319,7 @@
         "log.tpns.gz2.tencent.com",
         "log.tpns.tencent.com",
         "log.trackingio.com",
+        "log.trend.rankify.best",
         "log.ttbc-hcm.gov.vn",
         "log.ultimatecleaner.pro",
         "log.umsns.com",
@@ -161023,6 +161024,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
