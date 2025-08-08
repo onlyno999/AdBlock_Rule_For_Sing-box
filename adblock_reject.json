@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -46557,6 +46558,7 @@
         "dk.arjo.com",
         "dk.contact.alphabet.com",
         "dk45agakx3yfl.cloudfront.net",
+        "dkaktsb.icu",
         "dkbicq.elektramat.nl",
         "dkclxi.sitkagear.com",
         "dkdst.coopsleepgoods.com",
@@ -161027,6 +161029,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
