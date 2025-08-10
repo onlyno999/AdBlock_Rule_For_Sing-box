@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -148833,6 +148834,7 @@
         "trygvesta.tt.omtrdc.net",
         "tryonline.bid",
         "tryrewave-ss.zavydeals.com",
+        "ts-analysis.shoalter.com",
         "ts.archbee.com",
         "ts.beechhalljoinery.co.uk",
         "ts.buyinsulationonline.co.uk",
@@ -161027,6 +161029,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
