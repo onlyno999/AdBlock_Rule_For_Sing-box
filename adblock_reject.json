@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -15405,6 +15404,7 @@
         "analytic20.detik.com",
         "analytics-aac-venues.yinzcam.com",
         "analytics-api.a-f.io",
+        "analytics-api.gemcommerce.com",
         "analytics-api.invideo.io",
         "analytics-api.liveapp.com",
         "analytics-api.samsunghealthcn.com",
@@ -166104,5 +166104,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
