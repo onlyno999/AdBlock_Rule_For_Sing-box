@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -23888,6 +23887,7 @@
         "cdnx.villaggiorelaislemagnolie.it",
         "cdp.americanexpress.ch",
         "cdp.cashback-cards.ch",
+        "cdp.cloud.unity.cn",
         "cdp.miles-and-more-cards.ch",
         "cdp.yna.co.kr",
         "cdrive.compellent.com",
@@ -89552,6 +89552,7 @@
         "logon.andbeyond.media",
         "logperf.vnexpress.net",
         "logql.yahoo.co.jp",
+        "logr-ingest.com",
         "logrocket.com",
         "logs-ingress.svc.vinted.com",
         "logs-partners.coupang.com",
@@ -163797,5 +163798,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
