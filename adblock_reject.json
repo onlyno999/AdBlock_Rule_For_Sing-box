@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -20565,6 +20564,7 @@
         "beacon.eleos.co.uk",
         "beacon.examiner.com",
         "beacon.geniee.jp",
+        "beacon.gtv-pub.com",
         "beacon.gu-web.net",
         "beacon.gutefrage.net",
         "beacon.indieclicktv.com",
@@ -166105,5 +166105,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
