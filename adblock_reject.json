@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -104846,6 +104845,7 @@
         "prm.vitanova.dk",
         "prm.xserver.ne.jp",
         "prn.gaysme.com",
+        "pro-1w-dataaggregator.onelouder.com",
         "pro-news.net",
         "pro-web.net",
         "pro.adrofx.com",
@@ -125356,6 +125356,7 @@
         "st1.bhol.co.il",
         "st1.lg.avendrealouer.fr",
         "st10.sofi.com",
+        "sta-events.swishapps.ai",
         "sta.coroadeflor.com",
         "sta.tirexo.ink",
         "sta.tracedock.com",
@@ -163804,5 +163805,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
