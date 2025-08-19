@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -149569,6 +149570,7 @@
         "uawefo.guylook.co.kr",
         "uawuau.thejulius.co.kr",
         "uazmti.a101.com.tr",
+        "ub-analytics.com",
         "ub-xjp.vvbrd.com",
         "ub.finanzfrage.net",
         "ubarcodespartneroad-r-oa-2.net.daraz.com",
@@ -163802,6 +163804,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
