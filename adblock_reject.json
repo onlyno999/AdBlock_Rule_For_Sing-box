@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -28010,6 +28009,7 @@
         "collect.q10-koenzym.no",
         "collect.rbcroyalbank.com",
         "collect.realignedtechnologies.com",
+        "collect.rebelmouse.io",
         "collect.rtl.lu",
         "collect.sas.com",
         "collect.scleasing.dk",
@@ -134825,6 +134825,7 @@
         "stats.tou.tv",
         "stats.townnews.com",
         "stats.tradingacademy.com",
+        "stats.traffective.cloud",
         "stats.training.fit",
         "stats.trainsley69.me",
         "stats.transactional.blog",
@@ -163820,5 +163821,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
