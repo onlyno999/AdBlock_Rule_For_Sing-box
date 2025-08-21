@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -23978,6 +23979,7 @@
         "cf852ff956.eef857d1fa.com",
         "cf9e554a8a.4353740d36.com",
         "cf9fba9e00.d3089f6c34.com",
+        "cfa-js.cafe24.com",
         "cfa.advisorchannel.com",
         "cfa.febtest.com",
         "cfa.fidelity.com",
@@ -163822,6 +163824,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
