@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -13945,6 +13946,7 @@
         "ads-console.recon.com",
         "ads-delivery.gunosy.com",
         "ads-delivery.milenarmedia.pt",
+        "ads-dmp-collect.kr.karrotmarket.com",
         "ads-dot-fbc-web-2018.uc.r.appspot.com",
         "ads-game-configuration-master.ads.prd.ie.internal.unity3d.com",
         "ads-gdl.imovideo.ru",
@@ -58969,6 +58971,7 @@
         "event.impression-neo.naver.com",
         "event.jma.or.jp",
         "event.karrotmarket.com",
+        "event.kr.karrotmarket.com",
         "event.lib.visumo.io",
         "event.lifecare.com.my",
         "event.mail.dreamcargiveaways.co.uk",
@@ -163828,6 +163831,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
