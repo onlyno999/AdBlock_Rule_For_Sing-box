@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -149709,6 +149708,7 @@
         "udashboard-lib-ln-2oads-lib-oa-1.net.daraz.com",
         "udbdf-v2.nimo.tv",
         "udc.msn.com",
+        "udc.yahoo.com",
         "udecoad.net.daraz.com",
         "udesignstaging-stagehasani.net.daraz.com",
         "udesignstaging.staging.rail.net.daraz.com",
@@ -163822,5 +163822,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
