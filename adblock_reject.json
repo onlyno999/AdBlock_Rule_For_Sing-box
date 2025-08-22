@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -73293,6 +73294,7 @@
         "htrji.mazeliving.co.uk",
         "htrog.threewarriors.com.au",
         "httjs.davidscookies.com",
+        "http-inputs-notion.splunkcloud.com",
         "httpdns.bilivideo.com",
         "httpglobalid3.click.s11.sfmc-osl.com",
         "httpool.com",
@@ -163832,6 +163834,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
