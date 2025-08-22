@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17561,6 +17560,7 @@
         "api.datinghelp.dk",
         "api.datingxperten.de",
         "api.deafios.com.br",
+        "api.deeplink.dev",
         "api.designerexpert.com.br",
         "api.diegorial.com",
         "api.digitalpiloten.org",
@@ -22462,6 +22462,7 @@
         "c.archden.org",
         "c.axioshq.com",
         "c.bazo.io",
+        "c.bazu.cc",
         "c.bigmir.net",
         "c.bloblohub.com",
         "c.civo.com",
@@ -58960,6 +58961,7 @@
         "event.dfinery.io",
         "event.entreprises-collectivites.engie.fr",
         "event.evtm.53.com",
+        "event.flareflow.tv",
         "event.geniee-search.net",
         "event.gitexfuturehealth.com",
         "event.gitexnigeria.ng",
@@ -163834,5 +163836,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
