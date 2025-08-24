@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -139505,7 +139506,6 @@
         "telemetry.sentara.com",
         "telemetry.sentarahealthplans.com",
         "telemetry.services.yofi.ai",
-        "telemetry.sgp.pvp.net",
         "telemetry.soundcloud.com",
         "telemetry.stryker.com",
         "telemetry.svc.transifex.net",
@@ -163848,6 +163848,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
