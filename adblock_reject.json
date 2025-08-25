@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -79573,6 +79572,7 @@
         "hpcduz.shoemall.com",
         "hpe.tt.omtrdc.net",
         "hpfiv.cordsclub.com",
+        "hpfkvr.icu",
         "hpgkpwi0o2zmtuz-p.adkoffer.fr",
         "hphtjv.orellfuessli.ch",
         "hpinm.runwayroguebeauty.com",
@@ -160623,5 +160623,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
