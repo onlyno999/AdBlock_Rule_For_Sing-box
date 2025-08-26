@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -118022,6 +118023,7 @@
         "sdk.adtiming.com",
         "sdk.airbridge.io",
         "sdk.appsflyer.com",
+        "sdk.optimove.net",
         "sdk.starbolt.io",
         "sdk.stats-locations.com",
         "sdkconfig.ad.intl.xiaomi.com",
@@ -160625,6 +160627,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
