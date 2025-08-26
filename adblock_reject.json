@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -152987,6 +152988,7 @@
         "wcdizz.vanessdeco.com",
         "wch.t-marketing.jp",
         "wchjfv.apartmenttherapy.com",
+        "wcl.shinhancard.com",
         "wcmail.strp.chat",
         "wcsbck.ecareer.ne.jp",
         "wct-2.com",
@@ -153895,6 +153897,7 @@
         "wl.yna.co.kr",
         "wlcyyw.gabangpop.co.kr",
         "wldx4gam0nbow1d-p.adkclicker.fr",
+        "wlg.shinhancard.com",
         "wlkojk.orange.ro",
         "wlog.ifdo.co.kr",
         "wlog.ksapisrv.com",
@@ -154060,6 +154063,7 @@
         "wqwkta.casadopapel.com.br",
         "wr-test.vsee.me",
         "wr.safefleet.net",
+        "wrc.shinhancard.com",
         "wren.camdenmecc.org.uk",
         "wren.femi.io",
         "wrenchgroup.tt.omtrdc.net",
@@ -160626,6 +160630,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
