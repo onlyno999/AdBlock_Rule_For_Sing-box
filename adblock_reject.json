@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -30669,6 +30668,7 @@
         "d2f0ixlrgtk7ff.cloudfront.net",
         "d2fhjyz3dwdx87.cloudfront.net",
         "d2fnnovf9qvlf2.cloudfront.net",
+        "d2fuc4clr7gvcn.cloudfront.net",
         "d2g6dhcga4weul.cloudfront.net",
         "d2gpmwpabqtwgpcf.net.daraz.com",
         "d2ibu2ug0mt5qp.cloudfront.net",
@@ -160641,5 +160641,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
