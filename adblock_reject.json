@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -67415,6 +67414,7 @@
         "gala.met.vgwort.de",
         "galiciabanco.tt.omtrdc.net",
         "galileo.lunii.com",
+        "gallerieshub.com",
         "gallery.stailaus.fi",
         "gallerysouvlakeri.openapp.link",
         "gallonjav128.fun",
@@ -111006,6 +111006,7 @@
         "pianwela.xyz",
         "piatsakalamaki.openapp.link",
         "pibhjs.dongsuhfurniture.co.kr",
+        "pic-stash.com",
         "pic.bankonline.ge",
         "picarro.actonservice.com",
         "picfbb.golfshop.de",
@@ -160646,5 +160647,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
