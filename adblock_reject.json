@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -127133,7 +127132,6 @@
         "st.restricted-r-ht-2.net.daraz.com",
         "st.rhondabilodeau.com",
         "st.solariafestival.com.br",
-        "st.sooplive.co.kr",
         "st.sorayacastro.enf.br",
         "st.static-srv.com",
         "st.sunpoint.de",
@@ -154473,5 +154471,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
