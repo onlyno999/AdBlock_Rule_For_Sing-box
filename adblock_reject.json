@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -107247,7 +107246,6 @@
         "prm.xserver.ne.jp",
         "prn.gaysme.com",
         "prnzxf.glamira.se",
-        "pro-1w-dataaggregator.onelouder.com",
         "pro-news.net",
         "pro-patner.net.daraz.com",
         "pro-web.net",
@@ -154473,5 +154471,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
