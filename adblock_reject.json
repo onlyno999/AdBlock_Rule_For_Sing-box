@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -75159,6 +75160,7 @@
         "higbju.lovelingjewelry.co.kr",
         "higherone.tt.omtrdc.net",
         "highway.18manwa.com",
+        "highway.cablecar.sph.com.sg",
         "hijab.decentattire.com",
         "hijxfm.gaspedaal.nl",
         "hikari.jiocinema.com",
@@ -154471,6 +154473,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
