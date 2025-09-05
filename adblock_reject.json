@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22379,6 +22378,7 @@
         "bee.farmaciavdg.com",
         "bee.jbkmobiledj.com",
         "bee.shelveholidays.co.uk",
+        "bee.tc.easebar.com",
         "bee956aca2.90b8ae1064.com",
         "beebswwwav.net.daraz.com",
         "beedigital.padigital.es",
@@ -154485,5 +154485,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
