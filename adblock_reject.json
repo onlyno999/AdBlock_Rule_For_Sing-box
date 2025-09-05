@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -13902,6 +13903,7 @@
         "adbedgeexp.aircanada.com",
         "adbite.com",
         "adblade.com",
+        "adblock1.static-cloudflare.workers.dev",
         "adbmetrics.abc.es",
         "adbmetrics.blogasturias.com",
         "adbmetrics.diariosur.es",
@@ -154483,6 +154485,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
