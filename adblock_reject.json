@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -113630,6 +113629,7 @@
         "rain.franzy.com",
         "rain.journey.com",
         "rainbo9.com",
+        "rainbow-prod-jdlog.ldoverseas.com",
         "rainmaker.chiccams.com",
         "rainmaker.production-public.tubi.io",
         "rajshop.rajshop.com.bd",
@@ -159038,5 +159038,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
