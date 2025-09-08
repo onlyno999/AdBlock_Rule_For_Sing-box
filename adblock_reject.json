@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -13938,6 +13939,7 @@
         "adc-js.nine.com.au",
         "adc.9news.com.au",
         "adc.api.nine.com.au",
+        "adc.interia.pl",
         "adc.nine.com.au",
         "adc.xxxlshop.de",
         "adcamp.ru",
@@ -154487,6 +154489,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
