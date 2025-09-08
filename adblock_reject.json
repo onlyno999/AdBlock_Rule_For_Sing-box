@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -64355,6 +64354,7 @@
         "fpt.inxinternational.com",
         "fpt.norton.com",
         "fptls.com",
+        "fptls3.com",
         "fpvrgm.blackforestdecor.com",
         "fpxewa.ilmeteo.it",
         "fqbdn.footprintusa.co",
@@ -154490,5 +154490,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
