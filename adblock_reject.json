@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17424,6 +17425,7 @@
         "analytics.verizon.com",
         "analytics.verizonwireless.com",
         "analytics.vg",
+        "analytics.vgtimes.com",
         "analytics.viisviis.fi",
         "analytics.villagehouse.jp",
         "analytics.vinevida.com",
@@ -154490,6 +154492,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
