@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25267,6 +25268,7 @@
         "cdn.danwosd.cloud",
         "cdn.datateam.co.uk",
         "cdn.dawplm.com",
+        "cdn.debugbear.com",
         "cdn.decpo.xyz",
         "cdn.defractal.com",
         "cdn.delutza.com",
@@ -66995,6 +66997,7 @@
         "featureassets.org",
         "featured.perfectionholic.com",
         "featured.premiermedia.net",
+        "featuregates.org",
         "feavq.freeeasemd.com",
         "feb-r-ht-2.net.daraz.com",
         "febcyv.joshi-spa.jp",
@@ -87736,6 +87739,7 @@
         "lenpmh.francoisesaget.com",
         "lentaopz.xyz",
         "leo.goplay.be",
+        "leo.hepsiburada.com",
         "leo1.leon-de-bruxelles.fr",
         "leopard.davidlindahlphoto.com",
         "leopard.joytotheworld.info",
@@ -159040,6 +159044,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
