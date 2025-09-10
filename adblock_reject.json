@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25271,6 +25272,8 @@
         "cdn.decpo.xyz",
         "cdn.defractal.com",
         "cdn.delutza.com",
+        "cdn.deviceinf.com",
+        "cdn.dfsdk.com",
         "cdn.dminorschool.com",
         "cdn.dsspn.com",
         "cdn.eecd.xyz",
@@ -25393,6 +25396,7 @@
         "cdn.sdtraff.com",
         "cdn.seniorcarecounsel.com",
         "cdn.sentinelp.com",
+        "cdn.seonintelligence.com",
         "cdn.sgmntfy.com",
         "cdn.shrtfly.vip",
         "cdn.slots.baxter.olx.org",
@@ -159042,6 +159046,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
