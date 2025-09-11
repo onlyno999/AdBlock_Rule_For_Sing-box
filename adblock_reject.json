@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -79900,6 +79899,7 @@
         "hlqpie.waves.com",
         "hlreoc.gonuldensevenler.com",
         "hlrqi.lasioinc.com",
+        "hlstatus.com",
         "hlwxkuvq2sodpnf-p.adkplan.fr",
         "hlygsp.modivo.ro",
         "hm.houseofmirror.xyz",
@@ -159054,5 +159054,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
