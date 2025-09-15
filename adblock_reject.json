@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -136286,6 +136287,7 @@
         "stats.profilehunt.net",
         "stats.profitablesignpricing.com",
         "stats.projectcongress.com",
+        "stats.pronouns.page",
         "stats.propublica.org",
         "stats.psychotherapieravensburg.de",
         "stats.pubfind.io",
@@ -159039,6 +159041,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
