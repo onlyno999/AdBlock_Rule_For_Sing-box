@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -115620,6 +115621,7 @@
         "paywallapplication-spring.net.daraz.com",
         "pb.adriver.ru",
         "pb.i.sogou.com",
+        "pbc.nypost.com",
         "pbc.programbrokerage.com",
         "pbc.realtor.com",
         "pbc.wsj.com",
@@ -163976,6 +163978,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
