@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -143889,6 +143890,7 @@
         "talenteq.intuit.com",
         "talentsprint.epoise.com",
         "talentsprinttest.epoise.com",
+        "talkativeend.com",
         "tall.spankbanglive.com",
         "tallinksiljaoy.tt.omtrdc.net",
         "tally.bizanalyst.in",
@@ -163981,6 +163983,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
