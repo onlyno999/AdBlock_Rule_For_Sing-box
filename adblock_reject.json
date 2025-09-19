@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -118506,6 +118505,7 @@
         "mob.lowtid.fun",
         "mob2.healthapplines.com",
         "mob2.healthtrackergroup.com",
+        "mob2.musicgostudio.com",
         "mob2.mymusic2025.com",
         "moba8.net",
         "mobads.baidu.com",
@@ -155110,6 +155110,7 @@
         "tc.europcar.com.au",
         "tc.europcar.de",
         "tc.europcar.es",
+        "tc.mnbvcxzq.com",
         "tc.techieustad.com",
         "tc.v4company.com",
         "tcbphila.fmservice.com",
@@ -175244,5 +175245,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
