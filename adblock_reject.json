@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19709,7 +19710,6 @@
         "at.themewinter.com",
         "at.theporches.com",
         "at.track.yoursecurtrc.com",
-        "at.vodafone.de",
         "atarget.adelaide.edu.au",
         "atarget.csu.edu.au",
         "atarget.firstrepublic.com",
@@ -167060,7 +167060,6 @@
         "warrjy.feiler.jp",
         "was.epson.com",
         "was.stubhub.com",
-        "was.vodafone.de",
         "was.vodafone.nl",
         "wasc.homedepot.ca",
         "wasc.homedepot.com",
@@ -175245,6 +175244,5 @@
         "zzz.nafnaf.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
