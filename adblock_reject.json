@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -98041,6 +98040,7 @@
         "jrzfm.my-picture.co.uk",
         "jrzgcz.ciociariaoggi.it",
         "jrzgcz.latinaoggi.eu",
+        "js-collector.icewood.net",
         "js.allporncomic.com",
         "js.allporncomix.com",
         "js.cabnnr.com",
@@ -175244,5 +175244,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
