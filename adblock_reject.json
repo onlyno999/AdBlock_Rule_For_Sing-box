@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19344,6 +19343,7 @@
         "aroni.asteera.com",
         "arphzc.woodica.pl",
         "arqddo.prezzifarmaco.it",
+        "arrasinutile.com",
         "arrayasolutions.actonservice.com",
         "arrestjav182.fun",
         "arrietty.nrj.fr",
@@ -175246,5 +175246,6 @@
         "zzz.nafnaf.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
