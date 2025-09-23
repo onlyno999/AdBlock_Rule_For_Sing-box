@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24516,6 +24515,7 @@
         "cenjobs.acspubs.org",
         "cenmedia.acspubs.org",
         "cenpsn.creatework.jp",
+        "census-app.scorecardresearch.com",
         "centent.slreamplay.cc",
         "centermarkplacements.actonservice.com",
         "centerparcsoperating.tt.omtrdc.net",
@@ -175494,5 +175494,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
