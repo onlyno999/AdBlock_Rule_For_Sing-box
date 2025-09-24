@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -15816,6 +15815,7 @@
         "analytics-cdiscount.com",
         "analytics-cdn.levante-emv.com",
         "analytics-cdn.prensaiberica.es",
+        "analytics-cdn.sport.es",
         "analytics-cf.bigcrunch.com",
         "analytics-cfg-venues.yinzcam.com",
         "analytics-cgy-cfl.yinzcam.com",
@@ -16630,6 +16630,7 @@
         "analytics.portal.gov.bd",
         "analytics.posttv.com",
         "analytics.pravovyilider.com.ua",
+        "analytics.prensaiberica.es",
         "analytics.prestonhardware.com",
         "analytics.primadog.com",
         "analytics.pro-clima.cz",
@@ -175500,5 +175501,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
