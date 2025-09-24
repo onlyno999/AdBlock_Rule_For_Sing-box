@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21505,6 +21504,7 @@
         "behacdn.ksmobile.net",
         "behance.vo.llnwd.net",
         "behave.noen.at",
+        "behavior-tracking-event-gateway.imweb.me",
         "behavior.tongdun.net",
         "beijingzhongnanhai.com",
         "bejav-document.net.daraz.com",
@@ -175495,5 +175495,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
