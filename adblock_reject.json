@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -123119,6 +123118,7 @@
         "sdk.optimove.net",
         "sdk.starbolt.io",
         "sdk.stats-locations.com",
+        "sdkapi-prod.dfinery.ai",
         "sdkconfig.ad.intl.xiaomi.com",
         "sdkconfig.ad.xiaomi.com",
         "sdks.stats-locations.com",
@@ -175497,5 +175497,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
