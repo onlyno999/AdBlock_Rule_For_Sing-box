@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -116084,6 +116083,7 @@
         "quinceimaging.actonservice.com",
         "quincyhannibal.townsquaremedia.info",
         "quirklogic.actonservice.com",
+        "quirkybodega.com",
         "quiz.mayamedici.com",
         "quiz.motiyo.com",
         "quiz.resolucaoonline.com",
@@ -175505,5 +175505,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
