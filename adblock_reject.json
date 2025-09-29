@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -120048,6 +120047,7 @@
         "rudr-events.joybird.com",
         "rudy.strp.chat",
         "ruehg.dotcompliancegroup.com",
+        "rugfrfji.win",
         "rugttt.robinson.com",
         "ruhasszekreny-javhihi.net.daraz.com",
         "ruhasszekreny-nhentai.net.daraz.com",
@@ -175507,5 +175507,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
