@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -16578,6 +16577,7 @@
         "analytics.peraichi.com",
         "analytics.performanse.com",
         "analytics.perfumehouse.sa",
+        "analytics.pesktop.com",
         "analytics.petracarestore.com",
         "analytics.pgatour.com",
         "analytics.pgncs.notion.so",
@@ -175506,5 +175506,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
