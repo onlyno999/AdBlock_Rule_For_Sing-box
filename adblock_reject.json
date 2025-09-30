@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -12578,6 +12579,7 @@
         "adtima-media.zascdn.me",
         "adtima-static.zadn.vn",
         "adtimaserver.vn",
+        "adtmonetize.com",
         "adtorque.in",
         "adtrack-intl.ucweb.com",
         "adtrack.adleadevent.com",
@@ -135829,6 +135831,7 @@
         "tracciamentodati.lapidiprovvisorie.com",
         "trace.51jingying.com",
         "trace.bounce.17track.net",
+        "trace.free-reels.com",
         "trace.insead.edu",
         "trace.mjyx.com",
         "trace.popin.cc",
@@ -158688,6 +158691,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
