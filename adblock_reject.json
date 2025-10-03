@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -91319,6 +91318,7 @@
         "mcoyy8mkh3zj25o4.rgsdocker.net.daraz.com",
         "mcs-va.capcutapi.com",
         "mcs-va.tiktokv.com",
+        "mcs.tiktokv.us",
         "mcs.tiktokw.us",
         "mcs.zijieapi.com",
         "mct.paypay.ne.jp",
@@ -158701,5 +158701,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
