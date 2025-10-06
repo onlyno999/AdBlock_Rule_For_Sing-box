@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -105577,6 +105578,7 @@
         "rpjwzl.jungheinrich-profishop.ch",
         "rpkav.vitauthority.com",
         "rpkrt.getcasely.com",
+        "rplogs.itpub.cc",
         "rpmax-r-ln-2.net.daraz.com",
         "rpnvib.estilos.com.pe",
         "rpoqf.mark-taylor.com",
@@ -158703,6 +158705,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
