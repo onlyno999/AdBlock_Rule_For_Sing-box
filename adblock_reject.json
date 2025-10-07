@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -83070,6 +83071,7 @@
         "llsami.eauclair.kr",
         "llteig.framesdirect.com",
         "lltmch.zurifurniture.com",
+        "lltrck.com",
         "llutfo.get-nourished.com",
         "llvvfz.mariapiacasa.com.br",
         "llwoyl.mirraw.com",
@@ -154467,6 +154469,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
