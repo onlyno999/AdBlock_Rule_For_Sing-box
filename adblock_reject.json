@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -6721,7 +6722,6 @@
         "7ca04e04d0.fc97aea706.com",
         "7ca8089e72.f0b02e7c3f.com",
         "7ca85fa8fc.937e30a10b.com",
-        "7caa2.v.fwmrm.net",
         "7cc0dfc059.4497e71924.com",
         "7ce8c22128.62a77005fb.com",
         "7d04b01f44.a3517b4a5f.com",
@@ -11398,7 +11398,6 @@
         "ad.aucfan.com",
         "ad.aucview.com",
         "ad.audiencemanager.de",
-        "ad.auditude.com",
         "ad.autorace.jp",
         "ad.bandlab.io",
         "ad.belleeau.jp",
@@ -11786,7 +11785,6 @@
         "adex.predear.com",
         "adf.perfumesclub.com",
         "adf.underhentai.net",
-        "adfiles.auditude.com",
         "adflake.com",
         "adflyer.media",
         "adforgames.com",
@@ -22210,7 +22208,6 @@
         "cdn.asopn.com",
         "cdn.asrop.xyz",
         "cdn.aucey.com",
-        "cdn.auditude.com",
         "cdn.bahswl.com",
         "cdn.bambusystems.com",
         "cdn.batmobi.net",
@@ -22439,7 +22436,6 @@
         "cdn1.xvideohub.top",
         "cdn17.citizensbank.com",
         "cdn18685953.ahacdn.me",
-        "cdn2.auditude.com",
         "cdn2.intercambioexpress.com",
         "cdn2.moneycorp.com",
         "cdn2.picyield.com",
@@ -29133,7 +29129,6 @@
         "cvsctftp10.net.daraz.com",
         "cvshealth.tt.omtrdc.net",
         "cvsrepokeele-nnw-leis-mc-leis.net.daraz.com",
-        "cvt-s2.agl005.tech",
         "cvt1.sibnet.ru",
         "cvwfiy.dotcosmeticos.com.br",
         "cvzvun.vidaxl.de",
@@ -99468,7 +99463,6 @@
         "ota.re-covers.nl",
         "otapnh.minirodini.com",
         "otb.tt.omtrdc.net",
-        "otcdn2.auditude.com",
         "otfim.gurunanda.com",
         "otfur.craneandcanopy.com",
         "otglee.recman.pl",
@@ -147978,7 +147972,6 @@
         "www.attribution-day.com",
         "www.attributionday.com",
         "www.audiencemanager.de",
-        "www.auditude.com",
         "www.authentication.cloud.s11.sfmc-osl.com",
         "www.aviator-game.info",
         "www.aweis.strp.chat",
@@ -151648,7 +151641,6 @@
         "x-spacewww.gw-applications.net.daraz.com",
         "x-storage-a1.cir.io",
         "x.adactioner.com",
-        "x.appbaqend.com",
         "x.babe.today",
         "x.beast.gives",
         "x.coro.net",
@@ -154458,6 +154450,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
