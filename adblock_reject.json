@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -4831,7 +4830,6 @@
         "3608083.notifysrv.com",
         "3608417.notifysrv.com",
         "360f939bba.22101be88a.com",
-        "360yield.com",
         "3613079.notify6.com",
         "3613299.notifysrv.com",
         "3617.editor-qa1.marketingcloudqaapis.com",
@@ -11388,7 +11386,6 @@
         "ad-stats-reader.stg.01.eu-west-1.eu.olx.org",
         "ad-stats-writer.prd.01.eu-west-1.eu.olx.org",
         "ad-stats-writer.stg.01.eu-west-1.eu.olx.org",
-        "ad-stir.com",
         "ad-x.co.uk",
         "ad.320320.net",
         "ad.3dnews.ru",
@@ -11831,7 +11828,6 @@
         "adk.ezmob.com",
         "adk.mybestclick.net",
         "adk.nativeadsfeed.com",
-        "adkernel.com",
         "adkfilter.mybestclick.net",
         "adkmob.com",
         "adktrack.adkomo.com",
@@ -11917,7 +11913,6 @@
         "admit.mountsaintvincent.edu",
         "admitad.com",
         "admixer.co.kr",
-        "admixer.net",
         "admns.emailvisioneuropewestns2.net.daraz.com",
         "admozartxml.com",
         "admulti.com",
@@ -18778,7 +18773,6 @@
         "axl.stripchatgirls.com",
         "axljfv.therosebay.co.kr",
         "axnskz.power-stones.jp",
-        "axonix.com",
         "axonstechnology.actonservice.com",
         "axoqvl.daf-shoes.com",
         "axp.2822news.com",
@@ -95102,7 +95096,6 @@
         "meypeg.videdressing.co.uk",
         "meypeg.videdressing.com",
         "meypeg.videdressing.it",
-        "mfadsrvr.com",
         "mfbmc.shopmilano.com",
         "mff.fairconstruction.com",
         "mff.messefrankfurt.com",
@@ -96360,7 +96353,6 @@
         "mtb.tt.omtrdc.net",
         "mtbflj.elementaree.ru",
         "mtbhf.ragecreate.com",
-        "mtburn.com",
         "mtburn.jp",
         "mtc.jetstar.com",
         "mtc.pharmacyonline.co.uk",
@@ -104143,7 +104135,6 @@
         "publish.wallpon.com",
         "publisher-event.ads.prd.ie.internal.unity3d.com",
         "publisher-event.unityads.unity3d.com",
-        "pubmatic.com",
         "pubnative.info",
         "pubnative.net",
         "pubstr.acs.org",
@@ -106381,7 +106372,6 @@
         "reunion.tt.omtrdc.net",
         "reuniondepadres.unisabana.edu.co",
         "reva.myavlive.com",
-        "revcontent.com",
         "reveal.clearbit.com",
         "revengine-tracker.remp.dailymaverick.co.za",
         "revenueroll.com",
@@ -115739,7 +115729,6 @@
         "sm01.tklivechat.com",
         "sm12.stripchatgirls.com",
         "sm12.superchatlive.com",
-        "smaclick.com",
         "smade.otisopse.com",
         "smade.quellilainitaly.com",
         "smail.keeprecipes.com",
@@ -138703,7 +138692,6 @@
         "tractorsupply.tt.omtrdc.net",
         "trade.spy-fx.com",
         "trade.vigoindustries.com",
-        "tradeadexchange.com",
         "tradefarmmachinery.e.aremedia.com.au",
         "traderinteractive.tt.omtrdc.net",
         "tradeshow.edm.globalsources.com",
@@ -138721,7 +138709,6 @@
         "traffic.taktikal.is",
         "traffic.wdc.center",
         "traffichunt.com",
-        "trafficjunky.net",
         "trafficmanager.net",
         "trafficsyncpro.com",
         "trafico.prensaiberica.es",
@@ -144866,7 +144853,6 @@
         "vrg-sg-interaction.net.daraz.com",
         "vrhesh.avocadogreenmattress.com",
         "vrimh.wearfigs.com",
-        "vrizead.com",
         "vrmpb.brewsterbelt.com",
         "vroktu.dahong.co.kr",
         "vroomangroup.actonservice.com",
@@ -154473,5 +154459,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
