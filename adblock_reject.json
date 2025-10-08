@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -107992,6 +107993,7 @@
         "rum.conde.io",
         "rum.condenastdigital.com",
         "rum.corewebvitals.io",
+        "rum.hlx.page",
         "rum.uptime.com",
         "rumqlz.gooshoreca.nl",
         "rumsey.actonservice.com",
@@ -154450,6 +154452,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
