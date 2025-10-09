@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -61772,6 +61771,7 @@
         "gejoo.fluevog.com",
         "gejzgq.gehaltsvergleich.com",
         "gekko.spiceworks.com",
+        "gem-log.sloegem.com",
         "gemini2.stripchat.global",
         "gemtun.ctnewsjunkie.com",
         "genentech.tt.omtrdc.net",
@@ -88716,6 +88716,7 @@
         "log.mix.sina.com.cn",
         "log.musical.ly",
         "log.newsvine.com",
+        "log.oceanzz.xyz",
         "log.ohou.se",
         "log.olark.com",
         "log.onmas.kt.com",
@@ -154455,5 +154456,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
