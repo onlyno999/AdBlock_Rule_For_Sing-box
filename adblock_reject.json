@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -137399,6 +137400,7 @@
         "track.swaptrap.live",
         "track.t-ranks.com",
         "track.t.topwallvpn.com",
+        "track.taimi.com",
         "track.taliacollective.com",
         "track.tarastyle.ch",
         "track.taxextension.org",
@@ -154456,6 +154458,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
