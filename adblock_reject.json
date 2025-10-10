@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -103412,6 +103411,7 @@
         "prealpha.go.levelbank.com",
         "preanalytication.com",
         "prebid-log.getpublica.com",
+        "prebid-server-canary.ifunny.co",
         "predataclient.b-cdn.net",
         "preference.americafirst.com",
         "preference.mktg.mispeedway.com",
@@ -154463,5 +154463,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
