@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -120425,6 +120426,7 @@
         "share.zoomi.pet",
         "share2-test.360vuz.com",
         "share2.360vuz.com",
+        "sharebang.com",
         "sharecare.tt.omtrdc.net",
         "shared.jodel.com",
         "shared.notifysrv.com",
@@ -159179,6 +159181,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
