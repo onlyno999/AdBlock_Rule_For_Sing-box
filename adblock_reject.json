@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -14852,6 +14853,7 @@
         "analyse.hs-furtwangen.de",
         "analysis-test.sozialversicherung.at",
         "analysis.aws.locondo.jp",
+        "analysis.chatglm.cn",
         "analysis.focalprice.com",
         "analysis.sooplive.co.kr",
         "analysis.sozialversicherung.at",
@@ -146414,6 +146416,7 @@
         "user-140.superchatlive.com",
         "user-80.chiccams.com",
         "user-analysis.7moor.com",
+        "user-event-log.aminer.cn",
         "user-signals.production-public.tubi.io",
         "user.net.jumia.com.eg",
         "user.troveron.com.br",
@@ -159199,6 +159202,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
