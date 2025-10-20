@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -109913,6 +109912,7 @@
         "qehrvi.figashop.it",
         "qeigr.luluandgeorgia.com",
         "qelln.tyentusa.com",
+        "qepolax.com",
         "qerpks.rollei.de",
         "qesrk.hdbuttercup.com",
         "qexbcx.olx.kz",
@@ -159202,5 +159202,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
