@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -36016,6 +36017,7 @@
         "d2fhjyz3dwdx87.cloudfront.net",
         "d2fnnovf9qvlf2.cloudfront.net",
         "d2fuc4clr7gvcn.cloudfront.net",
+        "d2g2u2795e3fzw.cloudfront.net",
         "d2g6dhcga4weul.cloudfront.net",
         "d2ibu2ug0mt5qp.cloudfront.net",
         "d2ieqaiwehnqqp.cloudfront.net",
@@ -165142,6 +165144,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
