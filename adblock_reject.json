@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -98256,6 +98255,7 @@
         "log.haberturk.com",
         "log.happyapkdown.com",
         "log.heartratepros.com",
+        "log.hiapkdownload.com",
         "log.hypebeast.com",
         "log.iflytek.com",
         "log.ifood.tv",
@@ -165145,5 +165145,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
