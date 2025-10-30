@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -163456,7 +163455,6 @@
         "thdmd.raneystruckparts.com",
         "thdmnm.mielectro.es",
         "the-socialites-closet.boyfriend.show",
-        "the-two-gun-volley.pages.dev",
         "the-wilson-world.superchatlive.com",
         "the.aztecgroup.co.uk",
         "the.aztecgroup.eu",
@@ -183748,5 +183746,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
