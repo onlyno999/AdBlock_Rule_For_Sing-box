@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -158796,6 +158797,7 @@
         "stats.exploratv.ca",
         "stats.extendedstayamerica.com",
         "stats.extendedstayhotels.com",
+        "stats.externulls.com",
         "stats.extramilefloorcare.com",
         "stats.eyehelp.co",
         "stats.eyeviewdigital.com",
@@ -183749,6 +183751,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
