@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -15121,6 +15120,7 @@
         "ads-alpha.ewscloud.com",
         "ads-ap-venues.yinzcam.com",
         "ads-api.kidsnote.com",
+        "ads-api.x.com",
         "ads-bidder-api.twitter.com",
         "ads-bridge.pixocial.com",
         "ads-cdn.hopper.com",
@@ -183754,5 +183754,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
