@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -40087,6 +40088,7 @@
         "dljtc.paradiseunderthestars.com",
         "dllnmi.coretekcomputers.com",
         "dloeloqua.danskespil.dk",
+        "dlog-config.uu.cc",
         "dlog.perfectworldgames.com",
         "dlqxtm.sssports.com",
         "dlrdmw.zanui.com.au",
@@ -80562,6 +80564,7 @@
         "gi7a.structube.com",
         "giajam.xlmoto.nl",
         "gibbon.711.st",
+        "gid.tapapis.cn",
         "gifparty.stripchat.global",
         "gift.bangla-deal.com",
         "gift.getfreed.ai",
@@ -97377,6 +97380,7 @@
         "jdhop.skknbykim.com",
         "jdhreo.fitdance.com",
         "jdks7a.sportmeals.com",
+        "jdlog.uu.cc",
         "jdore.tropicalfruitbox.com",
         "jdpnd.katieloxton.com",
         "jdqykf.bensimonseoul.co.kr",
@@ -117450,6 +117454,7 @@
         "mrvbjrghse7ntux-c.missivequotidienne.fr",
         "mrytze.navi-discount.fr",
         "ms-acweb.clog3.net",
+        "ms-report.uu.cc",
         "ms.apg.nl",
         "ms.aznudelive.com",
         "ms.boyfriend.show",
@@ -192992,6 +192997,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
