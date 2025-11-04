@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -177464,6 +177465,7 @@
         "trackid.globoid.globo.com",
         "trackimpression.com",
         "tracking-api-4lasu2nlcq-ew.a.run.app",
+        "tracking-api.g2.com",
         "tracking-api.hotmart.com",
         "tracking-api.passeidireto.com",
         "tracking-api.sub100.com.br",
@@ -192996,6 +192998,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
