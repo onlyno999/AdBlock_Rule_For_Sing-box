@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -120795,6 +120794,7 @@
         "openmonitor.alipay-eco.com",
         "openmonitor.alipay.com",
         "openocs.net.daraz.com",
+        "openpanel.dev",
         "openrate.aweber.com",
         "openrtb.in",
         "openstat.net",
@@ -192997,5 +192997,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
