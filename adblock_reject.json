@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -76921,6 +76922,7 @@
         "events.app-performance.music.amazon.dev",
         "events.askjdhaa.com",
         "events.assurant.com",
+        "events.asurion.com",
         "events.attentivemobile.com",
         "events.avaya.com",
         "events.axa-im.com",
@@ -193007,6 +193009,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
