@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -33456,6 +33457,7 @@
         "crm.jmam.co.jp",
         "crm.leads360.com",
         "crm.manoa.hawaii.edu",
+        "crm.marketap.io",
         "crm.mg.eit.edu.au",
         "crm.neo-career.co.jp",
         "crm.smu.edu",
@@ -76843,6 +76845,7 @@
         "event.lib.visumo.io",
         "event.lifecare.com.my",
         "event.mail.dreamcargiveaways.co.uk",
+        "event.marketap.io",
         "event.meloshort.com",
         "event.mrtnsvr.com",
         "event.msi.com",
@@ -193008,6 +193011,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
