@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -170905,6 +170904,7 @@
         "szrvop.infoloty.pl",
         "szsvc.adinaeden.com",
         "sztpmc.branshes.com",
+        "szubtepzaka.com",
         "t-ads.tttieplxuh.com",
         "t-ak.hulu.com",
         "t-odx.op-mobile.opera.com",
@@ -193018,5 +193018,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
