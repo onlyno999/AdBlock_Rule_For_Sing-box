@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -130850,6 +130849,7 @@
         "s3-analytics-events.easybrain.com",
         "s3-ca-liveops.easybrain.com",
         "s3-iad-ww.cf.videorolls.row.aiv-cdn.net",
+        "s3-nl-01.mangabuddy.in",
         "s3.rtnews.pro",
         "s3.smartphonehoesjes.nl",
         "s3.ttpsdk.info",
@@ -193020,5 +193020,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
