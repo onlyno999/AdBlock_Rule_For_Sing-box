@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -173652,6 +173653,7 @@
         "xxxlove.rooski.net",
         "xxxssv.jeulia.com",
         "xxytrj.superdown.com",
+        "xy.fbcdn.net",
         "xy33.smallable.com",
         "xya4.groupefsc.com",
         "xyahug.luxuryonly.com",
@@ -173686,6 +173688,7 @@
         "xyznews3.today",
         "xyznews4.today",
         "xyzznt.uterque.com",
+        "xz.fbcdn.net",
         "xze5.femilet.dk",
         "xzfizn.massmedian.co.jp",
         "xzhrwy.giordanoweine.de",
@@ -175559,6 +175562,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
