@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -120282,6 +120281,7 @@
         "pnt.netcetera.com",
         "pnuzyt.akaishionline.com",
         "pnvhv.peachandlily.com",
+        "pnzekbgdcsumd.com",
         "po.cb-p.co.jp",
         "po.ponant.com",
         "po.tklivechat.com",
@@ -175573,5 +175573,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
