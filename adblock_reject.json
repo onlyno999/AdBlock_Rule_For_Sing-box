@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -127456,6 +127455,7 @@
         "se.getinge.com",
         "se.mistermenuiserie.com",
         "se.netpartnering.com",
+        "se.rfvtgbyhn.com",
         "se2.ddns.tt.omtrdc.net",
         "seaboardcolombia.leftmany.pro",
         "seagate.tt.omtrdc.net",
@@ -154153,6 +154153,7 @@
         "tc.europcar.es",
         "tc.europcar.pt",
         "tc.mnbvcxzq.com",
+        "tc.qzwxrtyk.com",
         "tc.techieustad.com",
         "tc.v4company.com",
         "tcbphila.fmservice.com",
@@ -175576,5 +175577,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
