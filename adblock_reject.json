@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -40599,6 +40600,7 @@
         "dl.tryactive.app",
         "dl.workindia.in",
         "dl.zola.com",
+        "dl4d3y1ajyv3q.cloudfront.net",
         "dlabo.jmac.co.jp",
         "dlatin.ns.emailvision.authenticate.net.daraz.com",
         "dlax1.ns.emailvision.authenticate.net.daraz.com",
@@ -175577,6 +175579,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
