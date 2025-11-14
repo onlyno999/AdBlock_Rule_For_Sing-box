@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -71637,6 +71636,7 @@
         "febfebfeb.partner-authenticate.net.daraz.com",
         "febwww.rgsdocker.net.daraz.com",
         "federal.external.xerox.com",
+        "federatedcompute-pa.googleapis.com",
         "fedex.tt.omtrdc.net",
         "fedgov.lexisnexis.com",
         "fedlh.getrael.com",
@@ -175575,5 +175575,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
