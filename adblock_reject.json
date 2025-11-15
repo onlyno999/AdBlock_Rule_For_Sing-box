@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -160918,6 +160919,7 @@
         "trk2.avalara.com",
         "trk2.informatech.com",
         "trk2.pinterest.com",
+        "trkapi.impact.com",
         "trkcare.hmhn.org",
         "trkcmb.business.algeria.hsbc.com",
         "trkcmb.business.ciiom.hsbc.com",
@@ -175575,6 +175577,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
