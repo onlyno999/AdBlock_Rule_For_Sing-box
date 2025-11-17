@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -54835,6 +54834,7 @@
         "iieze.honeybirdette.com",
         "iihmb.trtltravel.com",
         "iijyzn.atlas.ind.br",
+        "iionads.com",
         "iiot.linx.jp",
         "iivmm.coolinastore.com",
         "iizqf.mobilemob.com.au",
@@ -76007,6 +76007,7 @@
         "preanalytication.com",
         "prebid-log.getpublica.com",
         "prebid-server-canary.ifunny.co",
+        "prebid.loopmertb.com",
         "prebid.scope3.com",
         "predataclient.b-cdn.net",
         "preference.mktg.phoenixraceway.com",
@@ -112941,5 +112942,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
