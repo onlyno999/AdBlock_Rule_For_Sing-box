@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -58211,6 +58210,7 @@
         "jiramanage.lib-oa-1.net.daraz.com",
         "jiratwtelecom.azure.net.daraz.com",
         "jitsu.ixbt.com",
+        "jitsu.ixbt.site",
         "jiujpc.asgoodasnew.fr",
         "jizpyy.bett1.ch",
         "jj203.equitablebank.ca",
@@ -83081,6 +83081,7 @@
         "sgtm.infobus.eu",
         "sgtm.innova3it.com.br",
         "sgtm.iu-fernstudium.de",
+        "sgtm.ixbt.site",
         "sgtm.joga.dk",
         "sgtm.joinamble.com",
         "sgtm.joyspringvitamins.com",
@@ -112939,5 +112940,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
