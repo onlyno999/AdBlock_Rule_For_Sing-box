@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -16098,7 +16099,9 @@
         "app-links.mysta.ge",
         "app-liquiddeath.brandclub.com",
         "app-liquiddeathbeta.brandclub.com",
+        "app-log-oversea.immomo.com",
         "app-measurement.com",
+        "app-monitor.spacecape.com",
         "app-nclex.kingofthecurve.org",
         "app-petarmor.brandclub.com",
         "app-qa.awto.cl",
@@ -112950,6 +112953,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
