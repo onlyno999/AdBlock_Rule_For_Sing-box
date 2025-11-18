@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -63805,6 +63804,7 @@
         "log.klook.com",
         "log.kroffle.net",
         "log.krs-ix.ru",
+        "log.lnk.events",
         "log.lovense-api.com",
         "log.m.sm.cn",
         "log.ma-jin.jp",
@@ -112953,5 +112953,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
