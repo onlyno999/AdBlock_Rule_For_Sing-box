@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -55324,6 +55325,7 @@
         "inetprocess.actonservice.com",
         "inf.clickpay.com",
         "inf.miui.com",
+        "infinario.com",
         "infineontechnologies.tt.omtrdc.net",
         "infinitiheliosameric.tt.omtrdc.net",
         "infinitiheliosemea.tt.omtrdc.net",
@@ -63821,6 +63823,7 @@
         "log.pdfreaders.net",
         "log.pdfviewerscannerstore.live",
         "log.perfecttitspics.com",
+        "log.phonefreshfix.live",
         "log.pinterest.com",
         "log.pipeline.datarize.io",
         "log.pngindir.com",
@@ -112942,6 +112945,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
