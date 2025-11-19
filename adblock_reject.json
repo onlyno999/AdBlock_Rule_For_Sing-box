@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -32779,6 +32778,7 @@
         "ebistoppan6.kyowahakko-bio-campaign3.com",
         "ebisu.saison-am.co.jp",
         "ebkvp.efavormart.com",
+        "ebm.lfmall.co.kr",
         "ebmhpt.sneakscloud.com",
         "ebnpqi.carrefourlocation.fr",
         "ebook.velki.com.br",
@@ -112959,5 +112959,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
