@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25519,6 +25520,7 @@
         "config.ktbazarbd.com",
         "config.safedk.com",
         "config.sdk.kochava.dewrain.life",
+        "config.toto.zipoapps.com",
         "config.tremorhub.com",
         "configapplication-spring.net.daraz.com",
         "configuration.ttpsdk.info",
@@ -112967,6 +112969,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
