@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -30666,6 +30665,7 @@
         "dataflow.biliapi.com",
         "datafront.co",
         "datanexus.sosdividas.com.br",
+        "datarangers-event.myrightone.com",
         "datarobot.edge46.testandtarget.omniture.com",
         "dataserver.bagypack.com",
         "datastat.me",
@@ -112974,5 +112974,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
