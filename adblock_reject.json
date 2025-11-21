@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -72403,6 +72402,7 @@
         "oyotii.sportokay.com",
         "oyoxyc.josefsteiner.at",
         "oyssqe.easyvoyage.com",
+        "oysterspottery.com",
         "oyvjff.bakerross.ie",
         "oyyqan.hejoscar.dk",
         "ozbnagojbop.com",
@@ -112975,5 +112975,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
