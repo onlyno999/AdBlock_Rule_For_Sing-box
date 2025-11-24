@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -107190,6 +107189,7 @@
         "witchitafalls.townsquaremedia.info",
         "withyou.shorr.com",
         "wiuyjxbqhsxwpus-c.adktrack39.xyz",
+        "wix-engage-visitors-prod-6.firebaseio.com",
         "wixjcl.maginon.de",
         "wiz.sncf-connect.com",
         "wizaly.com",
@@ -112989,5 +112989,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
