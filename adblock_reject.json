@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19919,6 +19920,7 @@
         "c.werally.com",
         "c.wort-suche.com",
         "c.x.oanda.com",
+        "c.ypcdn.com",
         "c0.adalyser.com",
         "c00.adobe.com",
         "c0012.brsimg.com",
@@ -63097,6 +63099,7 @@
         "mgpnz.shopakira.com",
         "mgptul.finson.com",
         "mgrhe.myvolleybox.com",
+        "mgs.instacart.com",
         "mgs123.com",
         "mgt.justia.info",
         "mgtb.ifuckedyourgf.com",
@@ -106003,6 +106006,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
