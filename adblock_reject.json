@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -15198,6 +15197,7 @@
         "api.compramosagora.pt",
         "api.comunidadefid.com.br",
         "api.comunidadeogm.com",
+        "api.consentjs.datagrail.io",
         "api.consertocelulares.com",
         "api.contagempro.com.br",
         "api.controlenamao.com.br",
@@ -106017,5 +106017,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
