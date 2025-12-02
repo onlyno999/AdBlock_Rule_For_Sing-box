@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -88899,6 +88900,7 @@
         "tags.mattressfirm.com",
         "tags.microbank.com",
         "tags.mindbodyonline.com",
+        "tags.mlytics.com",
         "tags.moneytopay.com",
         "tags.mutua.es",
         "tags.mwg.aaa.com",
@@ -106277,6 +106279,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
