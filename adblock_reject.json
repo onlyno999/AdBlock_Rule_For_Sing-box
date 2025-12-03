@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24322,6 +24321,7 @@
         "cmp.porsche.be",
         "cmp.seat.be",
         "cmp.skoda.be",
+        "cmp.springernature.com",
         "cmp.vdfin.be",
         "cmp.volkswagen.be",
         "cmprofile.cards.citidirect.com",
@@ -106284,5 +106284,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
