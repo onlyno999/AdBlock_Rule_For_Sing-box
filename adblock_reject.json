@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -61818,6 +61819,7 @@
         "mawwww0nodeketingpush.net.daraz.com",
         "max-adserv.com",
         "max-svc.docs.net.daraz.com",
+        "maxesads.com",
         "maxesads.ru",
         "maximumdecimus.clicknplay.to",
         "maxtat.55truck.com",
@@ -63714,6 +63716,7 @@
         "mosquito.iamamandaperez.com",
         "mosquito.nooraldiyar.com",
         "mosquito.zero.io",
+        "mossfast.com",
         "mosspf.net",
         "mossru.com",
         "mossturbo.com",
@@ -106287,6 +106290,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
