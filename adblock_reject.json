@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -81845,6 +81846,7 @@
         "sp.notifysonic.com",
         "sp.pal-item.com",
         "sp.pamklein.com",
+        "sp.pcid.ca",
         "sp.pnj.com",
         "sp.portclintonnewsherald.com",
         "sp.postcrescent.com",
@@ -106292,6 +106294,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
