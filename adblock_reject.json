@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -68974,6 +68973,7 @@
         "ph.promo.skf.com",
         "ph.pulseofvitality.com",
         "pharmacyexam.quantresear.ch",
+        "phaseshift.almagrow.com",
         "phb.explore.novonesis.com",
         "phbnix.rocelec.com",
         "phbxqo.travelstay.com",
@@ -106291,5 +106291,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
