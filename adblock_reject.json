@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -28966,7 +28967,6 @@
         "data.service.movir.nl",
         "data.service.nordea.fi",
         "data.service.ohra.nl",
-        "data.service.paypal.com",
         "data.services.chowtaifook.com",
         "data.servicing2.key.com",
         "data.sg-guest.princess.com",
@@ -105102,6 +105102,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
