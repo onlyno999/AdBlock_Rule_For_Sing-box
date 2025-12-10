@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -87455,6 +87456,7 @@
         "tag.octopusenergy.fr",
         "tag.panorama.ai",
         "tag.phantomscreens.com.au",
+        "tag.poomang.com",
         "tag.pprl.io",
         "tag.prospectdesk.ai",
         "tag.rendeuetop.com.br",
@@ -105101,6 +105103,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
