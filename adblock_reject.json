@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39355,6 +39354,7 @@
         "eventos.isaabrahao.com.br",
         "eventrecorder.cm.bloomberg.com",
         "events-api.gazetadopovo.com.br",
+        "events-api.lyrebirdstudio.net",
         "events-api.soundcloud.com",
         "events-api.towneers.prod.data.krmt.io",
         "events-collector-api.viacom.tech",
@@ -105108,5 +105108,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
