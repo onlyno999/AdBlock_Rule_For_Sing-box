@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39296,6 +39295,7 @@
         "event.airbridge.io",
         "event.api.drift.com",
         "event.ava.me",
+        "event.bigkeyboardeasyphone.com",
         "event.chitai-gorod.ru",
         "event.clientgear.com",
         "event.condenastdigital.com",
@@ -80397,6 +80397,7 @@
         "somtr.financialengines.com",
         "somtrdc.jobstreet.vn",
         "sonic002.fumblingvacation.pro",
+        "sonicsads.com",
         "sonne.helgahilft.com",
         "sonobi.com",
         "sonomamag.share.ntv.io",
@@ -84148,6 +84149,7 @@
         "stat.alibaba.com",
         "stat.alloha.tv",
         "stat.altalex.com",
+        "stat.apfgexfusion.com",
         "stat.arzamas.academy",
         "stat.bdc.ca",
         "stat.beetfreunde.de",
@@ -105112,5 +105114,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
