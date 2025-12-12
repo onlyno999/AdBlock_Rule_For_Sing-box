@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -61501,6 +61502,7 @@
         "metrics.maxizoo.pl",
         "metrics.mcrewards.com",
         "metrics.mdstrm.com",
+        "metrics.media-amazon.com",
         "metrics.mei.co.jp",
         "metrics.meiers-weltreisen.de",
         "metrics.meineversicherungswelt.de",
@@ -105119,6 +105121,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
