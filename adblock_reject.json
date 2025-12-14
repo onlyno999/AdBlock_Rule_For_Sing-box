@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -58389,6 +58390,7 @@
         "m8ix4fqk.xyz",
         "m93djrfquxtem8t-p.adkoffer.fr",
         "ma-adx.ctrip.com",
+        "ma-tag.com",
         "ma.1000kaze.jp",
         "ma.55truck.com",
         "ma.a3.se",
@@ -105121,6 +105123,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
