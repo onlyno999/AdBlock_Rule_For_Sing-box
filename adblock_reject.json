@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25778,6 +25779,7 @@
         "d.nordicbasketball.dk",
         "d.nordicbasketball.nl",
         "d.nordprotect.com",
+        "d.nordvpn.com",
         "d.norsol.no",
         "d.ns.azurevision.net.daraz.com",
         "d.ns.loadbalancer-emailvision.authenticate.net.daraz.com",
@@ -29180,6 +29182,7 @@
         "dfw3-management-application-spring.net.daraz.com",
         "dfw3zigzagstr.administrators.net.daraz.com",
         "dfx.xtapes.porn",
+        "dfyxzuog.com",
         "dg.irco.com",
         "dg.its-ats.com",
         "dg.reasso.jp",
@@ -100249,6 +100252,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
