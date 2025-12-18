@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -50900,6 +50899,7 @@
         "knorzj.wearfigs.com",
         "know.gimmal.com",
         "know.nationwideadvisory.com",
+        "knowingcancel.pro",
         "knowit.thinqtanklearning.com",
         "knowledge.equitymethods.com",
         "knowlege.pepeprint.de",
@@ -95414,6 +95414,7 @@
         "worldbank.tt.omtrdc.net",
         "worldleaderssales.actonservice.com",
         "worldlinesa.tt.omtrdc.net",
+        "worldlyscene.com",
         "worldmtcs.nhk.jp",
         "worldnetpr.actonservice.com",
         "worldprofit.leftmany.pro",
@@ -100253,5 +100254,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
