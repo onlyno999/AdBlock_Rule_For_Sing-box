@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -23964,9 +23965,7 @@
         "collector-internal-eu-west-1.cdp-dev.cnn.com",
         "collector-medium.lightstep.com",
         "collector-pxdojv695v.protechts.net",
-        "collector-pxdojv695v.px-cloud.net",
         "collector-pxebumdlwe.px-cdn.net",
-        "collector-pxebumdlwe.px-cloud.net",
         "collector-pxebumdlwe.pxchk.net",
         "collector-sbanking.shb-pelib.com",
         "collector-statistics.nhn-commerce.com",
@@ -100263,6 +100262,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
