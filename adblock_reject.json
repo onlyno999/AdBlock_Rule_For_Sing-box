@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -14103,6 +14104,7 @@
         "analytics.unive.nl",
         "analytics.unsw.edu.au",
         "analytics.upworthy.com",
+        "analytics.urban-vpn.com",
         "analytics.urbanapothecarylondon.com",
         "analytics.urbanflowers.com.ua",
         "analytics.us.archive.org",
@@ -81320,6 +81322,7 @@
         "stats.unka.space",
         "stats.unnaturalhistorytv.com",
         "stats.unusualtourist.com",
+        "stats.urban-vpn.com",
         "stats.urbanfinn.com",
         "stats.us-light-edge.com",
         "stats.useeffect.dev",
@@ -100270,6 +100273,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
