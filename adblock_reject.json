@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -84150,6 +84151,7 @@
         "telemetry.jrny.com",
         "telemetry.malwarebytes.com",
         "telemetry.marketscope.com",
+        "telemetry.microsoft.us",
         "telemetry.moveworks.com",
         "telemetry.mozilla.org",
         "telemetry.navigatorapp.net",
@@ -100272,6 +100274,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
