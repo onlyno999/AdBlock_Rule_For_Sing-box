@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -49096,6 +49097,7 @@
         "ingdirectaustralia.tt.omtrdc.net",
         "ingdirectit.tt.omtrdc.net",
         "ingest.do.brainsland.com",
+        "ingest.m2catalyst.com",
         "ingest.make.rvohealth.com",
         "ingestion.webanalytics.italia.it",
         "ingrammicro.tt.omtrdc.net",
@@ -89998,6 +90000,7 @@
         "unique.ceterafinancialspecialists.com",
         "uniquecars.e.tradeuniquecars.com.au",
         "unisalute.tt.omtrdc.net",
+        "unisdk.proxima.nie.easebar.com",
         "unit4.tt.omtrdc.net",
         "united.tt.omtrdc.net",
         "unitedautocredit.actonservice.com",
@@ -99836,6 +99839,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
