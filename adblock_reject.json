@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -7178,6 +7179,7 @@
         "a.swd5.com",
         "a.swime.online",
         "a.t5z3w0p.com",
+        "a.tampermonkey.net",
         "a.team.iziptoday.com",
         "a.teencfnm.com",
         "a.telus.com",
@@ -89594,6 +89596,7 @@
         "u.btserve.com",
         "u.fluics.com",
         "u.getgoose.com",
+        "u.tampermonkey.net",
         "u.zhugeapi.net",
         "u066.ocregister.com",
         "u082.wapt.com",
@@ -90834,6 +90837,7 @@
         "v.perfumesclub.com",
         "v.sagasavings.co.uk",
         "v.shopify.com",
+        "v.tampermonkey.net",
         "v.topya.com",
         "v.xvds.tv",
         "v040419.badjojo.com",
@@ -99833,6 +99837,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
