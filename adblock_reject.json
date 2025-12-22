@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -38651,6 +38652,7 @@
         "event.ikame.net",
         "event.impression-neo.naver.com",
         "event.karrotmarket.com",
+        "event.kr.karrotmarket.com",
         "event.lginnotek.com",
         "event.lib.visumo.io",
         "event.lifecare.com.my",
@@ -55355,6 +55357,7 @@
         "log-api.sooplive.com",
         "log-auth.flysleep.cn",
         "log-auth.zztfly.com",
+        "log-bridge-mobile.kr.karrotmarket.com",
         "log-gateway.zoom.us",
         "log-hl.snssdk.com",
         "log-ird.outbrain.com",
@@ -99831,6 +99834,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
