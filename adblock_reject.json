@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -67767,6 +67766,7 @@
         "referrer.disqus.com",
         "refferal.trk.agency",
         "refinitiv.tt.omtrdc.net",
+        "refreshmould.com",
         "refwkk.mojewypieki.com",
         "refwkk.omnicalculator.com",
         "refwkk.topky.sk",
@@ -99831,5 +99831,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
