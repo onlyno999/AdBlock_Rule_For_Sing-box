@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -67061,6 +67062,7 @@
         "rauth.chubb.com",
         "raven.konquadrat.de",
         "raven.omamao.ch",
+        "raw.vidyard.com",
         "rayjump.com",
         "rb.crimeagc.com",
         "rb.gy",
@@ -99853,6 +99855,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
