@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -89990,6 +89991,7 @@
         "unicreditgroup.tt.omtrdc.net",
         "unicume.com",
         "unidentifiedanalytics.web.app",
+        "unif-id.ssp.inmobi.com",
         "unified-ter-na.hismarttv.com",
         "unifieddataconnect.click",
         "unifiedwfo.verintsystemsinc.com",
@@ -99849,6 +99851,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
