@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -15554,6 +15555,7 @@
         "apistape6.expoloucas.com.br",
         "apistape7.expoloucas.com.br",
         "apistape8.expoloucas.com.br",
+        "apistats.rg.ru",
         "apiv4.classmanager.com",
         "apivd.justpracticesuccess.com",
         "apj.xham.live",
@@ -99855,6 +99857,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
