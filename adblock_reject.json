@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17756,6 +17755,7 @@
         "azyrak.aureumcollective.com",
         "azzvz.wallien.com",
         "b-aws.aol.com",
+        "b-sing.com",
         "b.a0f2l3m.com",
         "b.aecf.org",
         "b.allsecur.nl",
@@ -99861,5 +99861,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
