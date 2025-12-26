@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -40445,7 +40444,6 @@
         "fukity44.fumblingvacation.pro",
         "fulfillment-ups.squareup.com",
         "fullerton-app.hotdoc.com.au",
-        "fullrestore.net",
         "fun.fridayships.nl",
         "fun.relationshipone.com",
         "fundaciongruposocial.tt.omtrdc.net",
@@ -64931,6 +64929,7 @@
         "pfoha.catalystpet.com",
         "pforv.verdantlyfe.com",
         "pfqfc.skoutorganic.com",
+        "pftk.temu.com",
         "pfucg.nothingnew.com",
         "pfudp.saltair.com",
         "pfuyhr.schutz.com.br",
@@ -84291,6 +84290,7 @@
         "thrive.rainforest-alliance.org",
         "thrm-scrq-0001.crypterium.com",
         "thtel.phlur.com",
+        "thtk.temu.com",
         "thumbs-partner.net.daraz.com",
         "thyagu7.leftmany.pro",
         "ti3av8k3ikwm.resume.gerardbosch.xyz",
@@ -99860,5 +99860,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
