@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -6711,6 +6710,7 @@
         "9984342.reddoorz.in",
         "99e7945bc5.73fbab0eb4.com",
         "99ef5999fe.ff73564366.com",
+        "99fkw4w8.com",
         "9a9d9862ae.1c6fd11ca2.com",
         "9ac3a28e66.4570acc7cc.com",
         "9aec3c08ad.c5ca8a76ed.com",
@@ -101025,5 +101025,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
