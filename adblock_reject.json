@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25104,6 +25105,7 @@
         "crown.crownshop.xyz",
         "crs-event.line.me",
         "crs-hometab-event.line.me",
+        "crs.pa.br.de",
         "crss.corporate-rebels.com",
         "crta.dailymail.co.uk",
         "crta.metro.co.uk",
@@ -101023,6 +101025,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
