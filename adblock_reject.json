@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -7082,6 +7083,7 @@
         "a.spv.se",
         "a.ss-serverside.space",
         "a.staticport.com",
+        "a.streamed.pk",
         "a.stripchats.io",
         "a.sublimatienederland.nl",
         "a.suptube.com",
@@ -61504,6 +61506,7 @@
         "nd.hairence.com",
         "nd.prachinshilpo.com",
         "nd.rhleatherbd.com",
+        "ndcertainlywhen.com",
         "ndct-data.video.iqiyi.com",
         "ndcywq.ullapopken.fr",
         "ndeuh.brazibronze.com",
@@ -101040,6 +101043,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
