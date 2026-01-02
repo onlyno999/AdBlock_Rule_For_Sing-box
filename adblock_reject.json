@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -92060,6 +92059,7 @@
         "v117.tklivechat.com",
         "v150.stripchat.webcam",
         "v16-ad.byteoversea.com",
+        "v174nyvle72ozq.cfd",
         "v1twtelecom.azure.net.daraz.com",
         "v2-interaction-socialx.net.daraz.com",
         "v2-interaction.01-caauthenticate21-10-authenticate-oa-1.net.daraz.com",
@@ -101043,5 +101043,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
