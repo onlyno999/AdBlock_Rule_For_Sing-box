@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24741,6 +24740,7 @@
         "corecloudfrontcar31.net.daraz.com",
         "coreid3.click.s11.sfmc-osl.com",
         "coremetrics.curioiogo.com",
+        "corfu.blogvault.net",
         "cormilk.fumblingvacation.pro",
         "corner-stats.sladewatkins.net",
         "cornerbanca.tt.omtrdc.net",
@@ -101040,5 +101040,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
