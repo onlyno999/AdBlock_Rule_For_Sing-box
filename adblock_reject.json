@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -70649,6 +70650,7 @@
         "s.pjh.is",
         "s.playa.to",
         "s.projectorscreen.com",
+        "s.pxltgr.com",
         "s.q88z1s3.com",
         "s.qhupdate.com",
         "s.repguard.uk",
@@ -101048,6 +101050,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
