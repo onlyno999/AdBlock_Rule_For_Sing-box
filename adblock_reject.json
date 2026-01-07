@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -14904,6 +14903,7 @@
         "api.eunow4u.com",
         "api.eusoupixel.com",
         "api.evandrocanello.com.br",
+        "api.eventbus.me",
         "api.evoluaemsegredo.com.br",
         "api.evoluamaiscursosonline.com.br",
         "api.exc.mob.com",
@@ -101579,5 +101579,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
