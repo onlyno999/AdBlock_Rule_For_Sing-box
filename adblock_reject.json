@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25543,7 +25542,6 @@
         "cz.affilbox.cz",
         "cz.inform.janssenpro.eu",
         "cz.promo.skf.com",
-        "cza.crazygames.com",
         "cza4wopwcvdiq6sg.brandnewapp.pro",
         "czcqb.skinvirtue.com.au",
         "czdxto.radiopopular.pt",
@@ -101596,5 +101594,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
