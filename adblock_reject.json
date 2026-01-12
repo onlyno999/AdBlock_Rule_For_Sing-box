@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -46715,6 +46716,7 @@
         "hazicu.hothomefuck.com",
         "hb-af-us-central1.outfit7.com",
         "hb-failover-stpceyl2ua-uw.a.run.app",
+        "hb-mob2.optiword.com",
         "hb.headbidder.net",
         "hb.rayjump.com",
         "hb.tt.omtrdc.net",
@@ -56845,7 +56847,6 @@
         "lp.services.tuftsmedicine.org",
         "lp.smartbusiness.samsung.com",
         "lp.solutions.cegos.it",
-        "lp.spac.me",
         "lp.strayer.edu",
         "lp.switchworks.co.jp",
         "lp.symenergy.net",
@@ -88434,6 +88435,7 @@
         "track.animebee.com",
         "track.apexhq.com",
         "track.apharmaceuticaph.com.br",
+        "track.applicaster.com",
         "track.appsclub.mobi",
         "track.appsflyer.com",
         "track.aprila.no",
@@ -101594,6 +101596,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
