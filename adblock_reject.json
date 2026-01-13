@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -16604,6 +16605,7 @@
         "applog.zijieapi.com",
         "applogs-v2.pixelfederation.com",
         "applogs.pixelfederation.com",
+        "applovin.com",
         "apply.allusadeals.com",
         "apply.catalystfitnessflorida.com",
         "apply.maxlend.com",
@@ -17572,6 +17574,7 @@
         "axjfkc.kobayashi.co.jp",
         "axljfv.therosebay.co.kr",
         "axnskz.power-stones.jp",
+        "axon.ai",
         "axoqvl.daf-shoes.com",
         "axp.2822news.com",
         "axp.8newsnow.com",
@@ -101597,6 +101600,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
