@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -59315,6 +59316,7 @@
         "matomo.mobilism.org",
         "matomo.motorpresse.de",
         "matomo.oekoloewe.de",
+        "matomo.podslink.net",
         "matomo.promobil.de",
         "matomo.shoppersguide.com.ph",
         "matomo.similarweb.io",
@@ -101611,6 +101613,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
