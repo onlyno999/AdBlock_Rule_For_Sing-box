@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -18547,6 +18546,7 @@
         "bid.mbidtg.com",
         "bid.onclcktg.com",
         "bidbpo.dr-10.com",
+        "bidder.doceree.com",
         "bidder.dsp.outfit7.com",
         "bidder.mdspinc.com",
         "bidforclicks.com",
@@ -25106,6 +25106,7 @@
         "cs.hot.net.il",
         "cs.hotzcam.com",
         "cs.liveandsexy.cam",
+        "cs.media.net",
         "cs.myavlive.com",
         "cs.nexttv.co.il",
         "cs.nsfwlivechat.com",
@@ -39213,6 +39214,7 @@
         "events-jp.splash-screen.net",
         "events-meta-events.outsideonline.com",
         "events-stream-svc.cordial.com",
+        "events-stream-svc.cordial.io",
         "events-stream-svc.usw2.cordial.com",
         "events-tracker.deliveroo.net",
         "events.absolutaimobiliaria.com.br",
@@ -40744,6 +40746,7 @@
         "fpc.gartner.com",
         "fpc.sage.com",
         "fpc.utexas.edu",
+        "fpcdn.io",
         "fpcn.bpsgameserver.com",
         "fpcs.wellshaved.gr",
         "fpdtag.tealiumdemo.com",
@@ -40756,6 +40759,7 @@
         "fpida.une-nana-cool.com",
         "fpida.wacoalholdings.jp",
         "fpida.yue-japan.com",
+        "fpjs.io",
         "fpmobile.uplift-platform.com",
         "fpoyvjgdm.com",
         "fps.lascana.nl",
@@ -101614,5 +101618,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
