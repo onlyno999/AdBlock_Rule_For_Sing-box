@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39260,6 +39259,7 @@
         "events.getsitectrl.com",
         "events.gfe.nvidia.com",
         "events.giftya.com",
+        "events.gonative.io",
         "events.groggs.com",
         "events.hermanmiller.com",
         "events.iap.unity3d.com",
@@ -101613,5 +101613,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
