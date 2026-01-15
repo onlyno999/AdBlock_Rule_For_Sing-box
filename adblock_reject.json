@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -13711,6 +13710,7 @@
         "analytics.lasegunda.ecn.cl",
         "analytics.lashjungle.com",
         "analytics.launch.bz",
+        "analytics.launcherleaks.net",
         "analytics.lavosperformance.com",
         "analytics.law.badriver-nsn.gov",
         "analytics.law.cityofsanmateo.org",
@@ -101625,5 +101625,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
