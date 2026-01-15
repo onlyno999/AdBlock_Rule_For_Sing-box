@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -49812,6 +49813,7 @@
         "ingest.do.brainsland.com",
         "ingest.m2catalyst.com",
         "ingest.make.rvohealth.com",
+        "ingest.webcol.sdp.peacocktv.com",
         "ingestion.webanalytics.italia.it",
         "ingrammicro.tt.omtrdc.net",
         "ingress.linktr.ee",
@@ -101620,6 +101622,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
