@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -13386,6 +13387,7 @@
         "analytics.carecreditprovidercenter.com",
         "analytics.cartoonnetwork.jp",
         "analytics.cartoonnetworkasia.com",
+        "analytics.carvana.io",
         "analytics.cashably.com",
         "analytics.castel.jp",
         "analytics.castelliinaria.info",
@@ -89390,6 +89392,7 @@
         "tracking.care.essentiahealth.org",
         "tracking.care.muschealth.org",
         "tracking.care.salinasvalleyhealth.com",
+        "tracking.carfax.com",
         "tracking.carprices.com",
         "tracking.carpshop24.com",
         "tracking.carsales.com.au",
@@ -101633,6 +101636,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
