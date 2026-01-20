@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -73709,6 +73710,7 @@
         "jptobh.network.com.tr",
         "jpubs.zodia.io",
         "jpush.io",
+        "jpyosglaxonk.com",
         "jpz2etvkhnzdcox-p.linkomo.fr",
         "jq82da.stieglitz.nl",
         "jqdhi.brianforpocono.com",
@@ -136400,6 +136402,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
