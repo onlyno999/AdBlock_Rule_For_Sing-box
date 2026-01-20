@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -12802,7 +12803,6 @@
         "agenciaplanner.arenaeletromusic.com.br",
         "agency.bigfatlinks.com",
         "agency.reportgarden.com",
-        "agencysignals.com",
         "agencysst.mda-digital.com",
         "agenda.avadacom.com",
         "agenda.ns.emailvision.panel.net.daraz.com",
@@ -136401,6 +136401,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
