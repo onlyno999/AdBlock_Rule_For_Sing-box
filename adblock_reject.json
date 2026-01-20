@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -57111,6 +57110,7 @@
         "events-ingestion.services.gorgias.com",
         "events-jp.splash-screen.net",
         "events-meta-events.outsideonline.com",
+        "events-sandbox.data.msn.com",
         "events-stream-svc.cordial.com",
         "events-stream-svc.cordial.io",
         "events-stream-svc.usw2.cordial.com",
@@ -136402,5 +136402,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
