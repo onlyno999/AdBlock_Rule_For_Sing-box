@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -73776,6 +73777,7 @@
         "js.onclckvd.com",
         "js.onclmng.com",
         "js.phoenixmanga.com",
+        "js.pulseinsights.com",
         "js.redshieldcar.com",
         "js.stroeermediabrands.de",
         "js.syosetu.top",
@@ -136403,6 +136405,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
