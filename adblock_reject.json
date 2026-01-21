@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -82803,6 +82804,7 @@
         "log-upload-os.mihoyo.com",
         "log-upload.mihoyo.com",
         "log-v4-insight.kaizenplatform.net",
+        "log-va.tiktokv.com",
         "log-verify.mob.com",
         "log.51changdu.com",
         "log.adap.tv",
@@ -136418,6 +136420,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
