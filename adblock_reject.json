@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -14111,6 +14110,7 @@
         "analytics.islamicfinder.org",
         "analytics.iss.one",
         "analytics.itabus.it",
+        "analytics.itbox.ua",
         "analytics.jabong.com",
         "analytics.jodelapis.com",
         "analytics.joegetaway.se",
@@ -136426,5 +136426,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
