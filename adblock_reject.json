@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -94139,6 +94140,7 @@
         "pinniped.resist.bot",
         "pinniped.spacecountdown.com",
         "pinoy101tv.fumblingvacation.pro",
+        "pinpoint.espn.com",
         "pinpoll.com",
         "pinptg.milleni.com.tr",
         "pint-dev-branch.airship.com",
@@ -136428,6 +136430,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
