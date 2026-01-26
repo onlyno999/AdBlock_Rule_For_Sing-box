@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -104574,6 +104575,7 @@
         "matomo.clanto.cloud",
         "matomo.cloudfront.similarweb.io",
         "matomo.datago.ru",
+        "matomo.eduwill.net",
         "matomo.menshealth.de",
         "matomo.mobilism.org",
         "matomo.motorpresse.de",
@@ -156415,6 +156417,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
