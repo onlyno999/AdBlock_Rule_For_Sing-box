@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21059,6 +21060,7 @@
         "bstgms4y.com",
         "bstias.avilon.ru",
         "bstjb.jackler.ca",
+        "bstream.channelcom.tech",
         "bstream.kzhi.tech",
         "bstswa.libri.hu",
         "bstyjo.reelflyrod.com",
@@ -76689,6 +76691,7 @@
         "gg.luli7.com",
         "ggaik.preppy.org",
         "ggbko.obsessedlawn.com",
+        "ggbond.peaksite.tech",
         "ggbua.4wheelparts.com",
         "ggckg.lovewellness.com",
         "ggdec.fromourplace.com",
@@ -156422,6 +156425,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
