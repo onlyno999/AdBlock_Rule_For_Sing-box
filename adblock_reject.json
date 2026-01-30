@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -76800,6 +76801,7 @@
         "gjrjr.maxa-group.com",
         "gjrrr.hotelcollection.com",
         "gjtrack.uc.cn",
+        "gjtrack.ucweb.com",
         "gjxmcla.pro",
         "gk-paradise.foolhardywear.pro",
         "gk.gkservices.com",
@@ -85890,6 +85892,7 @@
         "gzx26mb7bpfaznl-p.adkoffer.fr",
         "h-adashx.ut.alibaba.com",
         "h-adashx4ae.ut.taobao.com",
+        "h-adashx4id.ut.taobao.com",
         "h.bloblohub.com",
         "h.chase.co.uk",
         "h.costco.com",
@@ -156440,6 +156443,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
