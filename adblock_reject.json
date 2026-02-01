@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -90662,6 +90663,7 @@
         "irqewz.vilebrequin.com",
         "irqjb.saachistyle.com",
         "irqs.ioam.de",
+        "irregularglancedyielded.com",
         "irrif.aftco.com",
         "irs.iperceptions.com",
         "irufm.badlandsranch.com",
@@ -156446,6 +156448,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
