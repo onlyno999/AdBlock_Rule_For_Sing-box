@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -99037,6 +99038,7 @@
         "inquiry.st2103.com",
         "inquisition.goguardian.com",
         "inrecsys.popin.cc",
+        "ins.connatix.com",
         "ins.leavitt.com",
         "ins.oberpfalzmedien.de",
         "inside.man.eu",
@@ -104345,6 +104347,7 @@
         "listrakbi.com",
         "lists-tracking.komando.com",
         "lists.ccmbg.com",
+        "lit.connatix.com",
         "lite.lchfarkivet.se",
         "literature.gelita.com",
         "litix.io",
@@ -128981,6 +128984,7 @@
         "sace.aaa.com",
         "saclel.zotapay.com",
         "sacombank.tt.omtrdc.net",
+        "sacwumsf.com",
         "sadap.classiquescents.com",
         "sadb.superrtl.de",
         "sadb.toggo.de",
@@ -168642,6 +168646,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
