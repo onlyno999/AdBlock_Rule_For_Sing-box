@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -114686,6 +114685,7 @@
         "media.elementsbehavioralhealth.com",
         "media.envoyfinancial.com",
         "media.everlastnordic.dk",
+        "media.evolv.ai",
         "media.garysmithpartnership.com",
         "media.globalsign.com",
         "media.gstoneinc.com",
@@ -122318,6 +122318,7 @@
         "partar.net.daraz.com",
         "partenaireslld.temsys.fr",
         "partener.aeriumshop.ro",
+        "participants.evolv.ai",
         "particuliers2.geg.fr",
         "partition.enterprise.com",
         "partner-affilbox.telly.cz",
@@ -168641,5 +168642,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
