@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -119855,6 +119854,7 @@
         "oncmj.cloudninehair.com",
         "oncoclinicas.actonservice.com",
         "ondemand.sexfortokens.com",
+        "one-new-message.com",
         "one.apu.ac.jp",
         "one.disa.com",
         "one.drmusakhan.com",
@@ -125460,6 +125460,7 @@
         "qwe.wsakongsa.com",
         "qwfh39851jtfvkurf21hf.com",
         "qwfuug.phoneclick.it",
+        "qwooxrmixmzi.com",
         "qwpcoi.uaf.com.hk",
         "qwtcdp.antalyahomes.com.tr",
         "qwylpm.teljoy.co.za",
@@ -168646,5 +168647,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
