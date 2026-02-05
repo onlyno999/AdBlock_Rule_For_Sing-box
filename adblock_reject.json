@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -34980,6 +34981,7 @@
         "democratic072925.shop",
         "demoldix-ss.checkoutera.com",
         "demon.lojauniformes.com.br",
+        "demonicclanstarch.com",
         "demos.lovingforever.pro",
         "dennydov.leftmany.pro",
         "denodo-tech.actonservice.com",
@@ -83181,6 +83183,7 @@
         "garage08062025.shop",
         "garn.garnspecialisten.dk",
         "garn.garnspesialisten.no",
+        "garudakrakatau.com",
         "gary.altsuperstore.com",
         "gaserver.forcetechnology.com",
         "gassales.eversource.com",
@@ -168649,6 +168652,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
