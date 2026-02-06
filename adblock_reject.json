@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -20611,6 +20610,7 @@
         "ato.atozzen.com",
         "atom-qa.warnermedia.com",
         "atom.warnermedia.com",
+        "atomictrackercollector-i5adxi4wfq-uc.a.run.app",
         "atouicib.dcongress.com",
         "atoz-health.fumblingvacation.pro",
         "atpns.nuwavenow.com",
@@ -168662,5 +168662,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
