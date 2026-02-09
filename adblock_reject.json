@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -156604,6 +156603,7 @@
         "tvpgs.palmgolfco.com",
         "tvpixel.com",
         "tvppa.actonservice.com",
+        "tvqmgheb.com",
         "tvsbb.representclo.com",
         "tvshowsonlineandfree.cambaddies.com",
         "tvsji.adameve.com",
@@ -168670,5 +168670,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
