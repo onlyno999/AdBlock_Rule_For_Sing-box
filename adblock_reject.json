@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -29647,6 +29648,7 @@
         "counter.ok.ee",
         "counter.packa2.cz",
         "counter.pixplug.in",
+        "counter.powr.io",
         "counter.pr-cy.ru",
         "counter.promodeejay.net",
         "counter.proxycrawl.com",
@@ -168666,6 +168668,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
