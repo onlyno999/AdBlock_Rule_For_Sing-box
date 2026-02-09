@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -28052,6 +28051,7 @@
         "cloudpg.email.vimeo.com",
         "cloudprofilerontcar31.net.daraz.com",
         "cloudr-oa-2.net.daraz.com",
+        "cloudscape84.net",
         "cloupush-id-drzlivefrontcar31.net.daraz.com",
         "clovergo.june-testing.firstdata.com",
         "clownfish.onvard.de",
@@ -100645,6 +100645,7 @@
         "kctkctag.overnayt.com",
         "kctnuy.downsizing.com.au",
         "kctwqu.vypredaj-zlavy.sk",
+        "kcwcohcmsotlsyn.com",
         "kcxvzc.debalets.com.tw",
         "kdc.tt.omtrdc.net",
         "kddi.tt.omtrdc.net",
@@ -168668,5 +168669,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
