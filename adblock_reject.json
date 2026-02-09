@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -29654,6 +29653,7 @@
         "counter.promodeejay.net",
         "counter.proxycrawl.com",
         "counter.rambler.ru",
+        "counter.reddigital.ru",
         "counter.sberbank.ru",
         "counter.scribblelive.com",
         "counter.sibnet.ru",
@@ -96383,6 +96383,7 @@
         "impression.appsflyer.com",
         "impression.impressionhomes.net",
         "impression.link",
+        "improbablehospital.com",
         "improving.duckduckgo.com",
         "improving.wuzhuiso.com",
         "impzl.barrioqueen.com",
@@ -123497,6 +123498,7 @@
         "pixel.tatpek.com",
         "pixel.thoughtmetric.io",
         "pixel.trackverify.com",
+        "pixel.udpauto.ru",
         "pixel.underzstore.com",
         "pixel.visitiq.io",
         "pixel.vreview.tv",
@@ -149514,6 +149516,7 @@
         "tag.nifty.com",
         "tag.octopusenergy.fr",
         "tag.panorama.ai",
+        "tag.perx.ru",
         "tag.phantomscreens.com.au",
         "tag.pluripharma.com.br",
         "tag.poomang.com",
@@ -150321,6 +150324,7 @@
         "target.zinia.com",
         "target.zinia.de",
         "targetab.metrobyt-mobile.com",
+        "targetads.io",
         "targeting.api.drift.com",
         "targeting.tbt.arcpublishing.com",
         "targeting.washpost.nile.works",
@@ -162295,6 +162299,7 @@
         "wistaging-stage-toonjoa.net.daraz.com",
         "witchitafalls.townsquaremedia.info",
         "withyou.shorr.com",
+        "wittyinternet.com",
         "wiuyjxbqhsxwpus-c.adktrack39.xyz",
         "wiw.infotodayz.online",
         "wiw.learntastyz.site",
@@ -166457,6 +166462,7 @@
         "xaqprd.gardenbenches.com",
         "xasxrz.interlakemecalux.com",
         "xay5o.toscane-boutique.fr",
+        "xbarbppqv.com",
         "xbaxfy.minrevi.jp",
         "xbgbod.scandinavianoutdoor.se",
         "xbleox.merryat.com",
@@ -168517,6 +168523,7 @@
         "zsrda.snagtights.ca",
         "zsseb.bioyouthlabs.com",
         "zsthu.thefryeandco.com",
+        "zstnzufw.com",
         "zt.aznudelive.com",
         "zt.boyfriend.show",
         "zt.cambaddies.com",
@@ -168672,5 +168679,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
