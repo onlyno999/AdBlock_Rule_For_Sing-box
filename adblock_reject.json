@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -123802,6 +123803,7 @@
         "play.underdogfantasy.com",
         "play.wavelength.zone",
         "play.zin99.co",
+        "player-analytics.mp.lura.live",
         "player-feedback.p7s1video.net",
         "player-telemetry.vimeo.com",
         "player.resonance.pk",
@@ -156252,6 +156254,7 @@
         "trk2.pinterest.com",
         "trkapi.impact.com",
         "trkcare.hmhn.org",
+        "trkcliq.com",
         "trkcmb.business.algeria.hsbc.com",
         "trkcmb.business.hsbc.ae",
         "trkcmb.business.hsbc.co.in",
@@ -168703,6 +168706,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
