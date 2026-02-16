@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -104373,6 +104374,7 @@
         "liosix.studio55.fi",
         "lipit.sandcloud.com",
         "liqmh.pureromance.com",
+        "liquid-student.com",
         "liraq.uniqcondominio.com.br",
         "lisalovesholidays.foolhardywear.pro",
         "listen.trakks.com",
@@ -123692,6 +123694,7 @@
         "pla.wigglepixel.nl",
         "placeholder.hgsdigital.com",
         "places.britishland.com",
+        "plain-plane.com",
         "plan.devbyexample.com",
         "plan3dstp.neoabita.fr",
         "planarian.614deals.com",
@@ -168718,6 +168721,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
