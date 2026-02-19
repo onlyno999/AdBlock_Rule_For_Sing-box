@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -30741,7 +30740,6 @@
         "counter2.blog.livedoor.com",
         "counter24.luxnet.ua",
         "counters.booking.com",
-        "countly.globaldelight.net",
         "countrystyle.e.aremedia.com.au",
         "countvoncount.goguardian.com",
         "coupontic.com",
@@ -134351,6 +134349,7 @@
         "sdk.adtiming.com",
         "sdk.airbridge.io",
         "sdk.appsflyer.com",
+        "sdk.beizi.biz",
         "sdk.optimove.net",
         "sdk.out.usbla.net",
         "sdk.starbolt.io",
@@ -139674,6 +139673,7 @@
         "sig.qoyod.com",
         "sigma.cases.gg",
         "sigmasports.tt.omtrdc.net",
+        "sigmob.cn",
         "signal.wida.sa",
         "signalfx.com",
         "signals.carrefoursa.com",
@@ -173993,5 +173993,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
