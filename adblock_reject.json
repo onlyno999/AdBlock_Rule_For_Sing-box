@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17105,6 +17104,7 @@
         "allnews.chestertelegraph.org",
         "allnipponairwayscolt.tt.omtrdc.net",
         "allo.vooban.com",
+        "alloy-web.zvuk.com",
         "allpakjobsonline.leftmany.pro",
         "allrisks.actonservice.com",
         "allseason.apps.net.daraz.com",
@@ -173992,5 +173992,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
