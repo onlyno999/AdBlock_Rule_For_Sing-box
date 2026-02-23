@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -136031,6 +136032,7 @@
         "oj2dzpoptmhlq3s-p.adkoffer.fr",
         "oj2q8.montecarlosbm.book-secure.com",
         "ojclas.flower-webshop.jp",
+        "ojfotraqjg.in",
         "ojgot.solawave.co",
         "ojhwie.dimanoinmano.it",
         "ojiem.fabricmegastore.com",
@@ -189614,6 +189616,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
