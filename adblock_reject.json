@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -126120,6 +126119,7 @@
         "logservice1.hicloud.com",
         "logsink.zedge.net",
         "logsk.glomancloud.gr",
+        "logssug.ucweb.com",
         "logtake.weidian.com",
         "logupdate.avlyun.sec.miui.com",
         "logz.io",
@@ -177263,6 +177263,7 @@
         "uc.ucweb.com",
         "uc9.ucweb.com",
         "ucaas.avaya.com",
+        "ucads.ucweb.com",
         "ucaje.lasersafetycertification.com",
         "ucan.tt.omtrdc.net",
         "ucawkg.rsfplus.com",
@@ -189616,5 +189617,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
