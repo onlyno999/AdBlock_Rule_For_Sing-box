@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -134003,6 +134004,7 @@
         "my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com",
         "mya.actonservice.com",
         "myakiu.trendhim.ch",
+        "myangular.life",
         "myapp.inchargeapp.com",
         "myapp.tawuniya.co",
         "myatpe.mebelaero.ru",
@@ -145718,7 +145720,6 @@
         "s.muhlenberg.edu",
         "s.muney.com.au",
         "s.muskokaregion.com",
-        "s.myangular.life",
         "s.mysaunaworld.com",
         "s.n4m5x60.com",
         "s.naasfabriker.se",
@@ -189620,6 +189621,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
