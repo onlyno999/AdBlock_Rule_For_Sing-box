@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19692,6 +19691,7 @@
         "aplikacja.tokfm.pl",
         "apllogistics.actonservice.com",
         "aplobv.xexymix.com",
+        "aplus.gmarket.co.kr",
         "aplusk.chiccams.com",
         "apm-fe.xiaohongshu.com",
         "apm-log-upload-os.hoyoverse.com",
@@ -24613,6 +24613,7 @@
         "bidjora.com",
         "bidmyadz.com",
         "bidmyqps.xyz",
+        "bidr.io",
         "bidrbu.bett1.at",
         "bidsms.com",
         "bidsopt.com",
@@ -145746,6 +145747,7 @@
         "s.octoberads.space",
         "s.officialnanosparkle.com",
         "s.omg.adult",
+        "s.opensend.com",
         "s.opoxv.com",
         "s.opti-digital.com",
         "s.optidigital.com",
@@ -189618,5 +189620,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
