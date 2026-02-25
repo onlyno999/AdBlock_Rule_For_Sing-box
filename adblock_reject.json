@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -137024,8 +137025,10 @@
         "p1.danskebank.dk",
         "p1.danskebank.ie",
         "p1.subsclife.com",
+        "p16-ad-site-sign-sg.tiktokcdn.com",
         "p16-ad.byteoversea.com",
         "p16-tiktokcdn-com.akamaized.net.iberostar.com",
+        "p19-ad-site-sign-sg.tiktokcdn.com",
         "p192.eastbaytimes.com",
         "p2.danskebank.co.uk",
         "p2.danskebank.dk",
@@ -189621,6 +189624,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
