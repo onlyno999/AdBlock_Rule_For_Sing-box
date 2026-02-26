@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -145271,6 +145270,7 @@
         "ruw.roanokeunderwriting.com",
         "ruxg2hjbrbtt75tzfzpiq.hxrl11novx45x4.cfd",
         "rva.outbrain.com",
+        "rvbmvjzymhmai.website",
         "rvcwmg.torbs.pl",
         "rverxn.autosphere.fr",
         "rvgbs.safelifedefense.com",
@@ -189628,5 +189628,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
