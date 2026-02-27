@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25517,6 +25516,7 @@
         "bloodywoodstage-damxx.net.daraz.com",
         "bloodywoodstage-esattamatka.net.daraz.com",
         "bloodywoodstagingbollyshare.net.daraz.com",
+        "blossoms.com",
         "blrag.georgiemane.com",
         "blrhel.veronicabeard.com",
         "bls.aarongolub.com",
@@ -189632,5 +189632,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
