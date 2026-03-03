@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -49027,7 +49028,6 @@
         "dig.bdurl.net",
         "digicard.jollyhires.com",
         "digidip.net",
-        "diginetica.net",
         "diginibble.fumblingvacation.pro",
         "digistat.westjet.com",
         "digistats.westjet.com",
@@ -211819,6 +211819,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
