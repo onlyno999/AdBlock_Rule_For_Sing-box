@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22052,6 +22053,7 @@
         "api.danielhenriqueadv.com.br",
         "api.danielsoutoortopedista.com.br",
         "api.data-analytics.pokemon.com",
+        "api.datahub-srgssr.ch",
         "api.datinghelp.dk",
         "api.datingxperten.de",
         "api.dayrellcompany.com.br",
@@ -211819,6 +211821,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
