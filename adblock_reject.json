@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -106967,6 +106968,7 @@
         "feeds-ns.emailvision.ebs.net.daraz.com",
         "feeds.azure.net.daraz.com",
         "feedsllsouth.northamerica.net.daraz.com",
+        "fel-api.prod.browse.bestbuy.com",
         "felidae.mmm.page",
         "felidae.mysuperportal.com",
         "felidae.theforeignarchitect.com",
@@ -198245,6 +198247,7 @@
         "ucmetrics.hypovereinsbank.de",
         "ucmiax.laconicum.com",
         "ucnjt.guessfactory.com",
+        "ucookie.com.tr",
         "ucounter.ucoz.net",
         "ucppeo.silux.hr",
         "ucs.betwaygroup.com",
@@ -211817,6 +211820,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
