@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -18888,6 +18889,7 @@
         "africa.edm.globalsources.com",
         "africa.promo.skf.com",
         "afrnc.firstimpressionironworks.com",
+        "afs.googlesyndication.com",
         "afs.wearemp.com",
         "aft.bevrijdingsdagenschede.nl",
         "aft.dance4liberation.nl",
@@ -141101,6 +141103,7 @@
         "log.strawpoll.com",
         "log.strm.yandex.ru",
         "log.suddenclean.com",
+        "log.sweepycleanplus.com",
         "log.talkie-ai.com",
         "log.tbs.qq.com",
         "log.tf.co.kr",
@@ -149709,6 +149712,7 @@
         "mole.gostartupco.com",
         "molex.tt.omtrdc.net",
         "mollusk.working.actor",
+        "mollyflow.com",
         "momotaro.craigmod.com",
         "momotaro.walkkumano.com",
         "momowa.momoshop.com.tw",
@@ -153761,6 +153765,7 @@
         "oexcmv.concent.co.jp",
         "of.coursedog.com",
         "ofbrl.cefaly.com",
+        "ofbtrorzo.in",
         "oferplan-data.lavozdegalicia.es",
         "ofertas.datamars.es",
         "ofertasdestacadas.net.daraz.com",
@@ -189296,6 +189301,7 @@
         "t.dupesandco.us",
         "t.dynatrck.site",
         "t.e.x.com",
+        "t.easywebland.my",
         "t.echt-vital.de",
         "t.echtemamas.de",
         "t.ecomfort.com",
@@ -211826,6 +211832,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
