@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -33206,6 +33205,7 @@
         "carsandcovers.cabriosupply.it",
         "carsandcovers.cabriosupply.nl",
         "carsandcovers.shopforcovers.com",
+        "carsarace.com",
         "cart-01-lib-oa-1-admin8.net.daraz.com",
         "cart-partner-pay.net.daraz.com",
         "cart-partner.net.daraz.com",
@@ -35732,6 +35732,7 @@
         "citibanamex.tt.omtrdc.net",
         "citicorpcreditservic.tt.omtrdc.net",
         "citihktw.tt.omtrdc.net",
+        "citiservi.es",
         "citisgsgipbmy.tt.omtrdc.net",
         "citizensbank.tt.omtrdc.net",
         "citizensclimate.actonservice.com",
@@ -211820,5 +211821,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
