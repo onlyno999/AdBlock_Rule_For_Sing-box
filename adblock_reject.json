@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -122468,6 +122469,7 @@
         "host2-car21-web-wwww0node.net.daraz.com",
         "host2.partner.net.daraz.com",
         "host223pago.docs.net.daraz.com",
+        "host57k.cfd",
         "hosting-svc.docs.net.daraz.com",
         "hosting.kube-partner.net.daraz.com",
         "hosting.ns.emailvision.us.net.daraz.com",
@@ -211821,6 +211823,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
