@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -140993,6 +140992,7 @@
         "log.classting.com",
         "log.cleandesigner.live",
         "log.cleanertoolboxonline.live",
+        "log.cleanerwish.live",
         "log.cleansweepplu.com",
         "log.clearcleanerpro.live",
         "log.cloud.sbs.co.kr",
@@ -211823,5 +211823,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
