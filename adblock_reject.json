@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -121843,6 +121842,7 @@
         "health.care.mclaren.org",
         "health.carerev.com",
         "health.fishersci.com",
+        "health.flowplayer.com",
         "health.hillcrest.com",
         "health.net.daraz.com",
         "healthcare.fishersci.com",
@@ -211832,5 +211832,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
