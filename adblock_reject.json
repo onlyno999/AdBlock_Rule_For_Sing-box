@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -106403,6 +106402,7 @@
         "fail.adr.ec",
         "fairfaxmedia.sharedcount.com",
         "fairfaxnz.tt.omtrdc.net",
+        "fairscrew.com",
         "fairstone.tt.omtrdc.net",
         "fairy.wfairyg.com",
         "faithinthenews.share.ntv.io",
@@ -211836,5 +211836,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
