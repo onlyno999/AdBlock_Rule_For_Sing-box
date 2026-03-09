@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21108,6 +21107,7 @@
         "analysis.sooplive.co.kr",
         "analysis.sozialversicherung.at",
         "analysis.vesync.com",
+        "analystic.365av.net",
         "analytex-us.userpilot.io",
         "analytic-client.cuntempire.com",
         "analytic-client.playful-fairies.com",
@@ -221327,5 +221327,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
