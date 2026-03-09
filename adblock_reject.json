@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -158435,6 +158436,7 @@
         "modus.nike.com",
         "moebel.medipax.de",
         "moeez.wellnesslabsrx.com",
+        "moengage.com",
         "mofox.com",
         "mohamed.net.anwalt.de",
         "moigv.spartan.com",
@@ -221327,6 +221329,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
