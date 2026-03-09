@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17075,6 +17074,7 @@
         "accept.alalikexpress.com",
         "accept.net.daraz.com",
         "accept.notifysrv.com",
+        "acceptancedishearten.com",
         "acceptatie-authpartner.net.daraz.com",
         "acceptatie-engineapplication-spring.net.daraz.com",
         "acceptatie.n-switch.net.daraz.com",
@@ -157754,6 +157754,7 @@
         "microsoft.eventionapp.com",
         "microware.actonservice.com",
         "mics.zaitakuiryo-c.com",
+        "midnightlotusgrove.com",
         "midwest-refrigeration.actonservice.com",
         "mie-solutions.actonservice.com",
         "miembroskube-csr31.net.daraz.com",
@@ -174500,6 +174501,7 @@
         "satarget.csu.edu.au",
         "satarget.southaustralia.com",
         "satgt.grafana.com",
+        "satisfiednews.com",
         "satmon.neekstore.com",
         "satracking.cubiq.com",
         "satracking.finning.com",
@@ -221324,5 +221326,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
