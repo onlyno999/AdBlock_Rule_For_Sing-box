@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -160855,7 +160854,6 @@
         "minnow.clintwinter.me",
         "minnow.phasemedical.com",
         "minnow.tapas-software.net",
-        "minor-api-os.hoyoverse.com",
         "mintegral.com",
         "mintegral.net",
         "minterketing.net.daraz.com",
@@ -224797,5 +224795,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
