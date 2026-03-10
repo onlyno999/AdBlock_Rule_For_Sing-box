@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -28296,6 +28295,7 @@
         "bdsrj.karusocks.com",
         "bdt.kno-winkel.nl",
         "bdt.mnventures.lt",
+        "bdtelemetry.amazon",
         "bdtestsendpulse.branch.rocks",
         "bdtheque.net.jumia.com.gh",
         "bduhaq.ateliergs.fi",
@@ -172922,6 +172922,7 @@
         "rum.corewebvitals.io",
         "rum.hlx.page",
         "rum.uptime.com",
+        "rum.us-east-1.amazonaws.com",
         "rumsey.actonservice.com",
         "rumstat.cdnvideo.ru",
         "rumt-sg.com",
@@ -203889,7 +203890,6 @@
         "trac.podsdirect.ro",
         "tracciamento.andrewiseppi.com",
         "tracciamentodati.lapidiprovvisorie.com",
-        "trace-v1.free-reels.com",
         "trace.51jingying.com",
         "trace.bounce.17track.net",
         "trace.free-reels.com",
@@ -221331,5 +221331,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
