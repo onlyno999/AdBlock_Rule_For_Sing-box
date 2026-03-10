@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -48869,6 +48870,7 @@
         "dd.control4.com",
         "dd.daffodilday.org.nz",
         "dd.g2.com",
+        "dd.leboncoin.fr",
         "dd.reuters.com",
         "dd.unifieddataconnect.click",
         "dd47055762.df6733029c.com",
@@ -221329,6 +221331,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
