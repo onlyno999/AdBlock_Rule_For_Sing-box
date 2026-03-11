@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -118162,6 +118161,7 @@
         "fst4l.6759b8126272fabc9f5362b0.click",
         "fsta.leboncoin.info",
         "fsugco.rcn.nl",
+        "fsuooh.cc",
         "fsylj.hellava.co",
         "fsz1.francoisesaget.be",
         "fsz1.francoisesaget.com",
@@ -133307,6 +133307,7 @@
         "hscvk.tnuck.com",
         "hsdbu.immocenterwitte.de",
         "hsdn.org",
+        "hsehk.cn",
         "hsfaffiliatesllc.tt.omtrdc.net",
         "hsfsku.guedo-outillage.fr",
         "hsgsdd.hardy-schmitz.de",
@@ -224797,5 +224798,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
