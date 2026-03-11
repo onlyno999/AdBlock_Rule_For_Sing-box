@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -117965,6 +117966,7 @@
         "freedom.allgenfinancial.com",
         "freefr-fixed.mno.link",
         "freelance.seraku.co.jp",
+        "freelygreatestscammer.com",
         "freepartner.net.daraz.com",
         "freevectorlogo.fumblingvacation.pro",
         "freewheel-jitt.sanoma.fi",
@@ -224802,6 +224804,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
