@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -188892,6 +188891,7 @@
         "snap.com",
         "snap.licdn.com",
         "snap.plnar.ai",
+        "snappydirt.com",
         "snaqyb.24mx.be",
         "snat.goguardian.com",
         "snbwyi.heine.at",
@@ -205649,6 +205649,7 @@
         "tontent.powv1deo.cc",
         "too6jhvw.xyz",
         "tooasthmaloose.com",
+        "toodlerehouse.com",
         "toolbar.complex.com",
         "toolbar.net.daraz.com",
         "toolbar01-car21-10-r-oa-1.net.daraz.com",
@@ -224817,5 +224818,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
