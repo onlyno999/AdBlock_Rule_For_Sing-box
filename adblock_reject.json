@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -12472,6 +12471,7 @@
         "a.mx.tklivechat.com",
         "a.myprettyads.one",
         "a.mystr1.xyz",
+        "a.n11.com",
         "a.n4m5x60.com",
         "a.nelo.mx",
         "a.ninase.sbs",
@@ -132217,6 +132217,7 @@
         "h.glowxii.com",
         "h.greenmangaming.com",
         "h.heleneskov.com",
+        "h.n11.com",
         "h.santanderconsumer.pl",
         "h.sst.hamburggaming.com",
         "h.threatmetrix.com",
@@ -224820,5 +224821,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
