@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -178868,7 +178869,9 @@
         "sense.cliexa.com",
         "sense.wearerasa.com",
         "senshukai.tt.omtrdc.net",
+        "sensor.aqhg.online",
         "sensor.emolm.com",
+        "sensor.photogrid.app",
         "sensors-log.dongqiudi.com",
         "sensors.ibreader.com",
         "sensors.snappea.com",
@@ -224824,6 +224827,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
