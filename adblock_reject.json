@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -50242,6 +50241,7 @@
         "delikoko.openapp.link",
         "deliver.oztam.com.au",
         "deliver.ptgncdn.com",
+        "delivery.2d.net.co",
         "delivery.ads.fantasanremo.com",
         "delivery.boraso.com",
         "delivery.casabito.io",
@@ -224829,5 +224829,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
