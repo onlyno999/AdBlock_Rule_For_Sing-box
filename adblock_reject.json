@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -192405,6 +192404,7 @@
         "ssgamf.stories.com",
         "ssgan.tera.ma",
         "ssgi.roserx.health",
+        "ssgmanual.snov.io",
         "ssgri.grupporefrattivoitaliano.it",
         "ssgt.flavianasser.com.br",
         "ssgt.mychildbenefit.co.uk",
@@ -224832,5 +224832,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
