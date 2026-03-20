@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -137992,6 +137993,7 @@
         "ins.leavitt.com",
         "ins.oberpfalzmedien.de",
         "ins.wolterskluwerfs.com",
+        "insensitiveshoweraudible.com",
         "inside.man.eu",
         "insides.honic.eu",
         "insight.alwaysfit.com.br",
@@ -224829,6 +224831,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
