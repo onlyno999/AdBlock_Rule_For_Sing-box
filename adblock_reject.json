@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -18012,6 +18011,7 @@
         "ad.xn--o9jem5iv41o982db8k.jp",
         "ad.xxam.org",
         "ad.youku.com",
+        "ad.zankhana.ltd",
         "ad.zigzagstr.administrators.net.daraz.com",
         "ad.zijieapi.com",
         "ad.zui.com",
@@ -52247,6 +52247,7 @@
         "dovercorp.tt.omtrdc.net",
         "doversaddlery.tt.omtrdc.net",
         "downeconomywp.advancedtech.com",
+        "downknottily.com",
         "download-stats.mozilla.org",
         "download.addpinch.com",
         "download.backpackergame.com",
@@ -224836,5 +224837,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
