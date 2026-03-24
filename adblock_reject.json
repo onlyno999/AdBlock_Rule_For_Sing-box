@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -212686,6 +212685,7 @@
         "vault-stats.sladewatkins.net",
         "vault.00proplus3xn.net.daraz.com",
         "vault.click.s11.sfmc-osl.com",
+        "vault.nqintelligence.com",
         "vault00proplus3xn.net.daraz.com",
         "vault01-lib-oa-1-cf23region.net.daraz.com",
         "vault01.shemale.show",
@@ -224840,5 +224840,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
