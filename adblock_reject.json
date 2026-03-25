@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -170696,6 +170697,7 @@
         "plausible.treelightsoftware.com",
         "plausible.urbanekuensteruhr.de",
         "plausible.veszelovszki.com",
+        "plausible.vidsonic.net",
         "plausible.wordstamped.com",
         "plausible.yalepaprika.com",
         "plausible.zest.dev",
@@ -224842,6 +224844,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
