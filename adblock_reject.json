@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -172988,6 +172987,7 @@
         "quiz-disabledpartner.net.daraz.com",
         "quiz.resolucaoonline.com",
         "quizmaestro.myavlive.com",
+        "quizzicalrun.com",
         "quk5hzohitvtwjx-p.adkoffer.fr",
         "quk9.destinia.com.ar",
         "qumhzv.calmamall.com",
@@ -224849,5 +224849,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
