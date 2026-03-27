@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22690,7 +22691,6 @@
         "analytics.verizonwireless.com",
         "analytics.veryfunnyads.net",
         "analytics.vg",
-        "analytics.vgtimes.com",
         "analytics.videaai.app",
         "analytics.viisviis.fi",
         "analytics.villagehouse.jp",
@@ -27002,6 +27002,7 @@
         "ats.timepiecesusa.com",
         "atsmetrics.adobe.com",
         "atsod.launch.liveramp.com",
+        "atsssl.gmarket.co.kr",
         "att.adn.hqusers.com",
         "att.biaxoltrck.com",
         "att.click.herbalsnlife.com",
@@ -189847,6 +189848,7 @@
         "splitexpenses.oworld.fr",
         "splletaz.bycortsen.com",
         "splsgi.coco-gourmet.com",
+        "spm.gmarket.co.kr",
         "spmaeu.gumtree.com.au",
         "spmyma.moscowfresh.ru",
         "spnfm3j0vyx7bey-c.adkclicker.fr",
@@ -212418,6 +212420,7 @@
         "utsgw.auction.co.kr",
         "utspt.latchedmama.com",
         "utsssl.auction.co.kr",
+        "utsssl.gmarket.co.kr",
         "utt.impactcdn.com",
         "utzr.intersport.si",
         "uubzxk.bebe-mall.jp",
@@ -224850,6 +224853,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
