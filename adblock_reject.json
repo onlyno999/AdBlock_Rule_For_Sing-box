@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -209614,6 +209615,7 @@
         "trapptech.actonservice.com",
         "traqueamento.profissaoconstruir.com.br",
         "trasta.oceansapart.com",
+        "traumatic-witness.pro",
         "travel.caradonna.com",
         "travel.cruisesforless.com",
         "travel.ec-ovc.com",
@@ -224851,6 +224853,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
