@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -52603,6 +52604,7 @@
         "dsa.dorms.com",
         "dsab.digga.se",
         "dsafadgfklg.insektenschutz24.eu",
+        "dsas-t.danawa.com",
         "dsas.danawa.com",
         "dsb.yahoo.co.jp",
         "dsbahmgppc0j4.cloudfront.net",
@@ -215914,6 +215916,7 @@
         "wa.ui-portal.de",
         "wa.vodafone.cz",
         "wa.vodafone.pt",
+        "wa.wawlabs.com",
         "wa.wdr.de",
         "wa.wdrmaus.de",
         "wa.web.de",
@@ -224852,6 +224855,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
