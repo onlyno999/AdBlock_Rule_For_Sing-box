@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -20926,6 +20927,7 @@
         "alpaca.wingmantracker.com",
         "alpes.xhlive.org",
         "alpha-car13.net.daraz.com",
+        "alpha-collector-statistics.nhn-commerce.com",
         "alpha-emailvision.net.daraz.com",
         "alpha-freshegg.net.daraz.com",
         "alpha-freya.net.daraz.com",
@@ -21840,6 +21842,7 @@
         "analytics.karakuri.ai",
         "analytics.kbeauty.rs",
         "analytics.keepstreams.com",
+        "analytics.kelasmalam.net",
         "analytics.kellerencompass.com",
         "analytics.kellerpermits.com",
         "analytics.kemlu.go.id",
@@ -161721,6 +161724,7 @@
         "metrics.ramada.com",
         "metrics.rambleworldwide.co.uk",
         "metrics.rapidadvance.com",
+        "metrics.rapidedge.io",
         "metrics.rarediseasesignup.com",
         "metrics.razorkayaks.co.uk",
         "metrics.razorkayaks.com",
@@ -163560,6 +163564,7 @@
         "monitor.ns1-d.viacomtech.net",
         "monitor.ns1-s.rspcdn.net",
         "monitor.r53.cbsivideo.com",
+        "monitoragc.xyz",
         "monitoring-be.net.daraz.com",
         "monitoring-dfw3-dr02.net.daraz.com",
         "monitoring-sdk.experimentation.intuit.com",
@@ -227109,6 +227114,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
