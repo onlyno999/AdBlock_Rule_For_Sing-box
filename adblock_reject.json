@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17881,6 +17882,7 @@
         "ad-api-static-stage.net.daraz.com",
         "ad-api.ehawk.com",
         "ad-api.maxnapps.com",
+        "ad-blocker-1.static-cloudflare.workers.dev",
         "ad-bls-tracking.lemino.docomo.ne.jp",
         "ad-brix.com",
         "ad-channel.wikawika.xyz",
@@ -23894,6 +23896,7 @@
         "api.ethic.pt",
         "api.eunow4u.com",
         "api.evandrocanello.com.br",
+        "api.event.appstack.tech",
         "api.eventbus.me",
         "api.evoluaemsegredo.com.br",
         "api.evoluamaiscursosonline.com.br",
@@ -28659,6 +28662,7 @@
         "basyspro.actonservice.com",
         "bat.heelix.be",
         "bat29.gimmeporn.xyz",
+        "bat31.gimmeporn.xyz",
         "bathandbody.tt.omtrdc.net",
         "batman.avadacom.com",
         "baton.cuetv.online",
@@ -50376,7 +50380,9 @@
         "deszigzagstr.administrators.net.daraz.com",
         "detail.iaperformance.com.br",
         "detaillog-global-dual.coolbcloud.com",
+        "detaillog-global-dual.coolgcloud.com",
         "detaillog-global-dual.coolhcloud.com",
+        "detailroi.com",
         "details.pella.com",
         "detect.clearme.com",
         "detect.rayjump.com",
@@ -152955,6 +152961,7 @@
         "log2.wanmei.com",
         "log5.interactive-circle.jp",
         "logapi-and.zhipin.com",
+        "logapi.bodyevey.com",
         "logapi.kt.com",
         "logapi.sooplive.com",
         "logapi.tv.naver.com",
@@ -224854,6 +224861,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
