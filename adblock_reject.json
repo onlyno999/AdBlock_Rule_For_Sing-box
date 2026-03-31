@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -164121,6 +164122,7 @@
         "multifamily.rediq.com",
         "multimedia.netplusentremont.ch",
         "multiple-bl.stripchat.org",
+        "multiww.com",
         "mum.alibabachengdun.com",
         "mundi.amunxy.com",
         "mundi.ardenzan.com",
@@ -227115,6 +227117,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
