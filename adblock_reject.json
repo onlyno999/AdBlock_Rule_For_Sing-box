@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -155139,6 +155140,7 @@
         "logs.roku.com",
         "logs.spilgames.com",
         "logs.supersonic.com",
+        "logs.tourister.ru",
         "logs.unchecky.com",
         "logs.viewstats.com",
         "logs13.xiti.com",
@@ -227114,6 +227116,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
