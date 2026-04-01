@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -12075,6 +12074,7 @@
         "a.amw.com",
         "a.antiadxxxspy.com",
         "a.apkeditor.io",
+        "a.apkpures.xyz",
         "a.appbaqend.com",
         "a.applvn.com",
         "a.aramb.site",
@@ -28548,6 +28548,7 @@
         "beacon-fullpage-predictor.goguardian.com",
         "beacon.adelphic.com",
         "beacon.carfax.com",
+        "beacon.cdnpure.com",
         "beacon.coofis.com",
         "beacon.digima.com",
         "beacon.dropbox.com",
@@ -174955,6 +174956,7 @@
         "r.biotrck.com",
         "r.blidz.com",
         "r.browser.miui.com",
+        "r.cdnpure.com",
         "r.cvglobal.co",
         "r.dochaseadx.com",
         "r.emailvision.panel.net.daraz.com",
@@ -213583,6 +213585,7 @@
         "ud.tranquilityspacecoast.com",
         "uda71a.oliviakate.nl",
         "udbdf-v2.nimo.tv",
+        "udbdf.apkpure.com",
         "udc.msn.com",
         "udc.yahoo.com",
         "udcazzuy.k9at.co.uk",
@@ -227133,5 +227136,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
