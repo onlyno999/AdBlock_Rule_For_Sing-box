@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -34213,6 +34214,7 @@
         "catshark.janetalexandersson.com",
         "catshark.jimmyaldape.dev",
         "catsoneemail.demandforhr.com",
+        "catsonictp.com",
         "cattell.loanzify.app",
         "cattle.apisyouwonthate.com",
         "cattle.driftbot.io",
@@ -206052,6 +206054,7 @@
         "tc.qzwxrtyk.com",
         "tc.vbnmhjlp.com",
         "tc.weszxdrf.com",
+        "tc.zxcvbnml.com",
         "tcapi.taad.shop",
         "tcbps.ellos.us",
         "tcbtus.opodo.com",
@@ -227129,6 +227132,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
