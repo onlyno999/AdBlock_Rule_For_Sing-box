@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24412,6 +24411,7 @@
         "app-links.mysta.ge",
         "app-liquiddeath.brandclub.com",
         "app-liquiddeathbeta.brandclub.com",
+        "app-log-lab.immomo.com",
         "app-log-oversea.immomo.com",
         "app-measurement.com",
         "app-monitor.spacecape.com",
@@ -25904,6 +25904,7 @@
         "aqualissstape.leadscore.fr",
         "aquaplatform.com",
         "aquariuslobalid3.click.s11.sfmc-osl.com",
+        "aqueduct-collector-prod.alar.my",
         "aquila.click.s11.sfmc-osl.com",
         "aqwvwn.cultfurniture.com",
         "aqzkl.ergopouch.com",
@@ -119536,6 +119537,7 @@
         "fpc.utexas.edu",
         "fpcdn.io",
         "fpcn.bpsgameserver.com",
+        "fpconfig.net",
         "fpcs.firemountaingems.com",
         "fpcs.wellshaved.gr",
         "fpdtag.tealiumdemo.com",
@@ -139391,6 +139393,7 @@
         "ingdirectit.tt.omtrdc.net",
         "ingerlis.doudare.no",
         "ingest-api.evoto.ai",
+        "ingest.databuckets.com",
         "ingest.do.brainsland.com",
         "ingest.m2catalyst.com",
         "ingest.make.rvohealth.com",
@@ -171698,6 +171701,7 @@
         "pclog.3u.com",
         "pcma.actonservice.com",
         "pcnphysio-com.ca-eulerian.net",
+        "pco-sm-log.tantanapp.com",
         "pcpvl.tribest.com",
         "pcs.ocs.com",
         "pcs.primecircle-structuring.com",
@@ -176112,6 +176116,7 @@
         "report.pixverse.ai",
         "report.seznamzpravy.cz",
         "report.starshort.online",
+        "report.tantanapp.com",
         "report2.iciba.com",
         "reporting-api.gannettinnovation.com",
         "reporting.aatkit.com",
@@ -191767,6 +191772,7 @@
         "spiegel.met.vgwort.de",
         "spigte.shopee.tw",
         "spike.email-disney.cjm.adobe.com",
+        "spindl.link",
         "spinnakermgmt.actonservice.com",
         "spirit.notifysrv.com",
         "spiritairlines.tt.omtrdc.net",
@@ -227123,5 +227129,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
