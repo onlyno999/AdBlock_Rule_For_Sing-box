@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -206859,6 +206860,7 @@
         "think.phdinc.com",
         "think.unbounce.com",
         "think.vyond.com",
+        "thinkingdata.cn",
         "thinkpragmatic.actonservice.com",
         "thirdbranch.zulln.se",
         "thirdparty.bnc.lt",
@@ -227143,6 +227145,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
