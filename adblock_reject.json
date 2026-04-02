@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -23235,6 +23234,7 @@
         "api-tracking.alavancagemnasempresas.com",
         "api-us-east-1.click.s11.sfmc-osl.com",
         "api-v2.kmoparkaalst.be",
+        "api-v2.shareitgames.com",
         "api-xspace-application-spring.net.daraz.com",
         "api-xspace-zigzagstr.net.daraz.com",
         "api-xspace.administrators.net.daraz.com",
@@ -24111,6 +24111,7 @@
         "api2.romulorocha.org",
         "api2.staakmed.com.br",
         "api2.vitala.com.br",
+        "api2.wshareit.com",
         "api23pago-loginvc.doclogin.net.daraz.com",
         "api3.branch.io",
         "api9-sjc12-dr01.net.daraz.com",
@@ -34437,6 +34438,7 @@
         "cdn.ads-flipp.com",
         "cdn.adspmg.com",
         "cdn.adt567.net",
+        "cdn.advertiser.linkvertise.com",
         "cdn.affiliatable.io",
         "cdn.afwpc.com",
         "cdn.agajx.com",
@@ -119229,6 +119231,7 @@
         "fnvma.milanuncios.com",
         "fnvoi.shapermint.com",
         "fnwcuo.bite.lt",
+        "fnyfeds.com",
         "fnznl.dolcevita.ca",
         "focas.jp",
         "foco.atacado.n1promos.com.br",
@@ -159793,6 +159796,7 @@
         "mcdmetric.aaa.com",
         "mcdmetrics.aaa.com",
         "mcdmetrics2.aaa.com",
+        "mcds.dalyfeds.com",
         "mcf.3mmjugjolt9oyz.cyou",
         "mcfeely.net.mydays.de",
         "mcgladrey.tt.omtrdc.net",
@@ -173558,6 +173562,7 @@
         "profile.everydayporn.com",
         "profile.funimation.com",
         "profile.marketone.com",
+        "profiler-collector.dalyfeds.com",
         "profiler-collector.wshareit.com",
         "profiles-00-bootstrap.net.daraz.com",
         "profiles-01-lib-oa-1-administrators-csr40.net.daraz.com",
@@ -174111,6 +174116,7 @@
         "pull.00d70000000motieas.net.daraz.com",
         "pull00-bootstrap.net.daraz.com",
         "pull123pago-svc.docs.net.daraz.com",
+        "pullcf.com",
         "pulsar.ebay.com",
         "pulse.akave.fi",
         "pulse.alectobaby.nl",
@@ -176140,6 +176146,7 @@
         "reports.koalametrics.com",
         "reports.omegacommerce.com",
         "reports.tunein.com",
+        "reporttk.com",
         "reportwest-midas.codmwest.com",
         "repository.net.daraz.com",
         "reppify.actonservice.com",
@@ -227149,5 +227156,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
