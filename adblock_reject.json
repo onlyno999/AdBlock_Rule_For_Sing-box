@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -27279,6 +27280,7 @@
         "authqqticate.net.daraz.com",
         "authrj82p.net.daraz.com",
         "authsamplesticate.net.daraz.com",
+        "authslatteringmisinters.com",
         "authsmtp.alliedhousing.com",
         "authsmtp.axocom.happycustomer.io",
         "authsmtp.casiowatchshop.happycustomer.io",
@@ -42722,6 +42724,7 @@
         "crosspromo.voodoo.io",
         "crosspromotion-us.avosapps.us",
         "crosspromotion.weplayer.cc",
+        "crouteintendersinbringer.monster",
         "crow.claudiakeil.de",
         "crow.gim.technology",
         "crow.themarbleking.com",
@@ -227156,6 +227159,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
