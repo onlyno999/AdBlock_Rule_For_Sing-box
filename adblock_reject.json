@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17721,6 +17722,7 @@
         "ad-log-upload-os.hoyoverse.com",
         "ad-log.dable.io",
         "ad-log.wemakeprice.com",
+        "ad-server.linkvertise.com",
         "ad-serving.iocreate.cloud",
         "ad-shield.cc",
         "ad-shield.io",
@@ -117041,6 +117043,7 @@
         "events-ingestion.services.gorgias.com",
         "events-jp.splash-screen.net",
         "events-meta-events.outsideonline.com",
+        "events-noneu.truecaller.com",
         "events-sandbox.data.msn.com",
         "events-stream-svc.cordial.com",
         "events-stream-svc.cordial.io",
@@ -227158,6 +227161,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
