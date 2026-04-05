@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -49573,6 +49572,7 @@
         "discoverpartner.net.daraz.com",
         "discovery-script.newspic.kr",
         "discovery.newspic.kr",
+        "disloyal-valuable.com",
         "disney.tt.omtrdc.net",
         "disneyinternational.tt.omtrdc.net",
         "dispatcher.upmc.uc.cn",
@@ -140438,6 +140438,7 @@
         "jacsg.belaro.ro",
         "jadak.novanta.com",
         "jade853gmbh.tt.omtrdc.net",
+        "jadedenergy.com",
         "jaeger.netmonet.co",
         "jagevirom.com",
         "jagransolutions.com.actonservice.com",
@@ -227173,5 +227174,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
