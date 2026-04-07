@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -224768,6 +224769,7 @@
         "vehicleaftermarket.nam.promo.skf.com",
         "veih8bee.xhcdn.com",
         "vekekc.nissanblainville.com",
+        "velarium.cc",
         "velocity.novatel.com",
         "velocity.veripos.com",
         "velocitypartners.actonservice.com",
@@ -236561,6 +236563,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
