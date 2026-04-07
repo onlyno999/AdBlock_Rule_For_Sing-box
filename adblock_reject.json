@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -48234,6 +48233,7 @@
         "datas.connectingthreads.com",
         "datas.knitpicks.com",
         "dataserver.bagypack.com",
+        "datasink.sensorsjourney.com",
         "datastape.hometexbd.com",
         "datastat.me",
         "datastp.pymnts.com",
@@ -172604,6 +172604,7 @@
         "mmmanage.lib-oa-1.net.daraz.com",
         "mmmlaw.actonservice.com",
         "mmobsz.edenviaggi.it",
+        "mmp-api.itpub.cloud",
         "mmp001.scalemonk.com",
         "mmqap.intimatesforall.com",
         "mmqkf.theplantguy.com",
@@ -173240,6 +173241,7 @@
         "msufcu.actonservice.com",
         "msurc.armygearus.com",
         "msz3.destinia.cn",
+        "mt-api.itpub.cloud",
         "mt-business.vodafone.com",
         "mt.9gag.com",
         "mt.apocalypsetrivia.com",
@@ -236564,5 +236566,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
