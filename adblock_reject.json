@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -46386,6 +46387,7 @@
         "data-ff6ba35ab1.cash-online.de",
         "data-ff95894520.apps.iocnt.de",
         "data-ingestion.flowgpt.com",
+        "data-lake-api.internet.apps.samsung.com",
         "data-nl.computer-automation.de",
         "data-nl.connect-professional.de",
         "data-nl.deutsche-apotheker-zeitung.de",
@@ -236569,6 +236571,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
