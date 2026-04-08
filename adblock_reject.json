@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -29474,7 +29475,6 @@
         "belbellayystage.joatoon.net.daraz.com",
         "belden.macmon.eu",
         "belgiantrain.tt.omtrdc.net",
-        "belgium.wolterskluwer.com",
         "belgorod-csprod-ss.net.daraz.com",
         "belgorod-stage-ugportal.net.daraz.com",
         "belgorod-stageescortbabylon.net.daraz.com",
@@ -236570,6 +236570,5 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
