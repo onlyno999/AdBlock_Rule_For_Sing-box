@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17850,7 +17849,6 @@
         "aculei.superchatlive.com",
         "acumb0z7adw9mnh-c.linkomo.fr",
         "acumb0z7adw9mnh-p.linkomo.fr",
-        "acustomizedgift.com",
         "acv.au-hikari-kddi.com",
         "acv.auhikari-norikae.com",
         "acv.aun-company.com",
@@ -41826,6 +41824,7 @@
         "containeredmine-csredmine12.net.daraz.com",
         "containerek8s-devvision.d.ns.emailvision.net.daraz.com",
         "containerobong.net.daraz.com",
+        "containers.dsp.solta.io",
         "containesql-sql-ht-1.net.daraz.com",
         "containev1-r-ln-2-csv1-r-ln-231.net.daraz.com",
         "containter-csr31.net.daraz.com",
@@ -222718,6 +222717,7 @@
         "turnipsoft.pubfinity.com",
         "turnitin.examsoft.com",
         "turnitin.gradescope.com",
+        "turnstilesocially.com",
         "turtle.contasemdia.pt",
         "turtle.faisal.sh",
         "turtle.mushtache.com",
@@ -236576,5 +236576,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
