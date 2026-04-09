@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -31437,6 +31436,7 @@
         "bkstg.flyx.me",
         "bkt-prod.sbishinseibank.co.jp",
         "bktgg.catoriclothing.com",
+        "bktpcross.com",
         "bkufc.meridiangrooming.com",
         "bkvec.tryshieldtech.com",
         "bkzfz.aroma360.tw",
@@ -143088,6 +143088,7 @@
         "hoojts.demmelhuber.net",
         "hooks.geralbet.bet.br",
         "hooks.lider.bet.br",
+        "hookspf.com",
         "hookworm.campaignzee.com",
         "hooru.regence.com",
         "hootsuite.branch.rocks",
@@ -185266,6 +185267,7 @@
         "rfsquk.medicaresavingslab.com",
         "rfssm.iliabeauty.com",
         "rftp.sugaredandbronzed.com",
+        "rfvgcross.com",
         "rfvoc.enml.com",
         "rfvqk.manlybands.com",
         "rfvrd.infinitediscs.com",
@@ -236572,5 +236574,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
