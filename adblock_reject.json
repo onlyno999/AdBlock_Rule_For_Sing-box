@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -40901,6 +40900,7 @@
         "collector.cdp.cnn.com",
         "collector.fiverr.com",
         "collector.fullxh.com",
+        "collector.gamechanger.io",
         "collector.getguardianlegal.com",
         "collector.github.com",
         "collector.githubapp.com",
@@ -236588,5 +236588,6 @@
         "zzzfba.thecolvinco.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
