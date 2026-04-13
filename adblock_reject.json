@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -139441,6 +139440,7 @@
         "gatewayfortune.share.ntv.io",
         "gatewayr-hx-1.net.daraz.com",
         "gather.donga.com",
+        "gatheringtypes.com",
         "gator.volces.com",
         "gau.groobee.io",
         "gauqt.tryperiod.com",
@@ -248491,5 +248491,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
