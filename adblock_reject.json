@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -48096,6 +48095,7 @@
         "dhwmtx.stylewe.com",
         "di2.zooplus.es",
         "diagmon-serviceapi.samsungdm.com",
+        "diagnostics.rakam.io",
         "diagnostics.thermo.com",
         "dialer.leads360.com",
         "dialer.velocify.com",
@@ -195063,6 +195063,7 @@
         "rajshop.rajshop.com.bd",
         "raju.halalebazaar.com",
         "rajyiv.kimyoung.co.kr",
+        "rakam-api.aptoide.com",
         "rake.11st.co.kr",
         "rake.tmap.co.kr",
         "rakesh.csatmantra.com",
@@ -248497,5 +248498,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
