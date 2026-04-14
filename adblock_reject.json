@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -182744,6 +182743,7 @@
         "metrix.511tactical.com",
         "metrix.ancestry.com",
         "metrix.avon.uk.com",
+        "metrix.luxnet.io",
         "metrix.motosport.com",
         "metrix.publix.com",
         "metrix.us.ovhcloud.com",
@@ -248492,5 +248492,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
