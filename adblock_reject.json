@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -31024,6 +31025,7 @@
         "bid.mbidtg.com",
         "bid.onclcktg.com",
         "bidbpo.dr-10.com",
+        "bidder.a11.vega.aurion11.io",
         "bidder.doceree.com",
         "bidder.dsp.outfit7.com",
         "bidder.mdspinc.com",
@@ -231982,6 +231984,7 @@
         "tracker-marketingpush.net.daraz.com",
         "tracker-rec.smart-bdash.com",
         "tracker-v4.gamedock.io",
+        "tracker.a11.vega.aurion11.io",
         "tracker.adbinead.com",
         "tracker.adotmob.com",
         "tracker.adsales.rakuten.co.jp",
@@ -248494,6 +248497,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
