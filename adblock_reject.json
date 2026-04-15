@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -139888,6 +139887,7 @@
         "getstarted.championteamwear.com",
         "getstarted.itstwofold.com",
         "getstarted.national.edu",
+        "getter.fun",
         "getter.tt.omtrdc.net",
         "getterrestricted-r-ht-2.net.daraz.com",
         "gettoknow.skookum.com",
@@ -248500,5 +248500,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
