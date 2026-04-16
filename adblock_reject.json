@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -34192,7 +34193,6 @@
         "carsandcovers.cabriosupply.fr",
         "carsandcovers.cabriosupply.nl",
         "carsandcovers.shopforcovers.com",
-        "carsarace.com",
         "cartae2-dfw3-dr02.net.daraz.com",
         "cartazure-allseason.net.daraz.com",
         "carteiro.altashabilidadesesuperdotacao.com",
@@ -248501,6 +248501,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
