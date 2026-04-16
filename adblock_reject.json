@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -140158,6 +140159,7 @@
         "global-go.experian.com",
         "global-guardians.actonservice.com",
         "global-mktg.transunion.com",
+        "global-receiver-ta.thinkingdata.cn",
         "global-report.ml.youngjoygame.com",
         "global-sis.engagelab.com",
         "global.accadis-education.com",
@@ -227879,7 +227881,6 @@
         "think.unbounce.com",
         "think.vyond.com",
         "thinkgeek.tt.omtrdc.net",
-        "thinkingdata.cn",
         "thinkpragmatic.actonservice.com",
         "thirdbranch.zulln.se",
         "thirdparty.bnc.lt",
@@ -248501,6 +248502,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
