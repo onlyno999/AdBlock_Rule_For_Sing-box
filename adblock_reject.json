@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -154062,7 +154061,6 @@
         "hlqpie.waves.com",
         "hlreoc.gonuldensevenler.com",
         "hlrqi.lasioinc.com",
-        "hls-beacons-us.xumo.com",
         "hlstatus.com",
         "hlwxkuvq2sodpnf-p.adkplan.fr",
         "hlygsp.modivo.ro",
@@ -248510,5 +248508,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
