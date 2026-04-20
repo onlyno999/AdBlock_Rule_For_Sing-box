@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19674,6 +19675,7 @@
         "ads.sparkflow.net",
         "ads.spectrumvoip.com",
         "ads.sportslocalmedia.com",
+        "ads.starzd.pro",
         "ads.swiss-equestrian.ch",
         "ads.taptapnetworks.com",
         "ads.the-saleroom.com",
@@ -248508,6 +248510,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
