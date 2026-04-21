@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22953,6 +22954,7 @@
         "analytics.playplayground.com",
         "analytics.plex.tv",
         "analytics.pnc.com",
+        "analytics.pocketfm.com",
         "analytics.poferries.com",
         "analytics.pointdrive.linkedin.com",
         "analytics.polaris.com",
@@ -193241,6 +193243,7 @@
         "prism.tramclockmunich.com",
         "prism.villageneva.com",
         "prisma-tr.prismamedia.com",
+        "prismriotads.com",
         "prismtest.epoise.com",
         "priv-yancancook.net.daraz.com",
         "priv.apolloakali.share.ntv.io",
@@ -248508,6 +248511,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
