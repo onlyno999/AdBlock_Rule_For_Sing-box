@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -199624,8 +199623,17 @@
         "sarver.etouchbd.com",
         "sarver.khatirajbd.com",
         "sarver.shobjibazar.com",
+        "sas.a.int-nft.peacocktv.com",
+        "sas.a.peacocktv.com",
+        "sas.a.stable-int.peacocktv.com",
         "sas.adamasjeans.com",
         "sas.com",
+        "sas.f.int-nft.peacocktv.com",
+        "sas.f.peacocktv.com",
+        "sas.f.stable-int.peacocktv.com",
+        "sas.int-nft.peacocktv.com",
+        "sas.peacocktv.com",
+        "sas.stable-int.peacocktv.com",
         "sasadotcomlimited.tt.omtrdc.net",
         "sat.cellordion3.net",
         "sat.dipamaid.net",
@@ -222431,6 +222439,7 @@
         "static.jampp.com",
         "static.javxxx.me",
         "static.jotterads.com",
+        "static.journify.io",
         "static.konnectads.com",
         "static.kraftads.com",
         "static.kremsondigital.com",
@@ -225516,6 +225525,7 @@
         "t.jmusports.com",
         "t.johannus.com",
         "t.josephnguyen.org",
+        "t.journify.io",
         "t.juneau.ca",
         "t.juskys.de",
         "t.juskys.fr",
@@ -248531,5 +248541,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
