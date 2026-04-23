@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -139015,6 +139016,7 @@
         "ftwnwght.net.anwalt.de",
         "ftysya.aboutyou.de",
         "ftzets.silkfred.com",
+        "fubuki-umami.space",
         "fuckers.nieuws.xxx",
         "fuckyeahsociallyawkwardpenguin.lovingforever.pro",
         "fucpa.sk-ii.com",
@@ -149169,6 +149171,7 @@
         "go8.global.toshiba",
         "goa.dngn.kr",
         "goaccredited.actonservice.com",
+        "goads2023.com",
         "goat.dabric.xyz",
         "goat.dheinemann.com",
         "goat.gavv.in",
@@ -248542,6 +248545,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
