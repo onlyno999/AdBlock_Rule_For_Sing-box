@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21668,6 +21669,7 @@
         "ali-stats.jpush.cn",
         "ali8.alinea.fr",
         "alias.cloud-marketing.dimensiondata.com",
+        "alib.nine.com.au",
         "alibrarythenticate.net.daraz.com",
         "alicat.actonservice.com",
         "alice.bodyandbrows.com",
@@ -248544,6 +248546,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
