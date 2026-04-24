@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19576,6 +19575,7 @@
         "ads-gitlab-wlan-switch.net.daraz.com",
         "ads-image.production-public.tubi.io",
         "ads-img-al.xhscdn.com",
+        "ads-img-bak.xhscdn.com",
         "ads-leaseweb.appsgeyser.com",
         "ads-media.gameforge.com",
         "ads-partners.coupang.com",
@@ -34604,7 +34604,6 @@
         "cdn.decpo.xyz",
         "cdn.defractal.com",
         "cdn.delutza.com",
-        "cdn.deviceinf.com",
         "cdn.dfsdk.com",
         "cdn.drawx.xyz",
         "cdn.dsspn.com",
@@ -248545,5 +248544,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
