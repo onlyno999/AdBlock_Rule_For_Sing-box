@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19712,6 +19711,7 @@
         "adsee.jp",
         "adsejav.net.daraz.com",
         "adserv1.mannixmarketing.com",
+        "adserve.adradar.io",
         "adserve.bongocdn.com",
         "adserver.additionalmedia.com",
         "adserver.asiantb.com",
@@ -248544,5 +248544,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
