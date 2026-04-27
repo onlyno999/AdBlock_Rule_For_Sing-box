@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -153382,6 +153383,7 @@
         "gzx26mb7bpfaznl-p.adkoffer.fr",
         "h-adashx-ns2.viviotech.net.daraz.com",
         "h-adashx.ut.alibaba.com",
+        "h-adashx.ut.taobao.com",
         "h-adashx4ae.ut.taobao.com",
         "h-adashx4id.ut.taobao.com",
         "h.bellsouth.administrators.net.daraz.com",
@@ -188705,6 +188707,8 @@
         "p2.danskebank.se",
         "p2.p2.danskebank.dk",
         "p2trc.emv2.com",
+        "p3-ad-sign.byteimg.com",
+        "p3-ad-sign.byteimg.com.queniusy.com",
         "p3jq1cgvwhfcnx5-p.adktrack30.xyz",
         "p3tq.pandasuite.io",
         "p43n.6r1hwgpxbm8fhqnpy.cfd",
@@ -248544,6 +248548,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
