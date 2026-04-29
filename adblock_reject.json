@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -184070,6 +184071,7 @@
         "mon.us.tiktokv.com",
         "mon.xactware.com",
         "mon.zijieapi.com",
+        "mon11-misc-lq.fqnovel.com",
         "mon16-normal-us-ttp.capcutapi.us",
         "monelimited.tt.omtrdc.net",
         "monetag.com",
@@ -228930,6 +228932,7 @@
         "tnc16-alisg.isnssdk.com",
         "tnc16-normal-us-ttp.capcutapi.us",
         "tnc16-useast1a.isnssdk.com",
+        "tnc3-alisc1.bytedance.com",
         "tncid.app",
         "tncpzu.marelbo.com",
         "tnegqr.bohme.com",
@@ -248549,6 +248552,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
