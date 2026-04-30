@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -247495,6 +247496,7 @@
         "ynwqna.mayblue.co.kr",
         "yo.techieustad.com",
         "yoc.younited-credit.com",
+        "yodo1.com",
         "yogi.snuffland.de",
         "yogolp.beststl.com",
         "yoi05.youthorganizing.net.jumia.ci",
@@ -248552,6 +248554,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
