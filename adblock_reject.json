@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22233,6 +22234,7 @@
         "analytics-prod.readtheory.org",
         "analytics-prod2.glance-internal.inmobi.com",
         "analytics-production.hapyak.com",
+        "analytics-proxy-501188673100.us-central1.run.app",
         "analytics-rgp-venues.yinzcam.com",
         "analytics-script.ad-shield.io",
         "analytics-sd-mls.yinzcam.com",
@@ -248553,6 +248555,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
