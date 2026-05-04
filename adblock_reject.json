@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39995,6 +39994,7 @@
         "col.surfside.io",
         "col.yaencontre.com",
         "colabemailvisionroller.partner.net.daraz.com",
+        "colbwxlsfenwn.website",
         "colessupermarketspty.tt.omtrdc.net",
         "colgatepalmolive.tt.omtrdc.net",
         "colgui.vidaxl.pt",
@@ -160393,6 +160393,7 @@
         "jacilla-static.reviveservers.com",
         "jackal.jakerunzer.com",
         "jackal.thetie.io",
+        "jackknifemonuments.com",
         "jackrickard.lovingforever.pro",
         "jacksonnationallifei.tt.omtrdc.net",
         "jacobsagency.actonservice.com",
@@ -183986,6 +183987,7 @@
         "mobile.suiste.com",
         "mobile.tradeshow.globalsources.com",
         "mobile.vmware.com",
+        "mobileadvertiser.yanosik.pl",
         "mobileapptracking.com",
         "mobilecl.apiserver.net.daraz.com",
         "mobilecl.bellsouth.net.daraz.com",
@@ -248555,5 +248557,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
