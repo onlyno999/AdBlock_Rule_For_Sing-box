@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -149470,6 +149469,7 @@
         "groovinews.com",
         "groovy-manul.pikapod.net",
         "grote.actonservice.com",
+        "grouchy-lay.com",
         "group-ib.ru",
         "group.weblib.com",
         "groupedelhaize.tt.omtrdc.net",
@@ -248572,5 +248572,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
