@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -183824,6 +183825,7 @@
         "mlkblr.la-becanerie.com",
         "mlkklg.suncamp.de",
         "mllog.jd.com",
+        "mlm-tracking.meinestadt.de",
         "mlmswk.janpara.co.jp",
         "mln.gulvxtra.no",
         "mlqzau.koffer.com",
@@ -248569,6 +248571,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
