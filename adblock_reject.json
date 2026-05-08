@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -154596,6 +154595,7 @@
         "html-load.cc",
         "html.net.jumia.com",
         "htnblk.kansascitysteaks.com",
+        "htplayground.com",
         "htqfxh.vuch.cz",
         "htrace.wetvinfo.com",
         "htrji.mazeliving.co.uk",
@@ -248573,5 +248573,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
