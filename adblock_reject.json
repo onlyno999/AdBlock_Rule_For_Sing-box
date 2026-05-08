@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21446,6 +21447,7 @@
         "ake1365.fumblingvacation.pro",
         "akgnwd.tocris.com",
         "akhmadsudrajat.xham.live",
+        "aki-gb-sdklog.kurogames.net",
         "akjfo.sunrisecapitalgroup.com",
         "akkieh.yumeyakata.com",
         "akm3w.pleasedonotblockme.com",
@@ -248577,6 +248579,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
