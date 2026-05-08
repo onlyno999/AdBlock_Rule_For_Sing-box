@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -12695,6 +12696,7 @@
         "a.gixto.xyz",
         "a.gogoga.xyz",
         "a.gramb.site",
+        "a.gripi.online",
         "a.gtrem.site",
         "a.gugent.xyz",
         "a.guidehub.lol",
@@ -248574,6 +248576,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
