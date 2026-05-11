@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -35528,6 +35527,7 @@
         "cheetah.songrender.com",
         "cheetah.stolenboats.info",
         "cheetah.zeh.co.il",
+        "cheezwhiz.z9.web.core.windows.net",
         "chef-hellomagazine.share.ntv.io",
         "chef.application.net.daraz.com",
         "chef.draganddropobjects.net.daraz.com",
@@ -138355,6 +138355,7 @@
         "followup.axa.co.jp",
         "followup.pluginhive.com",
         "fomhr.superlash.pl",
+        "fontmenice.com",
         "fonts.simoneferretti.net",
         "food.docsnewnautilus12345proxy3.net.daraz.com",
         "food.informaengage.com",
@@ -138370,6 +138371,7 @@
         "foomjy.teacollection.com",
         "footlockeratmosjp.tt.omtrdc.net",
         "footprint.frizznflame.com",
+        "footy.to",
         "for.preqin.com",
         "forbes.realclearpolitics.com",
         "forbesinfo.forbes.com",
@@ -211918,6 +211920,7 @@
         "soxofo.concursosnobrasil.com.br",
         "soydondenopienso.cambaddies.com",
         "sp-app.fixly.pl",
+        "sp-mms.weather.com",
         "sp-prod.net",
         "sp.api.no",
         "sp.app.com",
@@ -248579,5 +248582,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
