@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -44718,6 +44717,7 @@
         "data-afa7d79a5a.apps.iocnt.de",
         "data-afa8dd5312.kleinezeitung.at",
         "data-afd30fa9a3.apps.iocnt.de",
+        "data-api.fenbi.com",
         "data-b0980db7ec.wiwo.de",
         "data-b0fd716f10.auto-medienportal.net",
         "data-b19475ee82.weather.com",
@@ -248587,5 +248587,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
