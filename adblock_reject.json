@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -48686,6 +48685,7 @@
         "dls-b23-link.ip.twelve99.net.iberostar.com",
         "dls-ddc.dqa.samsung.com",
         "dls2s.appsflyer.com",
+        "dlso-ap96.macgamingdb.app",
         "dluat.pokerbros.net",
         "dluat.supremapoker.net",
         "dluma.sokolovelaw.com",
@@ -184312,6 +184312,7 @@
         "mpartnerrketing.net.daraz.com",
         "mpc-co.actonservice.com",
         "mpc.nicequest.com",
+        "mpecom-analyticevents-prod.boyner.com.tr",
         "mpesstopshto.openapp.link",
         "mpfmb.eightsaintsskincare.com",
         "mpg.enersys.com",
@@ -248585,5 +248586,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
