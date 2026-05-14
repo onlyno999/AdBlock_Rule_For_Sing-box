@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17641,6 +17640,7 @@
         "above.50degreesintheshade.com",
         "above.cloudality.com",
         "above.fearlessgrad.com",
+        "aboveaveragefinallycast.com",
         "abowlfulloflemons.chiccams.com",
         "abox-link.nginel.com",
         "abox.simpleshop.cz",
@@ -248607,5 +248607,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
