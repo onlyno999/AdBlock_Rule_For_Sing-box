@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -211549,6 +211548,7 @@
         "som.ringcentral.com",
         "som.sears.com",
         "som.vrbo.com",
+        "somepossibility.com",
         "sometrics.netapp.com",
         "somn.costumesupercenter.com",
         "somn.hiltongrandvacations.com",
@@ -248611,5 +248611,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
