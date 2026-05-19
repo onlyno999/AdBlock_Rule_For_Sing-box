@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -192466,6 +192467,7 @@
         "pkkcb.garnethill.com",
         "pkmba.habroksports.com",
         "pkmvjx.my-store.ch",
+        "pkoapbafhgaf.in",
         "pkp76v8v7ihj8aqv.net.net.daraz.com",
         "pkqfky.direct-abris.com",
         "pkrbmz.xlmoto.no",
@@ -248617,6 +248619,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
