@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -230838,6 +230837,7 @@
         "trac.podsdirect.ro",
         "tracciamento.andrewiseppi.com",
         "tracciamentodati.lapidiprovvisorie.com",
+        "trace-flow.ru",
         "trace.51jingying.com",
         "trace.bounce.17track.net",
         "trace.free-reels.com",
@@ -248615,5 +248615,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
