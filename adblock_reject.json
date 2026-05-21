@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -192720,6 +192721,7 @@
         "player.gupload.xyz",
         "player.resonance.pk",
         "player.stats.live-video.net",
+        "player.target-video.com",
         "player.urdupoint.com",
         "playgap.b-cdn.net",
         "playhardfuckharder.xhamsterlive.info",
@@ -239355,6 +239357,7 @@
         "vm.apollo.share.ntv.io",
         "vm.loveamberx.co.uk",
         "vm.questeracetum.cyou",
+        "vm.target-video.com",
         "vm5apis.com",
         "vmap.v.ad-generation.jp",
         "vmat.fanpass.es",
@@ -248617,6 +248620,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
