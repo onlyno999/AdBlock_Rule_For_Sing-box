@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -162256,6 +162255,7 @@
         "ktrackdata.com",
         "ktzuoc.bueroshop24.de",
         "ku3v7v2o10w0ptv9.internal.pov.acceldatasolutions.net",
+        "ku7v49qghpkytrk537er.rest",
         "kuaccountse-partner.net.daraz.com",
         "kuaifr.camicado.com.br",
         "kualiexame-partner.net.daraz.com",
@@ -188773,6 +188773,7 @@
         "p769.wgal.com",
         "p7cloud.net",
         "p7h1silo3f.app.cainthus.com",
+        "p7tycr5jcw42r2pflvo7.cfd",
         "p8bbv1.fiservapps.com",
         "p8neubb.e8ew6h7nkt2t21v.cfd",
         "p9qnr.cn79266rjxwvnbgtf.cfd",
@@ -248626,5 +248627,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
