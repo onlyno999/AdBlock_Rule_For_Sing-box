@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22943,6 +22942,7 @@
         "analytics.pineca.nl",
         "analytics.pineca.pl",
         "analytics.pineca.pt",
+        "analytics.pingaja.com",
         "analytics.pinterest.com",
         "analytics.pipelife-bewaesserung.at",
         "analytics.pipelife.at",
@@ -248629,5 +248629,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
