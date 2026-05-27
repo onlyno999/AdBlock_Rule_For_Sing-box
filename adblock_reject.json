@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -212400,7 +212399,6 @@
         "spyder-ui-prod.net.daraz.com",
         "spyder-vpdppatner.net.daraz.com",
         "spyfocusshop-ss.checkoutera.com",
-        "spyglass.octanime.net",
         "spyglass.reklon.net",
         "spytsg.horti.jp",
         "sq.requestads.com",
@@ -248630,5 +248628,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
