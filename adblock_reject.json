@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -18696,6 +18697,7 @@
         "adblock-plus-chromestage.be.net.daraz.com",
         "adblock-staging.mp4teluguwap.net.daraz.com",
         "adblock.net.daraz.com",
+        "adblocker.prod-blocking.workers.dev",
         "adbmetrics.blogasturias.com",
         "adbmetrics.canarias7.es",
         "adbmetrics.caravantur.eus",
@@ -248628,6 +248630,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
