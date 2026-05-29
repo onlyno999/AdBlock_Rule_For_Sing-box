@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -137122,6 +137121,7 @@
         "fe7cc13f95.21f5f01ad3.com",
         "fe7f2e3a68.317aba2b18.com",
         "fea-cfd.simutechgroup.com",
+        "feast-events.guardianapis.com",
         "featureassets.org",
         "featured.bradyid.com",
         "featured.perfectionholic.com",
@@ -192737,7 +192737,6 @@
         "playgap.b-cdn.net",
         "playhardfuckharder.xhamsterlive.info",
         "playhaven.com",
-        "playhydrax.com",
         "plazadatner.net.daraz.com",
         "plbcsd.vidaxl.se",
         "plbusiness.samsung.com",
@@ -248636,5 +248635,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
