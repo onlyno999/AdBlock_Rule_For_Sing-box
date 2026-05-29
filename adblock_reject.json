@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -155159,6 +155158,7 @@
         "identity.blueprintportal.com",
         "identity.hcu.coop",
         "identity.myblueprint.arkansasbluecross.com",
+        "identity.treeumapp.net",
         "identity4.citidirect.com",
         "identitypxl.app",
         "identitypxl.com",
@@ -223140,6 +223140,7 @@
         "stats.in-tuition.net",
         "stats.incoming.co",
         "stats.increasinglyfunctional.com",
+        "stats.index.hr",
         "stats.indianpornempire.com",
         "stats.indyhall.org",
         "stats.infoboard.de",
@@ -248637,5 +248638,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
