@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -153506,6 +153507,7 @@
         "hanatest.branch.rocks",
         "hancockhealth.hancockregional.org",
         "handelsblatt.met.vgwort.de",
+        "handler.rgstats.com",
         "handmade.prettyserendipity.co.uk",
         "hanif.nasibasilk.com",
         "haniftomok.fumblingvacation.pro",
@@ -248637,6 +248639,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
