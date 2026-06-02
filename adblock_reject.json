@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -32408,6 +32409,7 @@
         "brealtime.com",
         "breathe.hyperbaricmedicalsolutions.com",
         "breathebuds.com",
+        "breezebrowsing.com",
         "bremg.onnocollection.com",
         "brepo.nfreya.net.daraz.com",
         "brettdanko.marketingms.net",
@@ -46768,7 +46770,6 @@
         "data.optifithealth.se",
         "data.orain.eus",
         "data.order.warriors.com",
-        "data.orders.costco.ca",
         "data.orthovital-pro.com",
         "data.outbound.luxair.lu",
         "data.page.worldvision.ca",
@@ -50422,6 +50423,7 @@
         "ecc8bbe06b.85c09cb0ed.com",
         "ecctjf.leroymerlin.com.br",
         "ecdoib.26p.jp",
+        "ecdwm.com",
         "ecefyu.geox.com",
         "echidna.hellotomorrow.agency",
         "echidna.honeybadger.io",
@@ -159655,6 +159657,7 @@
         "installtracker.com",
         "installtracker.unityads.unity3d.com",
         "instana.io",
+        "instaread-ads.s3.amazonaws.com",
         "institutstraumann.tt.omtrdc.net",
         "instyle-slave.share.ntv.io",
         "instyle-tunnel.share.ntv.io",
@@ -248646,6 +248649,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
