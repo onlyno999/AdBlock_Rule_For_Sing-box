@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -188219,6 +188218,7 @@
         "openinstall.io",
         "openlog.tapapis.cn",
         "openlog.tapapis.com",
+        "openmindedpassengerserr.com",
         "openmonitor.alipay-eco.com",
         "openmonitor.alipay.com",
         "openrate.aweber.com",
@@ -248649,5 +248649,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
