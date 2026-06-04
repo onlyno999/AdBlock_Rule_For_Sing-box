@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -137458,6 +137459,7 @@
         "fespzx.sfr.fr",
         "festo.actonservice.com",
         "fetch.gethuan.com",
+        "fetchperiodic.com",
         "feuqzl.woolrich.com",
         "fewptsgg.argonaudio.com",
         "fewptsgg.radiantacoustics.com",
@@ -248654,6 +248656,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
