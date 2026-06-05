@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -18419,6 +18420,7 @@
         "ad-api.maxnapps.com",
         "ad-api.revoaidapp.com",
         "ad-blocker-1.static-cloudflare.workers.dev",
+        "ad-blocker.prod-blocking.workers.dev",
         "ad-bls-tracking.lemino.docomo.ne.jp",
         "ad-brix.com",
         "ad-channel.wikawika.xyz",
@@ -248659,6 +248661,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
