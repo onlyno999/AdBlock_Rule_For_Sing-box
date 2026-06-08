@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22905,6 +22904,7 @@
         "analytics.nrgprotects.com",
         "analytics.oceanengine.com",
         "analytics.octaglobal.com",
+        "analytics.oeksound.com",
         "analytics.office-interior.com",
         "analytics.ohmycharmz.com",
         "analytics.oliveapp.net",
@@ -47467,6 +47467,7 @@
         "dd.daffodilday.org.nz",
         "dd.g2.com",
         "dd.leboncoin.fr",
+        "dd.qwant.com",
         "dd.reuters.com",
         "dd47055762.df6733029c.com",
         "dd80d3eba7.22b8bd2b91.com",
@@ -137131,7 +137132,6 @@
         "fe7f2e3a68.317aba2b18.com",
         "fea-cfd.simutechgroup.com",
         "feast-events.guardianapis.com",
-        "featureassets.org",
         "featured.bradyid.com",
         "featured.perfectionholic.com",
         "featured.premiermedia.net",
@@ -161337,6 +161337,7 @@
         "k.laredoute.pt",
         "k.laredoute.ru",
         "k.laredoute.se",
+        "k.qwant.com",
         "k.total.fr",
         "k.truffaut.com",
         "k.voyageursdumonde.be",
@@ -248662,5 +248663,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
