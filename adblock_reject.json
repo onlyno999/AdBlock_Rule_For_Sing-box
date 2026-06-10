@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -34983,6 +34982,7 @@
         "cdntm.marksandspencer.com",
         "cdntm.rodanandfields.com",
         "cdntm.us.hsbc.com",
+        "cdnw.onlinelearning.hms.harvard.edu",
         "cdnwebapp.net.daraz.com",
         "cdnx.baiadellesirene.it",
         "cdnx.capogrossocamerota.it",
@@ -192717,6 +192717,7 @@
         "plausible.redchamp.net",
         "plausible.regex.help",
         "plausible.retune.de",
+        "plausible.root-nation.net",
         "plausible.sbw.org",
         "plausible.scimago.es",
         "plausible.shadygrovepca.org",
@@ -235100,6 +235101,7 @@
         "udc.msn.com",
         "udc.yahoo.com",
         "udcazzuy.k9at.co.uk",
+        "udderstack.allstar.gg",
         "udfa7.azbarbecue.be",
         "udfa7.azgrillservice.de",
         "udfa7.barbecue.nl",
@@ -248696,5 +248698,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
