@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -233467,6 +233466,7 @@
         "transplant.universityhealth.com",
         "transport.primecreativemedia.com.au",
         "transportation.external.xerox.com",
+        "transporter.makemytrip.global",
         "transunion.tt.omtrdc.net",
         "transurban.tt.omtrdc.net",
         "trapnimau.cambaddies.com",
@@ -248705,5 +248705,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
