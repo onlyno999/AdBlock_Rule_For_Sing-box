@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -12596,6 +12595,7 @@
         "a.chmsrv.com",
         "a.cidont.xyz",
         "a.cigore.xyz",
+        "a.cineflix.st",
         "a.cingo.sbs",
         "a.clickintact.com",
         "a.closerpets.co.uk",
@@ -185453,6 +185453,7 @@
         "neducationmanagementl.tt.omtrdc.net",
         "negligence072925.shop",
         "negocio.banrural.com.gt",
+        "nehalist.io",
         "nehcj.tryprodenta.com",
         "nehealthinsurance.tt.omtrdc.net",
         "nejmxt.vivishoeshoe.com",
@@ -248715,5 +248716,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
