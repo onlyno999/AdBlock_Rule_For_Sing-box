@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -160541,6 +160540,7 @@
         "jcdn.runative-syndicate.com",
         "jcdn.soonpubplatform.online",
         "jcdn.tsyndicate.com",
+        "jcgdhqusv.com",
         "jch.truereport.report",
         "jchna.johnsoncontrols.com",
         "jcimgi.bestcuckoo.co.kr",
@@ -187182,6 +187182,7 @@
         "numbers.coolconfetti.com",
         "numbers.md",
         "numbers.monthlyphotos.com",
+        "numnahphineas.com",
         "nums.upscale.app",
         "nuquds.citizenwatch.com",
         "nuracam-ss.checkoutera.com",
@@ -197104,6 +197105,7 @@
         "rsnzt.studyfitnotes.com",
         "rsotku.mitsui-shopping-park.com",
         "rspeo.rotita.com",
+        "rsptkogqvascs.site",
         "rsquk.brunch.us",
         "rsra-ph.cdn-fileserver.com",
         "rsra.cdn-fileserver.com",
@@ -237068,6 +237070,7 @@
         "vidfiles.net.mydays.de",
         "vidops.zeeker.com",
         "vidstat.taboola.com",
+        "vidwestxyz.com",
         "viega.tt.omtrdc.net",
         "viero.smtp.vierovantagens.com.br",
         "viesti.sales.sfs.fi",
@@ -248719,5 +248722,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
