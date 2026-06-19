@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -31540,6 +31539,7 @@
         "blhwnj.enbio-group.com",
         "blink.checkworkrights.com.au",
         "blink.fra-01.braze.eu",
+        "blink.willowmovies.com",
         "blinks.outcomes4me.com",
         "bliss91.com",
         "bllqp.baddworldwide.org",
@@ -228921,6 +228921,7 @@
         "tm1.hoiplay.com",
         "tm2.hertzreunion.com",
         "tm4.debsdemo.com",
+        "tmadsrv.com",
         "tmail.happenee.com",
         "tmapp.fitnessyard.com",
         "tmbewm.partykungen.se",
@@ -248726,5 +248727,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
