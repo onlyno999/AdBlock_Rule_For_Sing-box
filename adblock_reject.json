@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -149598,6 +149599,7 @@
         "gs.mountain.com",
         "gs.splotchtotemy.cfd",
         "gs.tbllzon.com",
+        "gs6ye5zj.ac1n.net",
         "gsa.notifysrv.com",
         "gsa24.giaythethaonuhcm.com",
         "gsagz.wonsulting.com",
@@ -223337,6 +223339,7 @@
         "stats.malte-bartels.de",
         "stats.manakin.fi",
         "stats.manz.at",
+        "stats.mappl.tv",
         "stats.marienhoehe-norderney.de",
         "stats.marketsmith.com",
         "stats.marshfieldclinic.org",
@@ -228407,6 +228410,7 @@
         "tk.verisure.fr",
         "tk.viapresse.com",
         "tk0x1.com",
+        "tk6if76q.ab1n.net",
         "tkb.taximarc-knokke.be",
         "tkcatrun.aotter.net",
         "tkcatwalk.aotter.net",
@@ -248722,6 +248726,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
