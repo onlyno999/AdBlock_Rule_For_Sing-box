@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -180199,6 +180198,7 @@
         "master-shopify-tracker.s3.amazonaws.com",
         "mastercard.tt.omtrdc.net",
         "mastergroove2010.lovingforever.pro",
+        "masterlythehague.com",
         "masternaut.actonservice.com",
         "masters.csudh.edu",
         "mastersoftgroup.actonservice.com",
@@ -193019,6 +193019,7 @@
         "portal.tastejapan.life",
         "portal7.superchatlive.com",
         "portalegiovani.fumblingvacation.pro",
+        "portalfluently.com",
         "portfoliotwtelecom.azure.net.daraz.com",
         "portoseguro.tt.omtrdc.net",
         "portugalsko.net.daraz.com",
@@ -248703,6 +248704,7 @@
         "zzjod.greenbayremodeling.com",
         "zzjrcd.mrv.com.br",
         "zzlgf.justpaddles.com",
+        "zzlocalsquared.com",
         "zzmah.ranchjacksonhole.com",
         "zzpa3e62zt91c04r-restricted-r-ht-2.net.daraz.com",
         "zzpa3e62zt91c04r.01-car21c-f8inistrator.net.daraz.com",
@@ -248730,5 +248732,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
