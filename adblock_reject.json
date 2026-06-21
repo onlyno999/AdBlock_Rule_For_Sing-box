@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -27452,6 +27451,7 @@
         "aura.webspecmail.com",
         "auraodin.com",
         "aurelianlending.actonservice.com",
+        "aurorabrand.co.il",
         "aus.amexforbusiness.com.au",
         "aus.capify.com.au",
         "aus.schroders.com",
@@ -248733,5 +248733,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
