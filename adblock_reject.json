@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39994,6 +39995,7 @@
         "code.randomhouse.com",
         "code.usergram.info",
         "code18.myavlive.com",
+        "codedrink.com",
         "codemy.de",
         "codes.royalad.pl",
         "codevipngocrong2018staging-moviesda.net.daraz.com",
@@ -248733,6 +248735,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
