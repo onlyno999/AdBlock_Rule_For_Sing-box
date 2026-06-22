@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19575,6 +19574,7 @@
         "ads-chunks.prod.ihrhls.com",
         "ads-cloud.rovio.com",
         "ads-config-engine-noneu.truecaller.com",
+        "ads-configs-cdn.openweb.com",
         "ads-console.recon.com",
         "ads-delivery.gunosy.com",
         "ads-dot-fbc-web-2018.uc.r.appspot.com",
@@ -43255,6 +43255,7 @@
         "d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com",
         "d30qdagvt44524.cloudfront.net",
         "d30zrwt3s044zr.cloudfront.net",
+        "d318g7p3azvr44.cloudfront.net",
         "d31bfnnwekbny6.cloudfront.net",
         "d31uxzurj3z4fa.cloudfront.net",
         "d324acf357.c6f63c450a.com",
@@ -49293,6 +49294,7 @@
         "drupalcms-sgtm.1800gotjunk.com",
         "drupalmetrics.ppg.apple.com",
         "drupalpartner.net.daraz.com",
+        "druxxo.com",
         "druzja.canmart.co.kr",
         "drvczg.levtech.jp",
         "drven.kintsugihair.com",
@@ -49628,7 +49630,6 @@
         "dualstack-logs.amap.com",
         "ducdaxuf.slik-bilen.dk",
         "ducenit.actonservice.com",
-        "duckier.com",
         "ducoa.inthecompanyofdogs.com",
         "duda.raioxpreditivoacademy.com.br",
         "dude.pleasedonotblockme.com",
@@ -185471,6 +185472,7 @@
         "neo.cdx-bankislam.com",
         "neo.fashionette.de",
         "neo.gpetsweb.com",
+        "neo7x.com",
         "neojge.luxeol.com",
         "neolf.theadventurechallenge.com",
         "neon.ns3.mobilecl.bellsouth.net.daraz.com",
@@ -248735,5 +248737,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
