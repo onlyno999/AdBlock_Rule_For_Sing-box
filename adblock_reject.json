@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -28162,6 +28161,7 @@
         "avs.adpinfo.com",
         "avseller-shoplable.net.daraz.com",
         "avsjo.stickley.com",
+        "avsplow.com",
         "avv2-interactionlable.net.daraz.com",
         "avvfqs.nubia.com.tr",
         "avvoe.juicedbikes.com",
@@ -136078,6 +136078,7 @@
         "event-action.popinfo.jp",
         "event-api-cs.stardust-tv.com",
         "event-api.hackle.io",
+        "event-collector.analytics.onedio.com",
         "event-collector.moviesanywhere.com",
         "event-dot-learning-piano.appspot.com",
         "event-dot-procolor-backend.appspot.com",
@@ -248743,5 +248744,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
