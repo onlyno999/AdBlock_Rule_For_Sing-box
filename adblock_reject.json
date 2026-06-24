@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -12575,6 +12576,7 @@
         "a.billing-ns.emailvision.net.daraz.com",
         "a.bloblohub.com",
         "a.boget.xyz",
+        "a.boredpanda.bio",
         "a.boyjackpot.com",
         "a.brack.ch",
         "a.bramb.site",
@@ -26555,6 +26557,7 @@
         "apptus.actonservice.com",
         "appuat.intermiles.com",
         "appush-drzliveication-spring.net.daraz.com",
+        "appview.fafafa.ai",
         "appvua.jetcost.nl",
         "appwall.tv2phone.cn",
         "appwesteuropeication-spring.net.daraz.com",
@@ -248748,6 +248751,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
