@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -49395,6 +49394,7 @@
         "dsp-east.nativeads.com",
         "dsp-eu.nativeads.com",
         "dsp-service.admatic.de",
+        "dsp-track-global.zmaticoo.com",
         "dsp-west.nativeads.com",
         "dsp.adcountymedia.com",
         "dsp.adhunter.media",
@@ -248753,5 +248753,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
