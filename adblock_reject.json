@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -193059,6 +193060,7 @@
         "postclickmarketing.com",
         "postgraduate.smu.edu.sg",
         "postgraduate2.smu.edu.sg",
+        "posthog.football24.ua",
         "posthog.lingvanex.com",
         "posthog.tarnkappe.info",
         "postman.postman.legacyfa-asia.com",
@@ -236907,6 +236909,7 @@
         "vestniknovjivot.stripchats.io",
         "vesx.jesjes.xyz",
         "vet.mexicoveterinario.com.mx",
+        "veta.naver.com",
         "vetsource.actonservice.com",
         "veumpy.shooos.sk",
         "veutax.atlasformen.ru",
@@ -248752,6 +248755,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
