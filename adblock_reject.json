@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -192954,6 +192953,7 @@
         "polhvf.bootbarn.com",
         "policy.click.s11.sfmc-osl.com",
         "polis.openapp.link",
+        "politicallygreek.com",
         "poller.net.jumia.cm",
         "polorvision-ss.topashopo.com",
         "polorvisionshop-ss.offeroshop.com",
@@ -193734,6 +193734,7 @@
         "projects.lstgroup.com.au",
         "projectwhitecoltd.tt.omtrdc.net",
         "proll.shemrec.cc",
+        "prologguisedputid.qpon",
         "promediaspace.my",
         "promo-images.ttpsdk.info",
         "promo.animocabrands.com",
@@ -239288,6 +239289,7 @@
         "vikna.knix.ca",
         "viktech.viktech.dk",
         "vil2.er2o6ctg6eniu3cb54g6ghlpo3.cyou",
+        "villagybullion.cyou",
         "vilnv.gathre.com",
         "vilpkc.drkellyann.com",
         "viltbrasilsystemasamerptrsd.tt.omtrdc.net",
@@ -248757,5 +248759,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
