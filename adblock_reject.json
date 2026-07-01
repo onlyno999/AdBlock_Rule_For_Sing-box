@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -196486,6 +196487,7 @@
         "ressources.promoneuve.fr",
         "ressources.usine-digitale.com",
         "ressources.usine-nouvelle.com",
+        "rest.comfy.ua",
         "rest.sexypornvideo.net",
         "restartad.com",
         "restaurantcom.tt.omtrdc.net",
@@ -248759,6 +248761,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
