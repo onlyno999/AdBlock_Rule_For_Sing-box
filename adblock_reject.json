@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -192610,6 +192611,7 @@
         "pl.paradisecity.be",
         "pl.porndudecams.com",
         "pl.postboyerick.cyou",
+        "pl.primis.tech",
         "pl.promo.skf.com",
         "pl.rarecams.com",
         "pl.recticelinsulation.com",
@@ -224294,6 +224296,7 @@
         "streaming.leightonbroadcasting.com",
         "streaming.view.s11.sfmc-osl.com",
         "streamplay.to",
+        "streams-scores.rbl.ms",
         "streamvault.top",
         "streatserver.eleventickets.com",
         "streem-email.canegrowers.com.au",
@@ -225195,6 +225198,7 @@
         "sync.adspend.space",
         "sync.clearnview.com",
         "sync.getpublica.com",
+        "sync.inmobi.com",
         "sync.morgdm.ru",
         "sync.opendsp.ru",
         "sync.programmatica.com",
@@ -248764,6 +248768,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
