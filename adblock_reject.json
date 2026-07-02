@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -48443,6 +48442,7 @@
         "direct-collect.dy-api.com",
         "direct-collect.dy-api.eu",
         "direct-concession.enpointe.io",
+        "direct-push.com",
         "direct.colfondos.co",
         "direct.corporatefinanceinstitute.com",
         "direct.diarymuslim.com",
@@ -180889,6 +180889,7 @@
         "melda.koala.com",
         "melissarose.omg.adult",
         "mellamanjorge.net.anwalt.de",
+        "mellow-habit.com",
         "melodothogy.meng2x.com",
         "member-app-pre-production.rightwayhealthcare.com",
         "member-app-staging.rightwayhealthcare.com",
@@ -248769,5 +248770,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
