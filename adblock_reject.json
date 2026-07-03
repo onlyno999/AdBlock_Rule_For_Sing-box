@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -47691,6 +47690,7 @@
         "delete05032026.shop",
         "deleteme.intuit.com",
         "delightful.eso.com",
+        "delightlintlunatic.com",
         "delikoko.openapp.link",
         "deliver.oztam.com.au",
         "deliver.ptgncdn.com",
@@ -156127,6 +156127,7 @@
         "impact-dm.actonservice.com",
         "impactblog.psi.org",
         "impala.vnv.nl",
+        "impassableretainerexplained.com",
         "impbid.com",
         "impdsp.meituan.com",
         "implantes.nucleodrpablomelo.com",
@@ -248773,5 +248774,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
