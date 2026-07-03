@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -166412,6 +166411,7 @@
         "lkocef.pixartprinting.fr",
         "lkoutz.winparts.be",
         "lkqce.dermaflash.com",
+        "lkqivtsnfvriw.website",
         "lkr.reply.eu",
         "lksiz.mydancerbox.com",
         "lksrhj.green-acres.pt",
@@ -248772,5 +248772,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
