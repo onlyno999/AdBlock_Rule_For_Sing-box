@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -139954,6 +139955,7 @@
         "getdev.payso.ca",
         "getdrip.com",
         "getinfo.fullsail.edu",
+        "getjan.io",
         "getjethose-ss.checkoutera.com",
         "getkatuchef-ss.topashopo.com",
         "getl4w.lookout.com",
@@ -248774,6 +248776,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
