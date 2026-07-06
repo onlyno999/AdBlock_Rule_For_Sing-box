@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -234831,6 +234832,7 @@
         "twf.wechselfabrik.de",
         "twfcgu.the-couple.com",
         "twhkzm.getstact.com",
+        "twigcrucialpal.com",
         "twilightmiragestaging.k8s-prd.n-switch.net.daraz.com",
         "twilightmiragestaging01-lib-oa-1-admin8.net.daraz.com",
         "twilio.tt.omtrdc.net",
@@ -235474,6 +235476,7 @@
         "umxwew.hellobello.com",
         "umzpj.paintyourlife.com",
         "un9y6irpjtcjhhe-p.adkplan.fr",
+        "unalaskamiaskitewormproof.monster",
         "unamktg.uponor.com",
         "unbewn.byravn.dk",
         "unbouncepages.com",
@@ -248779,6 +248782,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
