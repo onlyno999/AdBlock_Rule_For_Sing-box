@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -135140,6 +135139,7 @@
         "enews.mortonarb.org",
         "enews.nrm.org",
         "enews.walmart.com",
+        "enfacesplaineddeglory.qpon",
         "eng.ca.bebelelo.com",
         "eng.info.mouser.com",
         "eng.net.daraz.com",
@@ -248788,5 +248788,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
