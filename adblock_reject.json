@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -49274,6 +49273,7 @@
         "drheragheranddropobjects.net.daraz.com",
         "drhsder4m.marinapinhasdermatologia.com.br",
         "drift.com",
+        "driftsbabbleswandery.cfd",
         "drip.mtaupdate.com",
         "drive-agent.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediaessprofiles.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediaessprofiles.datadoghq.comproduction.agent.ap1.datadoghq.com",
         "drive.carpoollogistics.com",
@@ -159454,6 +159454,7 @@
         "init.izoa.fr",
         "inixwg.vibrate.co.kr",
         "injinji.tt.omtrdc.net",
+        "injusticebakery.com",
         "inkubate.actonservice.com",
         "inlekv5kmf5.hfvn6kcfykruk79p337e69h8pnrw.cfd",
         "inlks.topliftpros.com",
@@ -248792,5 +248793,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
