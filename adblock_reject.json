@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -12734,6 +12735,7 @@
         "a.inlar.xyz",
         "a.inpit.xyz",
         "a.intensse.ro",
+        "a.ipinfo.io",
         "a.ipoque.com",
         "a.iramb.site",
         "a.irenk.xyz",
@@ -236562,6 +236564,7 @@
         "v.goldman.com",
         "v.gs.com",
         "v.gsselect.com",
+        "v.ipinfo.io",
         "v.kidoz.net",
         "v.marcus.co.uk",
         "v.marcus.com",
@@ -248789,6 +248792,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
