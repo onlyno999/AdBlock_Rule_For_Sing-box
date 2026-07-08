@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22563,6 +22564,7 @@
         "analytics.essenzasegreta.com",
         "analytics.eventbrite.com",
         "analytics.everythingstream.com",
+        "analytics.evolushost.com",
         "analytics.ewz.ch",
         "analytics.expertstores.co.za",
         "analytics.faceitanalytics.com",
@@ -248795,6 +248797,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
