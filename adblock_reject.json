@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -160788,6 +160787,7 @@
         "jitsu.ixbt.com",
         "jitsu.ixbt.games",
         "jitsu.ixbt.site",
+        "jitsu.www1.ru",
         "jiujpc.asgoodasnew.fr",
         "jiv0v40rb8pghlml.net.daraz.com",
         "jivsfr.drogarianovaesperanca.com.br",
@@ -227640,6 +227640,7 @@
         "telemetry.chrobinson.com",
         "telemetry.codefusion.technology",
         "telemetry.commonspirit.org",
+        "telemetry.data.nvidia.com",
         "telemetry.dematic.com",
         "telemetry.doitbeststore.com",
         "telemetry.doxo.com",
@@ -248803,5 +248804,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
