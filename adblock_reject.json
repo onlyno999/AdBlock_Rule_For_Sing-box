@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -176756,6 +176755,7 @@
         "m.pcmobile.ca",
         "m.plateiq.com",
         "m.poddie.com",
+        "m.privatesportshop.es",
         "m.pro-service.happycustomer.io",
         "m.providers.alto.com",
         "m.qualisocial.com",
@@ -248809,5 +248809,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
