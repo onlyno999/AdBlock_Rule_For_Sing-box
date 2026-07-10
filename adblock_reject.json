@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -23430,6 +23429,7 @@
         "annwwu.guitarcenter.com",
         "anon-stats.eff.org",
         "anonym.data.funkedigital.de",
+        "anonymized-metrics.rmbl.ws",
         "anotherbrickinwall.foolhardywear.pro",
         "anrdoezrs.net",
         "ans-link.worqout.io",
@@ -248809,5 +248809,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
