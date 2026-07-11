@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -31079,6 +31078,7 @@
         "bidef.sokolovelaw.com",
         "bidforclicks.com",
         "bidjora.com",
+        "bidmachine.io",
         "bidmyadz.com",
         "bidmyqps.xyz",
         "bidr.io",
@@ -248810,5 +248810,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
