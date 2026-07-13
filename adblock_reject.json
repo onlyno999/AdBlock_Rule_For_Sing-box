@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -7867,6 +7866,7 @@
         "14093.sfap-qa1.marketingcloudqaops.com",
         "1411.sfap-qa1.marketingcloudqaops.com",
         "1412.connector-qa1.marketingcloudqaapis.com",
+        "1414.hexa.su",
         "1417214353.net.daraz.com",
         "1422.sfap-qa1.marketingcloudqaops.com",
         "14231.ftp-qa1.marketingcloudqaops.com",
@@ -34839,6 +34839,7 @@
         "cdn.tahwox.com",
         "cdn.tazlo.cloud",
         "cdn.tcwrf.com",
+        "cdn.testdomain12345xyz.com",
         "cdn.thk4.com",
         "cdn.throatbulge.com",
         "cdn.tia-tanaka.blog",
@@ -140244,6 +140245,7 @@
         "gli9.inseec-bs.com",
         "glicqalid3.click.s11.sfmc-osl.com",
         "glidalid3.click.s11.sfmc-osl.com",
+        "glidersreplume.qpon",
         "glimmerleblonde.foolhardywear.pro",
         "glinteralid3.click.s11.sfmc-osl.com",
         "glivalid3.click.s11.sfmc-osl.com",
@@ -153953,6 +153955,7 @@
         "hesconet.actonservice.com",
         "hesprh.sony.jp",
         "hesta.tt.omtrdc.net",
+        "hestherchiffer.com",
         "hetcash.com",
         "heuida.shopafrm.com",
         "hevir.ryanandrose.co",
@@ -248817,5 +248820,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
