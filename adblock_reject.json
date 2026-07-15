@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -51024,6 +51025,7 @@
         "ellsouth.administrators.net.daraz.com",
         "ellypsio.net.jumia.com.ng",
         "elnbz.qualitylogic.com",
+        "elogecoptersabacot.cfd",
         "elogic-learning.actonservice.com",
         "eloq.fiducial.fr",
         "eloqua-tracking.unity.com",
@@ -241007,6 +241009,7 @@
         "whale.camera",
         "whale.gdebrauwer.dev",
         "whatcounts.branch.rocks",
+        "whatdidheseehe.com",
         "whatfinger.com",
         "whatif.de.adobe.com",
         "whatif.fr.adobe.com",
@@ -248827,6 +248830,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
