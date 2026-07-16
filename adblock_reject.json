@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -153515,6 +153516,7 @@
         "h019.wtae.com",
         "h031.familydollar.com",
         "h037n.letsporn.com",
+        "h2tcbox.baidu.com",
         "h353.ncadvertiser.com",
         "h3f1fccgc.wlj9l6yziu8etr2euq1ktqv9q8.cyou",
         "h4fim7tr8.2471hicttoikx3eerhq7ufn198.cfd",
@@ -248829,6 +248831,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
