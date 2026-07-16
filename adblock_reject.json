@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -162887,6 +162886,7 @@
         "l.otemo-yan.net",
         "l.ouest-france.fr",
         "l.ouifm.fr",
+        "l.ovhcloud.com",
         "l.ozap.com",
         "l.page.worldvision.ca",
         "l.paris-jetequitte.com",
@@ -184683,6 +184683,7 @@
         "mta.net.daraz.com",
         "mta.statement.nowpensions.com",
         "mta008.tklivechat.com",
+        "mtag.markopolo.ai",
         "mtag.mman.kr",
         "mtamanagement-application-spring.net.daraz.com",
         "mtapatner.net.daraz.com",
@@ -248833,5 +248834,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
