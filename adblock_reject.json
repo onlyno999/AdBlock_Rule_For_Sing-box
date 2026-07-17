@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -138880,6 +138879,7 @@
         "franchising.mcdonalds.ca",
         "franchising.pizzapizza.ca",
         "franchising.toppers.ca",
+        "franken-analytics.makeup.global",
         "franklin-edu.actonservice.com",
         "franklin.edu.actonservice.com",
         "frankwatching.actonservice.com",
@@ -248836,5 +248836,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
