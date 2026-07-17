@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -32993,6 +32994,7 @@
         "bznxqj.fiat.it",
         "bzpgi.plankandbeam.com",
         "bzqxze.remixshop.com",
+        "bzrcdn.openai.com",
         "bzrch.heyskipperfishing.com",
         "bzrpp.nakednutrition.ca",
         "bzsfvi.fnacpro.com",
@@ -227454,7 +227456,6 @@
         "tdgobe.urth.co",
         "tdi.cartoonnetwork.com",
         "tdiblasts.campaign.doctorsinternet.com",
-        "tdid.m.qq.com",
         "tdjvod.chevignon.com.co",
         "tdk.petsplace.nl",
         "tdnel.tend.com",
@@ -248836,6 +248837,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
