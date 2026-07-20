@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -47510,7 +47509,6 @@
         "dd.daffodilday.org.nz",
         "dd.g2.com",
         "dd.leboncoin.fr",
-        "dd.qwant.com",
         "dd.reuters.com",
         "dd47055762.df6733029c.com",
         "dd80d3eba7.22b8bd2b91.com",
@@ -248840,5 +248838,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
