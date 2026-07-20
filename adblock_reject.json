@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -18955,6 +18956,7 @@
         "adhfpsu.liti.com.br",
         "adhitzads.com",
         "adhnu.wanderbeauty.com",
+        "adhub.porcino-kinoko.workers.dev",
         "adhudg.nec-lavie.jp",
         "adhunter.media",
         "adiariadi5-srv.net.daraz.com",
@@ -211453,6 +211455,7 @@
         "sniga.segomotools.com",
         "snipe.mfaber.at",
         "snipe.mizzuu.co",
+        "snippet.affilimate.io",
         "snjvh.calecimprofessional.com",
         "snjwvk7tmzoywv2-c.ktrack.xyz",
         "snl.staging.libertatea.ro",
@@ -248837,6 +248840,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
