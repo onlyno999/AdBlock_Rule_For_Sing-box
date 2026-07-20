@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21289,6 +21290,7 @@
         "aidsvc.netflix.com",
         "aiet6ned2lxp48b-p.adktrack34.xyz",
         "aifcoz.dryve.com.br",
+        "aifpleasurebeh.org",
         "aigcom.tt.omtrdc.net",
         "aiieer.mangnut2.com",
         "aik8s-prd.n-switch.net.daraz.com",
@@ -184284,6 +184286,7 @@
         "moodle3.spankbanglive.com",
         "moody.actonsoftware.com",
         "moofoonepaw.com",
+        "moonlighthathel.org",
         "moonshine.nieucabinetdoors.com",
         "moorestephens.actonservice.com",
         "moose.eldorado.gg",
@@ -248838,6 +248841,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
