@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -198973,6 +198972,7 @@
         "s02.bestsecret.com",
         "s1.barrosbueno.com.br",
         "s1.bkjn.nl",
+        "s1.bss.2gis.com",
         "s1.carryonx.de",
         "s1.ecofino.nl",
         "s1.firepitsdirect.com",
@@ -248844,5 +248844,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
