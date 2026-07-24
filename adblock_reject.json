@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -27302,6 +27301,7 @@
         "athena-event-provider.n11.com",
         "athena.accsc.com.au",
         "athena.api.kwalee.com",
+        "athena.archive.org",
         "athena.nederlandseloterij.nl",
         "athena.toto.nl",
         "athenahealth.tt.omtrdc.net",
@@ -248849,5 +248849,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
