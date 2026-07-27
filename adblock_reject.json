@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -18406,6 +18407,7 @@
         "acv.mc-nurse.net",
         "acv.mc-pharma.net",
         "acv.me-hikari.net",
+        "acv.mira-dsp.com",
         "acv.next-air-wifi.com",
         "acv.next-internet.info",
         "acv.nft-hikari.net",
@@ -248851,6 +248853,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
