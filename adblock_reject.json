@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25619,6 +25620,7 @@
         "analyticsbe.net.daraz.com",
         "analyticsbusiness.ing.ro",
         "analyticscdn.links.rosieapp.com",
+        "analyticsehnwe.servicebus.windows.net",
         "analyticsellsouth.northamerica.net.daraz.com",
         "analyticsengine.s3.amazonaws.com",
         "analyticshipaa.cloud.coveo.com",
@@ -374734,6 +374736,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
