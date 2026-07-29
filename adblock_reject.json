@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -23315,6 +23316,7 @@
         "analytics.wrc.nic.in",
         "analytics.xiloc.net",
         "analytics.xoomenergy.com",
+        "analytics.xxcontent.lol",
         "analytics.yahoo.com",
         "analytics.yofbrc.com",
         "analytics.yoonek.com.au",
@@ -248863,6 +248865,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
