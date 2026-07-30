@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -188815,6 +188814,7 @@
         "p.kotora.jp",
         "p.law.asu.edu",
         "p.lbresearch.com",
+        "p.lbserver.xyz",
         "p.logbox.io",
         "p.mail.dnalc.org",
         "p.marqueplace.com",
@@ -248869,5 +248869,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
