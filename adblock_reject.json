@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21627,7 +21626,6 @@
         "al3jbbnxpt8m4tl-c.adkclicker.fr",
         "alaburger.openapp.link",
         "aladdinupdate.blackrock.com",
-        "aladinia.app",
         "alamin.annawabi.com",
         "alamocapital.actonservice.com",
         "alapita.openapp.link",
@@ -43567,6 +43565,7 @@
         "danv01ao0kdr2.cloudfront.net",
         "daotm.firstcitizens.com",
         "dap.amsterdam.nl",
+        "dap.hindustantimes.com",
         "dap.livemint.com",
         "dap.slurrp.com",
         "dap.worldota.net",
@@ -234779,6 +234778,7 @@
         "tuagol.gartenmoebel.de",
         "tuba.strp.chat",
         "tubemogul.com",
+        "tubexazimebeze.com",
         "tucdj.trollcoclothing.ca",
         "tuesdaysale.bid",
         "tufcum.margaretha.se",
@@ -248866,5 +248866,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
