@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -161289,6 +161290,7 @@
         "junayed.sijamart.com",
         "june.instyle.share.ntv.io",
         "juneejav.net.daraz.com",
+        "juneworewyjyna.com",
         "jungheinrichag.tt.omtrdc.net",
         "junior-a8cv.techacademy.jp",
         "junior.cursoauxiliardeveterinario.com.br",
@@ -248869,6 +248871,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
