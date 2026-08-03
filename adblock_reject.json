@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -235537,7 +235538,7 @@
         "umlkp.snydersfurniture.com",
         "umlvbe.rucipello.com",
         "umnoho.bazaarmall.co.kr",
-        "umommy.online",
+        "umommy.cyou",
         "umphek.com",
         "umrvmb.net.anwalt.de",
         "umst.mobile.de",
@@ -248869,6 +248870,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
