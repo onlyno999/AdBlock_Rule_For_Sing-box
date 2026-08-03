@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -49311,6 +49310,7 @@
         "driverportal-na-2-links.evconnect.com",
         "drjzh.loveinfaith.life",
         "drkaq.nlbeauty.bg",
+        "drlagqnl.com",
         "drm.actonservice.com",
         "drmlobalid3.click.s11.sfmc-osl.com",
         "drngoc.abphotos.link",
@@ -137176,6 +137176,7 @@
         "fdkbu.thespeakerlab.com",
         "fdkeip.azafashions.com",
         "fdldg.trtltravel.com",
+        "fdluoxnn.com",
         "fdmsu.greenpan.us",
         "fdnyk.suzannesomers.com",
         "fdp.arenacanada.ca",
@@ -160814,6 +160815,7 @@
         "jimbm.charlestyrwhitt.com",
         "jinair.nsc.jinair.com",
         "jinair.sc.jinair.com",
+        "jinanrqz.com",
         "jineu.goddessall.com",
         "jinx-avalt.share.ntv.io",
         "jinx-sjc12-dr01.net.daraz.com",
@@ -180940,6 +180942,7 @@
         "mehqj.spartan.com",
         "meid.xham.live",
         "meijer.tt.omtrdc.net",
+        "meijxqop.com",
         "mein.nebenan.de",
         "meinauto.hdd-dienste.de",
         "meiodepagamento.campanhaporto.com.br",
@@ -240327,6 +240330,7 @@
         "wdukge.midwayusa.com",
         "wdw.disneyrewards.com",
         "wdyfx.ltliang.com",
+        "wdziitkl.com",
         "we-love-privacy.humane.club",
         "we.care.oswegohealth.org",
         "we.kurly.com",
@@ -248871,5 +248875,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
