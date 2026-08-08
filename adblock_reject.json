@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -328476,6 +328475,7 @@
         "superboosty.com",
         "superior-grocers.links.rosieapp.com",
         "superiorgroup.actonservice.com",
+        "supersedeaccolade.com",
         "supersonicads-a.akamaihd.net",
         "superstats.observepoint.com",
         "superup322.com",
@@ -382419,5 +382419,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
