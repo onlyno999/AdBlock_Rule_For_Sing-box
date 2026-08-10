@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -11505,7 +11506,6 @@
         "3h-adashxrketing.net.daraz.com",
         "3i1lkzrgvb5w53k.z9ky5o9j4o3b1j151x7.cyou",
         "3i9i83eleqz.ojrbibibynq66y58k4h4on9.cyou",
-        "3iulae112b.com",
         "3ive.hb.tt.omtrdc.net",
         "3krujww3z31l4def.bloblohub.com",
         "3l0zszdzjhpw.www.comicleaks.com",
@@ -382419,6 +382419,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
