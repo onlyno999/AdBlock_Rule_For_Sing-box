@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -228518,6 +228517,7 @@
         "greateasternlife.tt.omtrdc.net",
         "greater-pa.00d300000000t9beau.net.daraz.com",
         "greaternemo.tmi.tt.omtrdc.net",
+        "greatpuppydogs.com",
         "greatwestlife.tt.omtrdc.net",
         "grebshop.tt.omtrdc.net",
         "green-valley-marketplace-of-sunnyside.links.rosieapp.com",
@@ -382429,5 +382429,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
