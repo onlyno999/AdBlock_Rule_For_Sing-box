@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -48579,6 +48578,7 @@
         "console-093-gls-0239tl.net.daraz.com",
         "console-stage-esattamatka.net.daraz.com",
         "console-stage.naruspot.net.daraz.com",
+        "console-telemetry.oci.oraclecloud.com",
         "console.ad.logic-prod.viasat.io",
         "console.ad.logic-test.viasat.io",
         "console.ad.logic.viasat.io",
@@ -326751,6 +326751,7 @@
         "stats.jasonludden.dev",
         "stats.jdheyburn.co.uk",
         "stats.jerickson.net",
+        "stats.jerkmotion.com",
         "stats.jessesquires.com",
         "stats.jetzt-aktivieren.de",
         "stats.jiosaavn.com",
@@ -382427,5 +382428,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
