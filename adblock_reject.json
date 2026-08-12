@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -40172,6 +40173,7 @@
         "ccllt.fromrebel.ca",
         "ccloudfrontcar31nnectedtwteleccloudfrontcar31m.azure.net.daraz.com",
         "ccnku.meibi.mx",
+        "ccnsad.com",
         "ccpd.jet2.com",
         "ccpd.jet2holidays.com",
         "ccqhzj.kilamobler.se",
@@ -51834,6 +51836,7 @@
         "czech.getinklabs.com",
         "czhbq.polyandbark.com",
         "czhjf.baublestockings.com",
+        "czilladx.com",
         "czirtyk.sugarmesmooth.com",
         "czmbp.evenflo.com",
         "cznap.unclearnies.com",
@@ -287685,6 +287688,7 @@
         "poutine-pp-bbanywhere.links.rosieapp.com",
         "pov.spectrum.net",
         "povtbi.automovilesalhambra.es",
+        "powderencouraged.com",
         "power.dj.studio",
         "power.eyecare.nl",
         "power.gosunpro.com",
@@ -382428,6 +382432,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
