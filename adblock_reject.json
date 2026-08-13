@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -271168,6 +271167,7 @@
         "mega.mydealz.de",
         "megabite.openapp.link",
         "megadata.co.kr",
+        "megapred.com",
         "mehadi.cosyneeds.shop",
         "mehedi.amamfashion.net",
         "mehedi.electrohubemart.com",
@@ -289335,6 +289335,7 @@
         "pub.vendasta.com",
         "pub.venpro.abbvie.com",
         "pub1.co",
+        "pubfuture-ssp.com",
         "pubjelly.nxjmp.com",
         "public-check3-at.test.tiaa-cref.org",
         "public-check3-at.test.tiaa.org",
@@ -382434,5 +382435,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
