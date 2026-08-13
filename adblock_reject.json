@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -203501,6 +203500,7 @@
         "exelbid.com",
         "exemc.qc4g4b7xl4e5t72vnxwjf3ec5e852xt.cyou",
         "exgrub.orthoticshop.com",
+        "exhalesyntheticundefined.com",
         "exhibit.corcexpo.com",
         "exhibit.emeraldexpo.com",
         "exhibit.emeraldx.com",
@@ -382438,5 +382438,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
