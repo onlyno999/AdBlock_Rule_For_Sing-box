@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -30853,6 +30852,7 @@
         "asg.xnxxxnxx.site",
         "asg.zzipps.com",
         "asg1.hostadsmarkets.com",
+        "ashamed-employer.com",
         "ashasafety.actonservice.com",
         "ashcroft.actonservice.com",
         "ashergroup.actonservice.com",
@@ -382445,5 +382445,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
