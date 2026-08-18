@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -425228,6 +425227,7 @@
         "shaikat.nolokjewelry.com",
         "shaker.toz24.com",
         "shakil.per-la.com",
+        "shameful-farm.com",
         "shamim.thetechrock.com",
         "shamrockfsw-bbanywhere.links.rosieapp.com",
         "shanto.discountloverbd.com",
@@ -503904,5 +503904,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
