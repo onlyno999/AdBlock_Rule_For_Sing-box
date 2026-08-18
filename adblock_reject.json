@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -26512,6 +26511,7 @@
         "analytics.staybridge.com",
         "analytics.stocksport-online.de",
         "analytics.streamingworld.xyz",
+        "analytics.streamvaultsrc.click",
         "analytics.studiodesignapp.com",
         "analytics.styria.hr",
         "analytics.subzero-wolf.com",
@@ -503908,5 +503908,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
