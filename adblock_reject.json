@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -406647,6 +406648,7 @@
         "phyins.actonservice.com",
         "phyon.communipay.net",
         "phyon.visit-x.net",
+        "physicaldad.com",
         "physocean-legacy.net.daraz.com",
         "physocean-satta.net.daraz.com",
         "physoceangenerator.net.daraz.com",
@@ -426822,6 +426824,7 @@
         "smade.quellilainitaly.com",
         "smail.keeprecipes.com",
         "smail.solartaxpros.com",
+        "smallanywhere.com",
         "smallbusiness.adpinfo.com",
         "smart-placements-sdk.ex.co",
         "smart.cameramatics.com",
@@ -503904,6 +503907,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
