@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25513,6 +25512,7 @@
         "analytics.5milesapp.com",
         "analytics.7-herbs.com",
         "analytics.74.ru",
+        "analytics.7reels.cc",
         "analytics.a-f.io",
         "analytics.ad.daum.net",
         "analytics.adam.page",
@@ -503909,5 +503909,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
