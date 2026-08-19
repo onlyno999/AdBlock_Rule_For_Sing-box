@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -385817,6 +385816,7 @@
         "medicion.idcmayoristas.com",
         "medicion.peninsulaparkliving.com",
         "medisante.actonservice.com",
+        "medium-while.com",
         "medlemskap.nof.no",
         "meds.androderm.com",
         "meds.avycaz.com",
@@ -503918,5 +503918,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
