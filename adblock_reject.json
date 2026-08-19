@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25372,6 +25371,7 @@
         "analytic20.detik.com",
         "analytics-altdeveloper.share.ntv.io",
         "analytics-api.a-f.io",
+        "analytics-api.byub.org",
         "analytics-api.gemcommerce.com",
         "analytics-api.invideo.io",
         "analytics-api.liveapp.com",
@@ -25653,6 +25653,7 @@
         "analytics.butenas.de",
         "analytics.byeternify.com",
         "analytics.byondesign.com",
+        "analytics.byub.org",
         "analytics.calculavalorvivienda.es",
         "analytics.calibrecleaning.com.au",
         "analytics.callbell.eu",
@@ -503913,5 +503914,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
