@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -63939,6 +63940,7 @@
         "cookies.siemens-advanta.com",
         "cookies.siemens-healthineers.com",
         "cookies.siemens.com",
+        "cookies.truecaller.com",
         "cookies.us.jll.com",
         "cookies.wpcarey.com",
         "cooking-craze-prod.tt-qe5.omtrdc.net",
@@ -503910,6 +503912,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
