@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -417414,6 +417415,7 @@
         "scnon.perpetualtraffic.com",
         "scode.randomhouse.com",
         "scoegp.learnandmaster.com",
+        "scollect.17173.com",
         "sconnectstats.mckesson.com",
         "scontent-atl3-2.xx.fbcdn.net.iberostar.com",
         "scontent-cdg4-1.xx.fbcdn.net.iberostar.com",
@@ -503920,6 +503922,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
