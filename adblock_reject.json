@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -468454,6 +468455,7 @@
         "up.trafficbull.com",
         "upalytics.com",
         "upasiansex.com",
+        "upbeatbut.com",
         "upc.zztfly.com",
         "upcgu.untamedego.com",
         "upcnl.tt.omtrdc.net",
@@ -503924,6 +503926,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
