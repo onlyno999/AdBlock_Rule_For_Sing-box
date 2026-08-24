@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -14806,6 +14807,7 @@
         "a.pornhex.com",
         "a.pourquoidocteur.fr",
         "a.publicmobile.ca",
+        "a.pur.agency",
         "a.q88z1s3.com",
         "a.quora.com",
         "a.r8lnet.com",
@@ -503927,6 +503929,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
