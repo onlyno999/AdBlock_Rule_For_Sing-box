@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -34605,6 +34604,7 @@
         "bbhgeb.imf-formacion.com",
         "bbitn.alittlesandco.com",
         "bbkrsm.crucerosnet.com",
+        "bbm-ad-stack-production.up.railway.app",
         "bbm.blubela.com",
         "bbnfcfrvjs.com",
         "bbnfg.zoomlite.com.au",
@@ -410075,6 +410075,7 @@
         "push-pk-drzlive.application.net.daraz.com",
         "push.adright.co",
         "push.akket.com",
+        "push.brownbrothers.io",
         "push.bvsrv.com",
         "push.cerineas.com",
         "push.contentsrch.com",
@@ -503932,5 +503933,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
