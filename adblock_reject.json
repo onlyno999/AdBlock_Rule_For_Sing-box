@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -40824,6 +40825,7 @@
         "bypassmobile.net.daraz.com",
         "bypassqaeu.stape.qa",
         "byqdtp.interpark.com",
+        "byracucosopenu.com",
         "byregionstagingabgsex.net.daraz.com",
         "bysbpc.teufelaudio.nl",
         "bysfnu.bodeboca.com",
@@ -385893,6 +385895,7 @@
         "meinauto.hdd-dienste.de",
         "meiodepagamento.campanhaporto.com.br",
         "meitustat.com",
+        "mejewusodovuca.com",
         "mejze.nordicoutdoor.co.uk",
         "mekbm.ullala.ca",
         "meklo.kartina.tv",
@@ -503530,6 +503533,7 @@
         "zuerichtourismus.naruspotzong-sftpgateway.net.daraz.com",
         "zufsu.lee.com",
         "zug.sbb.ch",
+        "zugasezuryjoxo.com",
         "zugcc.rotita.com",
         "zuhk9private42a5cez05.northamerica.net.daraz.com",
         "zuhk9pt42a5cez05-work.northamerica.net.daraz.com",
@@ -503937,6 +503941,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
