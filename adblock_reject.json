@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -290311,6 +290312,8 @@
         "eu-north-1.msk.genuinepartscompany.tt.omtrdc.net",
         "eu-north-1.st.azullinhasaereas.tt.omtrdc.net",
         "eu-ohio.tt.omtrdc.net",
+        "eu-onrt-stsdk.vivoglobal.com",
+        "eu-ort-stsdk.vivoglobal.com",
         "eu-prod.awsevents.tt.omtrdc.net",
         "eu-redir.push2.tt.omtrdc.net",
         "eu-sandbox.tt-qe-ci1.omtrdc.net",
@@ -290335,6 +290338,7 @@
         "eu-south-us-west-2.cloud.s11.sfmc-osl.com",
         "eu-staging.statestreetcorporati.tt.omtrdc.net",
         "eu-steep-hill.tt-qe-ci1.omtrdc.net",
+        "eu-stsdk.vivoglobal.com",
         "eu-teitelbaum.citizensbank.tt.omtrdc.net",
         "eu-test.eu-central-1.mboxedge1.tt-qe5.omtrdc.net",
         "eu-test.login.account.tt.omtrdc.net",
@@ -292292,6 +292296,7 @@
         "ewygto.swanicoco.co.kr",
         "ewz.tt.omtrdc.net",
         "ex-2-1.sites.tt.omtrdc.net",
+        "ex-adreq-asia.vivoglobal.com",
         "ex-mail-01.net.daraz.com",
         "ex.ewebvision.net.daraz.com",
         "ex.festival.azullinhasaereas.tt.omtrdc.net",
@@ -503940,6 +503945,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
