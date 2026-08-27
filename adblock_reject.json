@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -68052,7 +68053,6 @@
         "d32r49xyei4vz6.cloudfront.net",
         "d32z5ni8t5127x.cloudfront.net",
         "d332479cdbeb62d98e8d9f9312aa82d2.tt-qe5.omtrdc.net",
-        "d335luupugsy2.cloudfront.net",
         "d33d77c619796d2aac514a6d2bcc31f0.accountchef-api-backup-s3-cache-production.tt.omtrdc.net",
         "d33f51dyacx7bd.cloudfront.net",
         "d340700c470d22101378607ce8872116.eu-central-1.mboxedge1.tt-qe5.omtrdc.net",
@@ -503952,6 +503952,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
