@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -28356,6 +28355,7 @@
         "api.institutovisaolivre.com.br",
         "api.internal.littlethings.share.ntv.io",
         "api.invictusjoias.com.br",
+        "api.ipify.org",
         "api.ipsybr.com.br",
         "api.irisbela.com",
         "api.isajabour.com.br",
@@ -503949,5 +503949,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
