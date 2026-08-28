@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -395942,6 +395943,7 @@
         "northplains.actonservice.com",
         "northshore.actonservice.com",
         "northsidemediagroup.actonservice.com",
+        "northstar.cr",
         "northwesternmutual.tt.omtrdc.net",
         "northwire.actonservice.com",
         "northwoodsoft.actonservice.com",
@@ -412565,6 +412567,7 @@
         "res.franc-tireur.fr",
         "res.lintlink.com",
         "res.marianne.net",
+        "res.oa.opera.com",
         "res.pay.ionos.com",
         "res.public.fr",
         "res.swedishnomad.com",
@@ -503954,6 +503957,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
