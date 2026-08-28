@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24265,6 +24264,7 @@
         "ak8s-prdhenticate.net.daraz.com",
         "aka-patner.net.daraz.com",
         "aka.ae29-sjc12-dr01.net.daraz.com",
+        "aka.asiae.co.kr",
         "aka.n-switch.net.daraz.com",
         "aka.net.daraz.com",
         "aka01-car21-web-wwww0node.net.daraz.com",
@@ -25428,6 +25428,7 @@
         "analytics-ingestion.production-public.tubi.io",
         "analytics-ingress-global.bitmovin.com",
         "analytics-ingress.bitmovin.com",
+        "analytics-ios-tcp.rayjump.com",
         "analytics-k8s-prd.n-switch.net.daraz.com",
         "analytics-la-nwsl.yinzcam.com",
         "analytics-lac-nba.yinzcam.com",
@@ -408104,6 +408105,7 @@
         "posthog.lingvanex.com",
         "posthog.russpass.ru",
         "posthog.tarnkappe.info",
+        "posthog.worldshopping.global",
         "postman.postman.legacyfa-asia.com",
         "postmaster.asteriabd.com",
         "postmaster.avadacom.com",
@@ -503952,5 +503954,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
