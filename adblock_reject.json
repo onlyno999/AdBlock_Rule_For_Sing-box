@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -46134,6 +46135,7 @@
         "carmax.tt.omtrdc.net",
         "carmelhengelo.net.daraz.com",
         "carmen.golem.de",
+        "carmen2.golem.de",
         "carmona.anunciojuridico.com.br",
         "carnivalbrands.tt.omtrdc.net",
         "carolina.actonservice.com",
@@ -286550,6 +286552,7 @@
         "emergency.sonycorporationofame.tt.omtrdc.net",
         "emergency.tt-stage1.omtrdc.net",
         "emergency.weekend1.tt.omtrdc.net",
+        "emergency.zeta-ai.io",
         "emergencyassist.tt.omtrdc.net",
         "emergencycamp.assets.tt.omtrdc.net",
         "emergencylocator.tt.omtrdc.net",
@@ -503967,6 +503970,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
