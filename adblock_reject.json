@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -40795,6 +40794,7 @@
         "by.mywd.com",
         "by4.irgbr1ie4vi3m77tx.cyou",
         "bybfb.37ybpmn6ff58yql.cfd",
+        "bycsg.oii.la",
         "byd.tt.omtrdc.net",
         "byd.tupinambaenergia.com.br",
         "bye.higherone.tt.omtrdc.net",
@@ -56062,6 +56062,7 @@
         "clientlog.perfectworldgames.com",
         "clientlog.portal.office.com",
         "clientlog.pwsdk.com",
+        "clientlog.wanmei.com",
         "clientlog3.music.163.com",
         "clientlogdep.music.163.com",
         "clientlogger.marketplace.aws.a2z.com",
@@ -347507,7 +347508,6 @@
         "ipcert-lib-oa-1.net.daraz.com",
         "ipcfgw.pieces.com",
         "ipchangelinknodeaction.tt.omtrdc.net",
-        "ipcheck.blogsys.jp",
         "ipcheck.nautilus.tt.omtrdc.net",
         "ipcheck.tmgrup.com.tr",
         "ipcloud.tt-qe2.omtrdc.net",
@@ -350096,6 +350096,7 @@
         "jnros.fresh.com",
         "jnsol.sokolovelaw.com",
         "jnsoxa.fcmm.kr",
+        "jnt.welt.de",
         "jnunn.alppouch.com",
         "jnvfm.blackmagic.com",
         "jnwpr.chefstore.com",
@@ -384373,6 +384374,7 @@
         "mas.hronboard.me",
         "maschine.bengs-modellbau.de",
         "maschinenfabrik.reinhausen.com",
+        "masculine-employment.com",
         "maserati.app.mobilapp.io",
         "maskmonopoly.com",
         "massmail.ficci.com",
@@ -503971,5 +503973,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
