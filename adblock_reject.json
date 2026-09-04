@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19888,6 +19887,7 @@
         "ac-email-tracking.staedion.nl",
         "ac.4wank.com",
         "ac.altiri.jp",
+        "ac.conel.jp",
         "ac.ecai-report.com",
         "ac.fapnado.xxx",
         "ac.geechs-job.com",
@@ -37186,6 +37186,7 @@
         "bigconfigs.reliableequipmentparts.com",
         "bigcustomernetwork.actonservice.com",
         "bigdata.clarin.com",
+        "bigfluffycatexchange.crabdance.com",
         "bigisland.shakaguide.com",
         "bigleapforward.org",
         "biglots.tt.omtrdc.net",
@@ -297967,6 +297968,7 @@
         "fingerhi.net",
         "fingerhut.tt.omtrdc.net",
         "fingerhut.tt.tt.omtrdc.net",
+        "fingerprint-veri.info",
         "fingerprint.fool.com",
         "fingerprint.incodesmile.com",
         "fingerprinting-api-dev.tt.omtrdc.net",
@@ -362734,6 +362736,7 @@
         "lmnqof.littletoncoin.com",
         "lmorsb.highstreettv.com",
         "lmpadebis.gala-series.com",
+        "lms.roblox.com",
         "lmufb.theswellscore.com",
         "lmvgr.thebeardstruggle.com",
         "lmy.de",
@@ -503978,5 +503981,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
