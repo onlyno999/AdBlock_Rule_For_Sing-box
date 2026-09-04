@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22147,6 +22146,7 @@
         "ads-img-al.xhscdn.com",
         "ads-img-bak.xhscdn.com",
         "ads-leaseweb.appsgeyser.com",
+        "ads-m.rustore.ru",
         "ads-media.gameforge.com",
         "ads-mgs-apac.links.rosieapp.com",
         "ads-partners.coupang.com",
@@ -503984,5 +503984,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
