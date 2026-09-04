@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -460449,6 +460450,7 @@
         "tracker.atlassian.atlassian-app.tt.omtrdc.net",
         "tracker.azet.sk",
         "tracker.bellsouth.administrator.net.daraz.com",
+        "tracker.bigl.ua",
         "tracker.bkk24.de",
         "tracker.boredpanda.com",
         "tracker.broker.tt.omtrdc.net",
@@ -461868,6 +461870,7 @@
         "tracking.vismasoftware.no",
         "tracking.vitalant.org",
         "tracking.vitori.de",
+        "tracking.vivareal.com.br",
         "tracking.vivay.be",
         "tracking.viviotech.net.daraz.com",
         "tracking.vma-test.tt.omtrdc.net",
@@ -503981,6 +503984,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
