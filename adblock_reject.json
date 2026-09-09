@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -407444,6 +407443,7 @@
         "pla-d365-dev7f1f38a7a23f4de04devaossoap.tt-stage3.omtrdc.net",
         "pla-tk.flipkart.net",
         "pla.pearlinsurance.com",
+        "pla.uqload.vc",
         "pla.wigglepixel.nl",
         "placchigiulia.tt.omtrdc.net",
         "place-riu.tt.omtrdc.net",
@@ -503998,5 +503998,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
