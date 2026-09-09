@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -58510,6 +58511,7 @@
         "cloudsvc-car10ppr-is-1-2.net.daraz.com",
         "cloudtutorialspp-ctutorialsr40.net.daraz.com",
         "cloudvirga.actonservice.com",
+        "cloudx.io",
         "cloupayfrontcar31.net.daraz.com",
         "cloupgsqlfrontcar31.net.daraz.com",
         "cloupre-connectedapp-car10.net.daraz.com",
@@ -362773,6 +362775,7 @@
         "lndata.labor.md.gov",
         "lnday.sinclair.edu",
         "lndpy.com",
+        "lndrsapi.com",
         "lnezkw.iturbo.fr",
         "lnfqk.showerenvy.com",
         "lng.xiaohongshu.com",
@@ -503998,6 +504001,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
