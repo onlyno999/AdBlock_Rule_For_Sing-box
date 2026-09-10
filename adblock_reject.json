@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -298240,6 +298239,7 @@
         "fitconcert02.tt.omtrdc.net",
         "fitibeats-ss.checkoutera.com",
         "fitibeats-ss.offeroshop.com",
+        "fitlivelywhup.com",
         "fitness.goasrv.com",
         "fitnesss.tt.omtrdc.net",
         "fitnessuntukpemulazstageccgenerator.net.daraz.com",
@@ -504010,5 +504010,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
