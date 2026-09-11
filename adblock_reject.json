@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -13858,6 +13859,7 @@
         "7jq.net.daraz.com",
         "7kwnfmblxvj36ri7.net.daraz.com",
         "7lbd4.armandthiery.fr",
+        "7lzwgj.donaukurier.de",
         "7mx.eider.com",
         "7mx.eidershop.com",
         "7nq84y0ff2foxl33.net.daraz.com",
@@ -504010,6 +504012,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
