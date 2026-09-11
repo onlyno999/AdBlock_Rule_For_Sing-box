@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -339180,6 +339179,7 @@
         "idscar31.net.daraz.com",
         "idsd2.tt.omtrdc.net",
         "idsearch.net.daraz.com",
+        "idsequoia.ai",
         "idserv6.tt.omtrdc.net",
         "idsfinlay.citizensbank.tt.omtrdc.net",
         "idsforos.share.ntv.io",
@@ -504012,5 +504012,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
