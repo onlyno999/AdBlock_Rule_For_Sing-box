@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -30456,6 +30455,7 @@
         "app.nokhte.com",
         "app.nootric.com",
         "app.noreply.cummins.com",
+        "app.notirabbit.com",
         "app.noviclick.com",
         "app.now.bomgar.com",
         "app.now.nowtv.com",
@@ -401120,6 +401120,7 @@
         "p.ejs.dev",
         "p.eneba.com",
         "p.faspox.com",
+        "p.food.ru",
         "p.ft8wc5lywzb9r8.cfd",
         "p.ftwpcn.com",
         "p.futureform.uk",
@@ -504021,5 +504022,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
