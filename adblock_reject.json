@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39472,6 +39473,7 @@
         "brotherinternational.tt.omtrdc.net",
         "brownies.bobbyseamoss.com",
         "browser-fp.production.linktr.ee",
+        "browser-intake-datadoghq.eu",
         "browser.events.data.msn.cn",
         "browser.events.data.msn.com",
         "browser.pipe.aria.microsoft.com",
@@ -376450,7 +376452,6 @@
         "logs.adplay.ru",
         "logs.amap.com",
         "logs.appsource.microsoft.com",
-        "logs.browser-intake-datadoghq.eu",
         "logs.chatboost-cv.algoage.co.jp",
         "logs.classdojo.com",
         "logs.datadoghq.com",
@@ -400856,6 +400857,7 @@
         "othvwz.thelittlegreenbag.be",
         "otioqs.srcasino.es",
         "otkhyc.bueromarkt-ag.de",
+        "otl.minefun.io",
         "otlhn.fentybeauty.com",
         "otlsb.simplynootropics.com",
         "otm.otraderquemultiplica.com.br",
@@ -504045,6 +504047,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
