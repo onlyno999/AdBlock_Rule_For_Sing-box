@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24026,7 +24025,6 @@
         "agpower.tupimob.com",
         "agrafa.openapp.link",
         "agrak.mojo.shop",
-        "agrau.aii.sh",
         "agrep.reneecosmetics.in",
         "agri.webspecmail.com",
         "agribusiness.intelligence.informa.com",
@@ -504047,5 +504045,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
