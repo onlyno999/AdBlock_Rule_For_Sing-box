@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -448166,6 +448167,7 @@
         "stats.starfish.team",
         "stats.steepandcheap.com",
         "stats.steirerjobs.at",
+        "stats.stellar.rip",
         "stats.stephlow.audio",
         "stats.storify.com",
         "stats.strawberry.rocks",
@@ -504049,6 +504051,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
