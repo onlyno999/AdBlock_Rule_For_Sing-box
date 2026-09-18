@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -21398,6 +21397,7 @@
         "adm.10-marketing.net.daraz.com",
         "adm.11ticket.alt.share.ntv.io",
         "adm.3arketing.net.daraz.com",
+        "adm.3labs.it",
         "adm.adminstrumentengineering.com.au",
         "adm.aprilpatner.net.daraz.com",
         "adm.arotastudio.com.br",
@@ -89825,6 +89825,7 @@
         "dtadash.tt-stage-ci1.omtrdc.net",
         "dtadrz-reg.adminfo-vs.accountart-of-falco.tt-qe-ci1.omtrdc.net",
         "dtag.charter.tt.omtrdc.net",
+        "dtam.thrive.today",
         "dtap.stancharttw.tt.omtrdc.net",
         "dtappub.tt.omtrdc.net",
         "dtasrvr.com",
@@ -324325,6 +324326,7 @@
         "gray.kpmgllp.tt.omtrdc.net",
         "gray.mboxedge35-alb.tt.omtrdc.net",
         "gray.rw.net.rewe.de",
+        "gray.unlikebuck.com",
         "gray111.tt.omtrdc.net",
         "graycity312.goasrv.com",
         "graydar.vip.tt.omtrdc.net",
@@ -504047,5 +504049,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
