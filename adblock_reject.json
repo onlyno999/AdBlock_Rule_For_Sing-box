@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -350131,6 +350132,7 @@
         "jnros.fresh.com",
         "jnsol.sokolovelaw.com",
         "jnsoxa.fcmm.kr",
+        "jnt.bild.de",
         "jnt.welt.de",
         "jnunn.alppouch.com",
         "jnvfm.blackmagic.com",
@@ -504045,6 +504047,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
