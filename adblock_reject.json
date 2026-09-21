@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -334899,6 +334900,7 @@
         "hongleongassurance.tt.omtrdc.net",
         "honor.omrf.org",
         "honorhealth.hrm.healthgrades.com",
+        "hoof.absentwhack.com",
         "hoojts.demmelhuber.net",
         "hooks.geralbet.bet.br",
         "hooks.lider.bet.br",
@@ -393603,6 +393605,7 @@
         "n.lexusfinancial.com",
         "n.lolaluna.com",
         "n.netquote.com",
+        "n.nstbrowser.io",
         "n.qwinsta.se",
         "n.russ-porno.net",
         "n.stcatharinesstandard.ca",
@@ -415121,6 +415124,7 @@
         "rubicon.wellsfargo.com",
         "rubolite.ems-dental.com",
         "rudder-server-prd.arena.im",
+        "rudimentarytheoreticalrome.com",
         "rudr-events.joybird.com",
         "ruehg.dotcompliancegroup.com",
         "rugfrfji.win",
@@ -466334,6 +466338,7 @@
         "u.makro.pt",
         "u.metro.hu",
         "u.net.jumia.ci",
+        "u.omgjav.com",
         "u.partner-pay.v1.net.daraz.com",
         "u.salony.com",
         "u.so.amersports.tt.omtrdc.net",
@@ -504051,6 +504056,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
