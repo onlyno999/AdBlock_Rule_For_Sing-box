@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -60290,6 +60291,7 @@
         "colony.net.daraz.com",
         "colorimetriaobong.net.daraz.com",
         "colors.chamoji.com",
+        "colossalteacher.com",
         "colossusssp.com",
         "colruytbusinessservi.tt.omtrdc.net",
         "colsex.com",
@@ -91763,6 +91765,7 @@
         "ead.meijer.tt.omtrdc.net",
         "ead.vpn.go.xham.live",
         "eadfs-rs.uscg.tt.omtrdc.net",
+        "eadygos.com",
         "eafro.kissdonttell.com",
         "eagks.painfulpleasures.com",
         "eagle-insight.com",
@@ -504064,6 +504067,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
