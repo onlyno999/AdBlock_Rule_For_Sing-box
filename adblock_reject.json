@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -26519,6 +26520,7 @@
         "analytics.spark.co.nz",
         "analytics.spearly.com",
         "analytics.sportera.fans",
+        "analytics.sportigio.com",
         "analytics.sports.ru",
         "analytics.sposadeste.com",
         "analytics.ssmas.com",
@@ -412212,6 +412214,7 @@
         "referrals.tradeapp.me",
         "referrals.zunify.me",
         "referrer.disqus.com",
+        "referwhen.com",
         "reff-associates.mboxedge37-02.tt.omtrdc.net",
         "refinitiv.tt.omtrdc.net",
         "refveq.reviskorea.co.kr",
@@ -504072,6 +504075,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
