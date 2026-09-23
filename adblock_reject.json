@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -349211,6 +349210,7 @@
         "jayshoesshop-ss.topashopo.com",
         "jaytk.ecosproutify.com",
         "jaytk.natureswellnessonline.com",
+        "jazz.abovesave.com",
         "jb.r96h7g97rik8eq8ow.cfd",
         "jbanv.etrendygo.com",
         "jbbcvrkupaigy6f-p.adktrack30.xyz",
@@ -426055,6 +426055,7 @@
         "shpje7kq0we8leae.net.daraz.com",
         "shqmetrics.sony.com",
         "shqxt.prickstop.com",
+        "shrillypants.com",
         "shrinkearn.com",
         "shs.youvegotthismath.com",
         "sht.sparkhormonetherapy.com",
@@ -449982,7 +449983,6 @@
         "swansonhealth-mmspdistribe.tt.omtrdc.net",
         "swaptrap.live",
         "swasc.homedepot.ca",
-        "swasc.homedepot.com",
         "swasc.kaufland.bg",
         "swasc.kaufland.com",
         "swasc.kaufland.cz",
@@ -504075,5 +504075,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
