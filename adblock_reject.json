@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -350908,7 +350907,7 @@
         "justapinchtunnel.share.ntv.io",
         "justapinchvpn.share.ntv.io",
         "justapinchw3.share.ntv.io",
-        "justice.maybeoneday.ch",
+        "justice.hls.lol",
         "justice.tt.omtrdc.net",
         "justicensw.tt.omtrdc.net",
         "justid.io",
@@ -504077,5 +504076,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
