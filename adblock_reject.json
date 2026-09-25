@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -375604,6 +375603,7 @@
         "loan.ftlfinance.com",
         "loans.vitaslebanon.com",
         "loansales.cbre.com",
+        "lobe.scv.public.sse-prod-eks-euw1.futureplc.engineering",
         "lobhn.jacksonandperkins.com",
         "loblaws-market.links.rosieapp.com",
         "loblawsinc.tt.omtrdc.net",
@@ -504088,5 +504088,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
