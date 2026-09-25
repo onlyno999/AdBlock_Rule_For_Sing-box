@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -454016,6 +454015,7 @@
         "tiktok-user-events.boloforms.com",
         "tiktokpangle.us",
         "tikulicious.myavlive.com",
+        "tilerypursers.qpon",
         "tilhyw.lampen24.nl",
         "tilt.pages.s11.sfmc-osl.com",
         "tim.nextinpact.com",
@@ -504080,5 +504080,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
