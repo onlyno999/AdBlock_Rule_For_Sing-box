@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -75255,6 +75254,7 @@
         "desiruleztvapac-cfw-c2s-01-n6x026.net.daraz.com",
         "desjardins.tt.omtrdc.net",
         "desjardinsapiserver.tt.omtrdc.net",
+        "desk.unlesscool.com",
         "desktopcorreoshowcase.net.mydays.de",
         "desktopsdc1soa.tt.omtrdc.net",
         "desuscripcion.phg.palladiumhotelgroup.com",
@@ -287811,6 +287811,7 @@
         "engine.acp.ns.emailvision.net.daraz.com",
         "engine.azong-staging.ns.emailvision.net.daraz.com",
         "engine.azure.net.daraz.com",
+        "engine.camconnections.live",
         "engine.e-a.ns.emailvision.net.daraz.com",
         "engine.exactly.tt.omtrdc.net",
         "engine.gettopple.com",
@@ -504090,5 +504091,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
