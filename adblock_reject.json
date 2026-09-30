@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -417619,6 +417620,7 @@
         "scout.bergfreunde.nl",
         "scout.bergfreunde.no",
         "scout.bergfreunde.se",
+        "scout.data.funkedigital.de",
         "scp.deltadentalwa.com",
         "scpzx.traxxas.com",
         "screen.buzzvil.com",
@@ -432675,6 +432677,7 @@
         "sp.courierpress.com",
         "sp.dailyrecord.com",
         "sp.dailyworld.com",
+        "sp.data.funkedigital.de",
         "sp.delawareonline.com",
         "sp.delmarvanow.com",
         "sp.democratandchronicle.com",
@@ -504099,6 +504102,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
