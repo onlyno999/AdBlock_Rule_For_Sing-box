@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -332808,6 +332809,7 @@
         "heartsdesireintl.heartsdesireintl.com",
         "heathrow.tt.omtrdc.net",
         "heatmap-events-collector.instapage.com",
+        "heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev",
         "heatmap.emma.tools",
         "heatmap.support-inc.co.jp",
         "heatoor-ss.primeshopers.com",
@@ -504114,6 +504116,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
