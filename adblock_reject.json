@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -38395,6 +38394,7 @@
         "boelsl.lastijerasmagicas.com",
         "boewzj.meiji-jisho.com",
         "bogcig.blockofgear.com",
+        "boggindesire.com",
         "bohee.med-gesund.de",
         "bohexim.myavlive.com",
         "bohusbioalli132.myavlive.com",
@@ -504118,5 +504118,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
