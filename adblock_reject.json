@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -88029,6 +88028,7 @@
         "druckerpatronen1.net.daraz.com",
         "drude.physik.tt.omtrdc.net",
         "drudger.tt.omtrdc.net",
+        "drug.shrillyclose.com",
         "drugfree.tt.omtrdc.net",
         "drugname-ai-uat-1a.tt.omtrdc.net",
         "drugtest.questdiagnostics.com",
@@ -292184,6 +292184,7 @@
         "evs.data.ciceksepeti.com",
         "evs.microntechnology.tt.omtrdc.net",
         "evs.segment.complex.com",
+        "evs.segwww.incident.io",
         "evs.sgmt.loom.com",
         "evs0017-3.tt.omtrdc.net",
         "evs882001.tt.omtrdc.net",
@@ -504119,5 +504120,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
