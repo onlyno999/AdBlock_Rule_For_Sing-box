@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25973,6 +25974,7 @@
         "analytics.ikarao-shop.com",
         "analytics.ikyu.com",
         "analytics.infinitidesign.it",
+        "analytics.infomaniak.com",
         "analytics.infosys.com",
         "analytics.infosys.org",
         "analytics.infosysbpm.com",
@@ -37394,6 +37396,7 @@
         "bioshockconbert2mp3.net.daraz.com",
         "biot.byads.co",
         "bipog.perfectwhitetee.com",
+        "biprx.n12.co.il",
         "biqizo.vixpaulahermanny.com",
         "bird.brondby.com",
         "bird.hecten.com",
@@ -39967,6 +39970,7 @@
         "buaal.pharmacyonline.co.uk",
         "buacceptatieketns2.twteleacceptatieom.net.daraz.com",
         "buasmk.earthshoes.com",
+        "buballmighty.com",
         "bubasocks-ss.checkoutera.com",
         "bubasocks-ss.shopperoc.com",
         "bubblesmedia.ru",
@@ -79147,6 +79151,7 @@
         "disgbledns.emgilvision.net.daraz.com",
         "dish.com.sc.tt.omtrdc.net",
         "dish.com.ssl.sc.tt.omtrdc.net",
+        "dish.yippeeidle.com",
         "dishanalyticsandtest-profile.tt.omtrdc.net",
         "dishanalyticsandtest.info.tt.omtrdc.net",
         "dishanalyticsandtest.testing.tt.omtrdc.net",
@@ -399579,6 +399584,7 @@
         "one.nidec.com",
         "one.quotewizard.com",
         "one.rizqshopping.com",
+        "one01.stright.bizris.com",
         "one2.onestep.fr",
         "onebloodinc.tt.omtrdc.net",
         "onechartmail.northside.com",
@@ -431495,6 +431501,7 @@
         "smon.nativeamericanheritagemonth.gov",
         "smon.womenshistorymonth.gov",
         "smoot.egeyikesfet.com",
+        "smoothhmph.com",
         "smosh.share.ntv.io",
         "smp.tus.ac.jp",
         "smpl.hit.ppdb.pl",
@@ -504127,6 +504134,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
