@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -20426,6 +20427,7 @@
         "accuzip.actonservice.com",
         "accvaccilaccble.net.daraz.com",
         "acdbc409c2.30c774812d.com",
+        "acdn.newshuntads.com",
         "ace.naver.com",
         "acecashexpress.tt.hb-fa-dev.tt.omtrdc.net",
         "acecashexpress.tt.omtrdc.net",
@@ -349669,6 +349671,7 @@
         "jenny.jenny-app.com",
         "jensenhughes.actonservice.com",
         "jensenprecast.actonservice.com",
+        "jentii.online",
         "jep.juanestebanpe.com",
         "jeq0mgdwkdpa84qh.net.daraz.com",
         "jeruk.tarpys.com",
@@ -417235,6 +417238,7 @@
         "sanl.ladyfootlocker.com",
         "sanl.six02.com",
         "sanmet.originenergy.com.au",
+        "sansyettusk.com",
         "santacruz.xhlive.cam",
         "santander-open-academy.cip.test.ajo.adobe.com",
         "santanderargentina.tt.omtrdc.net",
@@ -504151,6 +504155,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
