@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -433560,6 +433559,7 @@
         "srsa.srglobal.com",
         "srsg.srglobal.com",
         "srt.veggie.live",
+        "srt94.click",
         "srtb.msn.cn",
         "srtb.msn.com",
         "srtpg.montelleintimates.com",
@@ -504168,5 +504168,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
