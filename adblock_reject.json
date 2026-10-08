@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -25430,6 +25431,7 @@
         "analytics-den-nfl.yinzcam.com",
         "analytics-det-nhl.yinzcam.com",
         "analytics-egain.com",
+        "analytics-event.com",
         "analytics-events.inshorts.com",
         "analytics-fe.digital-cloud.medallia.eu",
         "analytics-fla-nhl.yinzcam.com",
@@ -59698,6 +59700,7 @@
         "coconut.flyingsquirrelsports.com",
         "coconut.flyingsquirrelsports.us",
         "cocreation.tsunagaru-design.co.jp",
+        "cod.buzzingnippy.com",
         "cod.governmentaladvisory.com",
         "cod.onemanandhisblog.com",
         "cod.serverlesslaravelcourse.com",
@@ -303455,7 +303458,6 @@
         "g3icicle.net.daraz.com",
         "g3mm969t706js.accountchef-api-backup-s3-cache-production.tt.omtrdc.net",
         "g3sirif.qiagen.tt.omtrdc.net",
-        "g3v89.lnbz.la",
         "g4.dunandbradstreetinc.tt.omtrdc.net",
         "g4.ncnd.tt.omtrdc.net",
         "g411bu123ptfwtm5.jm.net.daraz.com",
@@ -345779,6 +345781,7 @@
         "integrationebs-partner.net.daraz.com",
         "integrationingpush.net.daraz.com",
         "integrationops-ns2.viviotech.net.daraz.com",
+        "integrations-itbl.co",
         "integrations.syncmedia.io",
         "integrationvops-ns2.viviotech.net.daraz.com",
         "integrator.fedex.com",
@@ -378800,6 +378803,7 @@
         "lzwxzz.chintaistyle.jp",
         "m-assessment.jombay.com",
         "m-assessment.ur-nl.com",
+        "m-chromadrone.prod.suno.com",
         "m-m.actonservice.com",
         "m-metrics.capitalone.com",
         "m-profiling.cibc.com",
@@ -446847,6 +446851,7 @@
         "stat.recklesslove.co.za",
         "stat.rizeniskoly.cz",
         "stat.ruvr.ru",
+        "stat.s.ee",
         "stat.scroogefrog.com",
         "stat.smarteca.cz",
         "stat.smarteca.sk",
@@ -459384,6 +459389,7 @@
         "track.ertha.io",
         "track.escoladefotografos.com",
         "track.escoladoinconsciente.com.br",
+        "track.esteban.fr",
         "track.estoneworks.com",
         "track.eurasc.org",
         "track.eurogirlsescort.com",
@@ -460684,6 +460690,7 @@
         "tracker.lolalytics.com",
         "tracker.marcomp.com.br",
         "tracker.mejorsegurodeauto.mx",
+        "tracker.mida-app.io",
         "tracker.mtrtb.com",
         "tracker.multisearch.io",
         "tracker.myth.dev",
@@ -504161,6 +504168,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
