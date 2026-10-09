@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -94376,6 +94377,7 @@
         "edge.marketing.email.nordstromrack.com",
         "edge.maxblue.de",
         "edge.mcgriff.com",
+        "edge.meadowwhat.com",
         "edge.miles-and-more-kreditkarte.com",
         "edge.moderncooking.com",
         "edge.movietimetv.ca",
@@ -504168,6 +504170,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
