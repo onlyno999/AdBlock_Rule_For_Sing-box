@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -54864,6 +54863,7 @@
         "cdn.defractal.com",
         "cdn.delutza.com",
         "cdn.designs.21.auth-resolveann.share.ntv.io",
+        "cdn.dezacibesodexi.com",
         "cdn.dfsdk.com",
         "cdn.djtig.com",
         "cdn.dminorschool.com",
@@ -501168,6 +501168,7 @@
         "tracking.brgeneral.org",
         "tracking.brice.fr",
         "tracking.bristol-sport.co.uk",
+        "tracking.broadpeak.io",
         "tracking.bt-blue.com",
         "tracking.bugece.co",
         "tracking.burningbutter.com",
@@ -545000,5 +545001,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
