@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -27347,6 +27346,7 @@
         "ads-nginx.altad.share.ntv.io",
         "ads-partners.coupang.com",
         "ads-privacy-api.prd.mz.internal.unity3d.com",
+        "ads-proxy-aka.prod.bo.canal.canalplustech.pro",
         "ads-resources.waze.com",
         "ads-router-noneu.truecaller.com",
         "ads-sdk.mattel163.com",
@@ -354054,6 +354054,7 @@
         "gpplus-app.hotdoc.com.au",
         "gprincebalid3.click.s11.sfmc-osl.com",
         "gps.jvrconsultinginc.com",
+        "gpskeeper.popinfo.jp",
         "gpt.throatbulge.com",
         "gpt.tubetruck.com",
         "gptsb.thrivecausemetics.com",
@@ -545002,5 +545003,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
