@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -68754,6 +68753,7 @@
         "config.sound.ag",
         "config.tattilashes.com",
         "config.toto.zipoapps.com",
+        "config.trackingplan.com",
         "config.tremorhub.com",
         "config.venuesearchlondon.com",
         "config.verizontelecom.tt.omtrdc.net",
@@ -318844,6 +318844,7 @@
         "eu-teitelbaum.citizensbank.tt.omtrdc.net",
         "eu-test.eu-central-1.mboxedge1.tt-qe5.omtrdc.net",
         "eu-test.login.account.tt.omtrdc.net",
+        "eu-tracks.trackingplan.com",
         "eu-trn-api.tt-stage3.omtrdc.net",
         "eu-u.tt.omtrdc.net",
         "eu-ucservices-eu01.tt.omtrdc.net",
@@ -410229,6 +410230,7 @@
         "log.minitab.tt.omtrdc.net",
         "log.mix.sina.com.cn",
         "log.mobilebanking.tt.omtrdc.net",
+        "log.mopo.de",
         "log.motortrend-adsfortune.share.ntv.io",
         "log.motortrend.fortune.share.ntv.io",
         "log.musical.ly",
@@ -502779,6 +502781,7 @@
         "tracks.davidkingsbury.co.uk",
         "tracks.new-statement.com",
         "tracks.roomster.com",
+        "tracks.trackingplan.com",
         "tracks.tt.omtrdc.net",
         "tracks1.ferrari.com",
         "tracks3.ferrari.com",
@@ -545294,5 +545297,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
