@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -428737,6 +428736,7 @@
         "mxoqqu.uniwigs.com",
         "mxpdsu.bhv.fr",
         "mxpl.9gag.com",
+        "mxqdpxzybpx.com",
         "mxro404jyfkxekbo.administrators.net.daraz.com",
         "mxslobalid3.click.s11.sfmc-osl.com",
         "mxsvjc.hackers.ac",
@@ -451224,6 +451224,7 @@
         "rfmqx.tanga.com",
         "rfnhj.sleeponchime.com",
         "rfp.intuit.com",
+        "rfsdvudff.com",
         "rfsquk.medicaresavingslab.com",
         "rfss.russellfinex.com",
         "rfssm.iliabeauty.com",
@@ -545302,5 +545303,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
