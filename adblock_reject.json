@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -48149,6 +48148,7 @@
         "bounce2.ews.tt.omtrdc.net",
         "bounce4.intersect.tt.omtrdc.net",
         "bounce5.intersect.tt.omtrdc.net",
+        "bouncex.net",
         "bountyparents.e.aremedia.com.au",
         "boursesstage.staging.lagu123.net.daraz.com",
         "boursesstageonbert2mp3.net.daraz.com",
@@ -571681,5 +571681,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
