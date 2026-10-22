@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -39267,6 +39268,7 @@
         "applytics.napps-1.com",
         "applytics.nordvpn.com",
         "applytics.os4work.com",
+        "applytics.zwyr157wwiu6eior.com",
         "applzr.com",
         "appmail.castlegroup.com",
         "appmail.corazonpuro.org",
@@ -409128,6 +409130,7 @@
         "kzcsv.ehplabs.sg",
         "kzdmci.masku.com",
         "kzdveja5w2m3ivg-c.adkclicker.fr",
+        "kzeaxmzil.in",
         "kzfkau.wlw.at",
         "kzfms07-ddns.net.daraz.com",
         "kzgcq.hero.co",
@@ -411649,6 +411652,7 @@
         "line1-log.biligame.net",
         "lineadirectaes.tt.omtrdc.net",
         "lineartechnik.item24.de",
+        "linecrs.line-scdn.net",
         "linemark.actonservice.com",
         "linen.allevyacomfortco.com",
         "lineside.networkrail.co.uk",
@@ -476797,6 +476801,7 @@
         "rtb.julang.taobao.com",
         "rtb.klico.link",
         "rtb.nativeads.com",
+        "rtb.nefta.app",
         "rtb.nowsrv.com",
         "rtb.nuismak.com",
         "rtb.optidigital.com",
@@ -571836,6 +571841,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
