@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -519630,6 +519629,7 @@
         "thomsonreuters.tt.omtrdc.net",
         "thongke.24h.com.vn",
         "thor.corsetdealus.happycustomer.io",
+        "thoroughgear.com",
         "thoughtful072925.shop",
         "thoughtfulmedia.actonservice.com",
         "thoughtworks.tt.omtrdc.net",
@@ -571850,5 +571850,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
