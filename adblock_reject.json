@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -88009,6 +88008,7 @@
         "collect.peek-cloppenburg.pl",
         "collect.pipekit.co.uk",
         "collect.pollentjek.dk",
+        "collect.pravdastat.com",
         "collect.premiere-urgence.org",
         "collect.printera.lt",
         "collect.purple.com",
@@ -88301,6 +88301,7 @@
         "comastaram.dcsportal.0-astrologie-push-de-drzlive.net.daraz.com",
         "comatmoviehd.net.daraz.com",
         "comatsu.myavlive.com",
+        "combatbaskstationery.com",
         "combimatrix.actonservice.com",
         "combinado.tt.omtrdc.net",
         "combinatorics.tt.omtrdc.net",
@@ -129650,6 +129651,7 @@
         "dumstums.myfamilycominc.tt.omtrdc.net",
         "dun.cms.tt.omtrdc.net",
         "dunandbradstreetinc.tt.omtrdc.net",
+        "dunanscastle.org",
         "dunboyne.tt.omtrdc.net",
         "dunbradstreet.tt.omtrdc.net",
         "dunbs.athome.tt.omtrdc.net",
@@ -646992,5 +646994,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
