@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -611129,6 +611128,7 @@
         "usp1.baidu.com",
         "uspartner.net.daraz.com",
         "uspplicustion-spring.net.daraz.com",
+        "usrpubtrck.com",
         "usrpubtrk.com",
         "uss5zgycx31jthk-p.unenoteunjour.fr",
         "ussco-dev.actonservice.com",
@@ -647012,5 +647012,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
