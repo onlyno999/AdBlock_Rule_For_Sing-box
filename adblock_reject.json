@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -425216,6 +425217,7 @@
         "goodluckboys.tt.omtrdc.net",
         "goodman-qa.tt.omtrdc.net",
         "goodnews2.goasrv.com",
+        "goodpics.net",
         "goods5ai.tt.omtrdc.net",
         "goodsam.net.daraz.com",
         "goodsamaritan-nsw.goasrv.com",
@@ -585297,6 +585299,7 @@
         "stats.circularfurniture.dk",
         "stats.citizenos.com",
         "stats.clavisaurea.xyz",
+        "stats.cleanip.io",
         "stats.clear-media.com",
         "stats.cleverdiabetic.com",
         "stats.cloudflex.team",
@@ -647022,6 +647025,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
