@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -590696,6 +590695,7 @@
         "tabkaadg7miudjrq.wlan.partner-bamboo.net.daraz.com",
         "tableau245.net.daraz.com",
         "tablesafe.actonservice.com",
+        "taboola-display.com",
         "taco.wahaca.co.uk",
         "tactical-avalt.share.ntv.io",
         "tactical-db.agenda.share.ntv.io",
@@ -647026,5 +647026,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
