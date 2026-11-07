@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -659963,7 +659964,6 @@
         "unsubscribe.e.gminsurance.com",
         "unsubscribe.e.silverfernfarms.com",
         "unsubscribe.e.wellcare.com",
-        "unsubscribe.email.premierleague.com",
         "unsubscribe.email.verizon.com",
         "unsubscribe.explore.westernsydney.edu.au",
         "unsubscribe.interbank.pe",
@@ -698245,6 +698245,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
