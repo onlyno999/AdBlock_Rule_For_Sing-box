@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -107316,6 +107315,7 @@
         "collector.scopely.io",
         "collector.shopstream.co",
         "collector.shorte.st",
+        "collector.snowplow.supercell.com",
         "collector.snplow.net",
         "collector.statowl.com",
         "collector.superwall.me",
@@ -567458,6 +567458,7 @@
         "mkt.soprema.es",
         "mkt.sparkjapan.co.jp",
         "mkt.starmeup.com",
+        "mkt.supercell.com",
         "mkt.syleg.fr",
         "mkt.t2o.com",
         "mkt.telstar.com",
@@ -698245,5 +698246,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
