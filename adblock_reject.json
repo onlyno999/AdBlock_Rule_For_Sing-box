@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -53438,6 +53437,7 @@
         "analytics.recruitics.com",
         "analytics.red.co.uk",
         "analytics.redbubble.com",
+        "analytics.redflix.ac",
         "analytics.redistributemag.com",
         "analytics.regex101.com",
         "analytics.regnskabshelten.dk",
@@ -550550,6 +550550,7 @@
         "lvx6gjvatruyw9n-p.adkoffer.fr",
         "lvxuiremkv92e715k2jt.zg6ucmy6jp8tumlo6t4.cfd",
         "lw-c-log.lastwarapp.com",
+        "lw-c-log.lastwarapp.net",
         "lw.b.inhaabit.com",
         "lwadm.com",
         "lwashh.hessischer-jobanzeiger.de",
@@ -590355,6 +590356,7 @@
         "pp12.conf.19.altad.share.ntv.io",
         "pp3-sdk-api.profilepassport.jp",
         "pp3-sdkdata-v2-ut.profilepassport.jp",
+        "pp3-sdkdata-v2.profilepassport.jp",
         "ppadv.actonservice.com",
         "ppao.usw.coherentbody.com",
         "ppapache.altad.share.ntv.io",
@@ -636414,6 +636416,7 @@
         "stats.velodirbtuve.lt",
         "stats.victor-giroud.fr",
         "stats.vidalytics.com",
+        "stats.vidbolt.pro",
         "stats.video.globo.com",
         "stats.video.search.yahoo.com",
         "stats.videodelivery.net",
@@ -639601,6 +639604,7 @@
         "t.gainbenelux.com",
         "t.gainium.io",
         "t.galtuer.com",
+        "t.games.gg",
         "t.gardslunden.se",
         "t.garmentsystem.com",
         "t.gazyva.com",
@@ -653255,6 +653259,7 @@
         "tracklabs.zenviaahome.com",
         "tracklabs.zenvorafit.com",
         "trackler-autumn.net.daraz.com",
+        "tracklet.prod.tech.as-nmt.de",
         "tracklocalhost.staging.net.daraz.com",
         "trackmail.festilight.fr",
         "trackmailgun.lojel.com",
@@ -698247,5 +698252,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
