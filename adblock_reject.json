@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -49041,6 +49042,7 @@
         "advertising-stage-stageconbert2mp3.net.daraz.com",
         "advertising-stage.stage-damxx.net.daraz.com",
         "advertising-stagestagingmr.net.daraz.com",
+        "advertising.amazon.dev",
         "advertising.berlingskemedia.dk",
         "advertising.com",
         "advertising.goldseek.com",
@@ -52664,7 +52666,6 @@
         "analytics.churchthemes.com",
         "analytics.churchtools.website",
         "analytics.churnzero.net",
-        "analytics.cibc.com",
         "analytics.cibcrewards.com",
         "analytics.cinematoday.jp",
         "analytics.cirroenergy.com",
@@ -59524,6 +59525,7 @@
         "artifactory.stripchat.style",
         "artisan.actonservice.com",
         "artistchristinacarmel.ericksonbuilt.com",
+        "artjnley.com",
         "artunis.xham.live",
         "artuthorizarttion.summer.net.daraz.com",
         "artvani-vani.xham.live",
@@ -112806,6 +112808,7 @@
         "cool.openpo.st",
         "cool.tannenbusch.info",
         "cool3c3c-satta.net.daraz.com",
+        "coolaspen.tech",
         "coolbuy.go-static.info",
         "cooldog.realtyforum360.com",
         "cooler-spare-15.accountcatalogue.tt.omtrdc.net",
@@ -434341,6 +434344,7 @@
         "fancyapi.com",
         "fancybox.elal.tt.omtrdc.net",
         "fancydsp.com",
+        "fancyotter.me",
         "fancyrat.calebporzio.com",
         "fancyrat.flatuicolors.com",
         "fancyrat.keurslager-goeminne.be",
@@ -439353,6 +439357,7 @@
         "fine.youngwellbeinghub.co.uk",
         "fineart.go-static.info",
         "fineart.ss.dimanoinmano.it",
+        "finebucket.info",
         "finediamondsofatlanta.tt.omtrdc.net",
         "finelight.tt.omtrdc.net",
         "finenovembre.tt.omtrdc.net",
@@ -699620,6 +699625,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
