@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -645121,6 +645120,7 @@
         "tfzjaf.loveparis.net",
         "tfzzy4objtvy6.hlzn71bh261zzgrtx8vklvgp3q.cyou",
         "tg.coffeeandbibletime.com",
+        "tg.finance.ua",
         "tg.meitu.com",
         "tg.minfin.com.ua",
         "tg.vartesan.com.br",
@@ -699625,5 +699625,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
