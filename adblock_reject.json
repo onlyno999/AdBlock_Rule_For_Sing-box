@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -608776,7 +608775,6 @@
         "sggqj.drakes.com",
         "sgh.schweighofer.com",
         "sghug.jonesroadbeauty.com",
-        "sgimage.netmarble.com",
         "sgimo.gimofirst.com",
         "sgkazt.xlmoto.de",
         "sgm.kingz.co.uk",
@@ -699631,5 +699629,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
