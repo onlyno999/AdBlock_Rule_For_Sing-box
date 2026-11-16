@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -573173,6 +573174,7 @@
         "nalpha.mobilecl.bellsouth.net.daraz.com",
         "namazonwebservicesinc.tt.omtrdc.net",
         "namcah.alipearlhair.com",
+        "namebrain.org",
         "nami.arena.dog",
         "namrah.somervillewatchco.com",
         "namrinfo.motorolasolutions.com",
@@ -637164,6 +637166,7 @@
         "stats.pronouns.page",
         "stats.propublica.org",
         "stats.protoelectro.com",
+        "stats.proxypurity.com",
         "stats.psychotherapieravensburg.de",
         "stats.psykedeliskportal.dk",
         "stats.pttrn.io",
@@ -697007,6 +697010,7 @@
         "zioxmo4foeo4dmv4.net.daraz.com",
         "zipkin.fikfapcams.com",
         "zipkin.sc7.com",
+        "zipzirim.com",
         "ziqrso.24mx.no",
         "zismc.trygoomz.com",
         "zispj.skinlaundry.com",
@@ -699632,6 +699636,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
