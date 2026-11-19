@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -106979,6 +106980,7 @@
         "cogent.mboxedge34-alb02.tt.omtrdc.net",
         "cognify.tt-qe-ci1.omtrdc.net",
         "cognition.tt-qe2.omtrdc.net",
+        "cognitivlabs.com",
         "cognito-idp.tt-qe2.omtrdc.net",
         "cognitohq.makemytrip.tt.omtrdc.net",
         "cognizantsolutions.hdfclife.tt.omtrdc.net",
@@ -595418,6 +595420,7 @@
         "rain.franzy.com",
         "rain.journey.com",
         "rainbow-prod-jdlog.ldoverseas.com",
+        "rainbow.sheepesports.com",
         "rainmaker.production-public.tubi.io",
         "rainmaker4.production-public.tubi.io",
         "raio.obraxray.com",
@@ -699640,6 +699643,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
