@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -515398,6 +515399,7 @@
         "hxe1grkqql2xtnfa.ae29-sjc12-dr01.net.daraz.com",
         "hxe1grkqql2xtnfa.net.daraz.com",
         "hxe1grkqql2xtnfa.wlan-switch.partner.nautilus.net.daraz.com",
+        "hxgnwrwslhzgrmjsfvdevrjpn.com",
         "hxiabp.colins.com.tr",
         "hxkxea.automotordursan.com",
         "hxme.127.0.0.1stampscom.tt.omtrdc.net",
@@ -651107,6 +651109,7 @@
         "ry.regianfrisure.cfd",
         "ry0.rythmefm.com",
         "ry2.aida.tt.omtrdc.net",
+        "ry6wy3dr62usd0fnicfk.com",
         "rya.tt.omtrdc.net",
         "ryan.hyattcorporation.tt.omtrdc.net",
         "ryanair.com.ssl.d3.sc.tt.omtrdc.net",
@@ -784980,6 +784983,5 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
